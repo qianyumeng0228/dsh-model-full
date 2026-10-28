@@ -350,7 +350,15 @@ func webServed(port, key string, keep time.Duration, page http.Handler) http.Han
 
 // webHandler is what `magpie web` on port serves: the page and its API
 // behind the key, compressed for the browser.
+//
+// MAGPIE_WEB_OPEN=1 skips the key entirely (no cookie needed): the page is
+// then usable from any frame, e.g. a plugin's iframe on a custom scheme
+// where SameSite cookies would never be stored. Only meaningful when the
+// page listens on loopback — the caller already binds the listen address.
 func webHandler(port, key string, keep time.Duration, page http.Handler) http.Handler {
+	if os.Getenv("MAGPIE_WEB_OPEN") == "1" {
+		return webCompressed(page)
+	}
 	return webCompressed(webGuard("magpie_web_"+port, key, keep, page))
 }
 
