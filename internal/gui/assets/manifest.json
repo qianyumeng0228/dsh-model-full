@@ -1,6 +1,6 @@
 {
-  "name": "magpie",
-  "short_name": "magpie",
+  "name": "model-full",
+  "short_name": "model-full",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
