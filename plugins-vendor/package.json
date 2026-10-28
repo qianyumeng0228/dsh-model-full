@@ -1,0 +1,30 @@
+{
+  "name": "magpie-plugins",
+  "private": true,
+  "dependencies": {
+    "@magpie-community/opencode-cline-auth": "^0.1.11",
+    "@magpie-community/opencode-cloudflare-workers-ai-auth": "./dist/magpie-community-opencode-cloudflare-workers-ai-auth-0.0.4.tgz",
+    "@magpie-community/opencode-codearts-auth": "./dist/magpie-community-opencode-codearts-auth-0.2.4.tgz",
+    "@magpie-community/opencode-commandcode-auth": "^0.1.17",
+    "@magpie-community/opencode-copilot-auth": "./dist/magpie-community-opencode-copilot-auth-0.1.0.tgz",
+    "@magpie-community/opencode-cursor-auth": "0.2.30",
+    "@magpie-community/opencode-devin-auth": "^0.1.25",
+    "@magpie-community/opencode-factory-auth": "^0.1.38",
+    "@magpie-community/opencode-joycode-auth": "./dist/magpie-community-opencode-joycode-auth-0.2.0.tgz",
+    "@magpie-community/opencode-kimi-work-auth": "./dist/magpie-community-opencode-kimi-work-auth-0.1.14.tgz",
+    "@magpie-community/opencode-kiro-auth": "^0.1.18",
+    "@magpie-community/opencode-mimo-auth": "^0.1.9",
+    "@magpie-community/opencode-minimax-auth": "^0.1.7",
+    "@magpie-community/opencode-nous-auth": "./dist/magpie-community-opencode-nous-auth-0.1.1.tgz",
+    "@magpie-community/opencode-opendesign-auth": "^0.1.7",
+    "@magpie-community/opencode-qoder-auth": "0.2.47",
+    "@magpie-community/opencode-raccoon-auth": "./dist/magpie-community-opencode-raccoon-auth-0.1.4.tgz",
+    "@magpie-community/opencode-trae-auth": "0.2.24",
+    "@magpie-community/opencode-workbuddy-auth": "0.1.45",
+    "@magpie-community/opencode-zcode-auth": "^0.1.33",
+    "@magpie-community/opencode-zed-auth": "^0.1.11",
+    "@magpie-community/opencode-zen-free-auth": "0.1.17",
+    "magpie-our-free-model": "github:mu-zi-lee/magpie-our-free-model",
+    "officeace-auth": "^0.1.12"
+  }
+}

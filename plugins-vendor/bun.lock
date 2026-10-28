@@ -1,0 +1,84 @@
+{
+  "lockfileVersion": 2,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "magpie-plugins",
+      "dependencies": {
+        "@magpie-community/opencode-cline-auth": "^0.1.11",
+        "@magpie-community/opencode-cloudflare-workers-ai-auth": "./dist/magpie-community-opencode-cloudflare-workers-ai-auth-0.0.4.tgz",
+        "@magpie-community/opencode-codearts-auth": "./dist/magpie-community-opencode-codearts-auth-0.2.4.tgz",
+        "@magpie-community/opencode-commandcode-auth": "^0.1.17",
+        "@magpie-community/opencode-copilot-auth": "./dist/magpie-community-opencode-copilot-auth-0.1.0.tgz",
+        "@magpie-community/opencode-cursor-auth": "0.2.30",
+        "@magpie-community/opencode-devin-auth": "^0.1.25",
+        "@magpie-community/opencode-factory-auth": "^0.1.38",
+        "@magpie-community/opencode-joycode-auth": "./dist/magpie-community-opencode-joycode-auth-0.2.0.tgz",
+        "@magpie-community/opencode-kimi-work-auth": "./dist/magpie-community-opencode-kimi-work-auth-0.1.14.tgz",
+        "@magpie-community/opencode-kiro-auth": "^0.1.18",
+        "@magpie-community/opencode-mimo-auth": "^0.1.9",
+        "@magpie-community/opencode-minimax-auth": "^0.1.7",
+        "@magpie-community/opencode-nous-auth": "./dist/magpie-community-opencode-nous-auth-0.1.1.tgz",
+        "@magpie-community/opencode-opendesign-auth": "^0.1.7",
+        "@magpie-community/opencode-qoder-auth": "0.2.47",
+        "@magpie-community/opencode-raccoon-auth": "./dist/magpie-community-opencode-raccoon-auth-0.1.4.tgz",
+        "@magpie-community/opencode-trae-auth": "0.2.24",
+        "@magpie-community/opencode-workbuddy-auth": "0.1.45",
+        "@magpie-community/opencode-zcode-auth": "^0.1.33",
+        "@magpie-community/opencode-zed-auth": "^0.1.11",
+        "@magpie-community/opencode-zen-free-auth": "0.1.17",
+        "magpie-our-free-model": "github:mu-zi-lee/magpie-our-free-model",
+        "officeace-auth": "^0.1.12",
+      },
+    },
+  },
+  "packages": {
+    "@magpie-community/opencode-cline-auth": ["@magpie-community/opencode-cline-auth@0.1.11", "https://registry.npmmirror.com/@magpie-community/opencode-cline-auth/-/opencode-cline-auth-0.1.11.tgz", {}, "sha512-Xmn0New553PCW5mmd9N/oaVq00bxrbI7N5lWdvXAciXvqmV5vHWBrmpxOv7dCMLa+A3/KDHmhXR68BfHes8iSA=="],
+
+    "@magpie-community/opencode-cloudflare-workers-ai-auth": ["@magpie-community/opencode-cloudflare-workers-ai-auth@./dist/magpie-community-opencode-cloudflare-workers-ai-auth-0.0.4.tgz", {}, "sha512-ZBL2kqkpP8QFv63LkxHHi6bB0gXqO2ZBfGj1/CYTM016Zw0Sm08N3Kok5sTeqvVeU2OXLcM3nM2du5BDZjSFXQ=="],
+
+    "@magpie-community/opencode-codearts-auth": ["@magpie-community/opencode-codearts-auth@./dist/magpie-community-opencode-codearts-auth-0.2.4.tgz", {}, "sha512-F3hqBwFr7ioj5G9HtO9cXAOznz4YOQRvquWQbO1TULL9Qj/wv5jEF28tFBGb1WFLbkXLSeGyg4yY5fNJVndjXA=="],
+
+    "@magpie-community/opencode-commandcode-auth": ["@magpie-community/opencode-commandcode-auth@0.1.17", "https://registry.npmmirror.com/@magpie-community/opencode-commandcode-auth/-/opencode-commandcode-auth-0.1.17.tgz", {}, "sha512-4IkkHve+rUkz6KYBZWQ1tIlFF7r8fpRf/kUOV1tgCddTLWgfXMQ2sBOTDznY5hiEpyyqqnBLqYNydAWy4qJLIA=="],
+
+    "@magpie-community/opencode-copilot-auth": ["@magpie-community/opencode-copilot-auth@./dist/magpie-community-opencode-copilot-auth-0.1.0.tgz", {}, "sha512-7J3qtSSdBiQbFxP3VHyvZWMfOVCiPEP0KJA4Fw2wC+50/st6K487u98dlIT30xrOYzVeBajc5/dSs/Xzc41V8g=="],
+
+    "@magpie-community/opencode-cursor-auth": ["@magpie-community/opencode-cursor-auth@0.2.30", "https://registry.npmmirror.com/@magpie-community/opencode-cursor-auth/-/opencode-cursor-auth-0.2.30.tgz", {}, "sha512-YE5BE5H/Q1ic/s/imCx4p3zLqyc+qFfjxvJp+pOl6nDSH1tDlYcHMbFTLB706YScy84bOJb8L6HXHK1NANicyA=="],
+
+    "@magpie-community/opencode-devin-auth": ["@magpie-community/opencode-devin-auth@0.1.25", "https://registry.npmmirror.com/@magpie-community/opencode-devin-auth/-/opencode-devin-auth-0.1.25.tgz", {}, "sha512-M4lX8hCxB0T7eBjDEZBhZaghkZEUQWwD7Fy8IR6I3HV1AuPCtMP4Q5y52K/jN8BORjzaYBPa5oW8dXifb/5Yrw=="],
+
+    "@magpie-community/opencode-factory-auth": ["@magpie-community/opencode-factory-auth@0.1.38", "https://registry.npmmirror.com/@magpie-community/opencode-factory-auth/-/opencode-factory-auth-0.1.38.tgz", {}, "sha512-z/YfL/Few12Aeh0+REFSW/hqMcC6IynG/ypplP7wUX8Z3+pdecOOWGdl+d1HLxYLD10wJ6pohxd96aVG0j1vCQ=="],
+
+    "@magpie-community/opencode-joycode-auth": ["@magpie-community/opencode-joycode-auth@./dist/magpie-community-opencode-joycode-auth-0.2.0.tgz", {}, "sha512-lVTn5dKv+1kl4Cc/CN8EOLIR3M7ZeH4NRRZOQVCsPijFEtJN9MkpYvUWYPtHfd83109B3EZpb3FN/Lwd1VYP8g=="],
+
+    "@magpie-community/opencode-kimi-work-auth": ["@magpie-community/opencode-kimi-work-auth@./dist/magpie-community-opencode-kimi-work-auth-0.1.14.tgz", {}, "sha512-BaaOPPe2xIlhl2omBpu+texFIZoN+YSAbFNiBaThQ26B7hPZppSkkfR7SKyvKJ0mA096zobXYaSaSjwgnZQ9tw=="],
+
+    "@magpie-community/opencode-kiro-auth": ["@magpie-community/opencode-kiro-auth@0.1.18", "https://registry.npmmirror.com/@magpie-community/opencode-kiro-auth/-/opencode-kiro-auth-0.1.18.tgz", {}, "sha512-hABZq77KWvbRDu/9q1jaFJKm5qJSAQNJ7PuV++HseBf+37VWJ5LkbVRg0DM68Z23lYiu/345pXPuBxRv4auiww=="],
+
+    "@magpie-community/opencode-mimo-auth": ["@magpie-community/opencode-mimo-auth@0.1.9", "https://registry.npmmirror.com/@magpie-community/opencode-mimo-auth/-/opencode-mimo-auth-0.1.9.tgz", {}, "sha512-HpmArQJc+vXVoz1ly1qKKcWyfgx7AzVaqG0ZT+Mc/3hWrrSEbo9xF1QfMx77WlGIVbP6AQefbvdd4ojRPcBkKw=="],
+
+    "@magpie-community/opencode-minimax-auth": ["@magpie-community/opencode-minimax-auth@0.1.7", "https://registry.npmmirror.com/@magpie-community/opencode-minimax-auth/-/opencode-minimax-auth-0.1.7.tgz", {}, "sha512-5Bf79PNY3wtzP9mSvgAO4BHtJUgKX5psks7HOpMSxfk+Nz5Y6niavuyG6VsCWZqEMJSGLVZU7JptHOwNr76uew=="],
+
+    "@magpie-community/opencode-nous-auth": ["@magpie-community/opencode-nous-auth@./dist/magpie-community-opencode-nous-auth-0.1.1.tgz", {}, "sha512-nttpGYWGj7FlGN1OsyjENntW1S7Y0xM0Eo8p4B+EacLtCiXCoARjkgwnGFYyv50eMgUcikMKV4oM68wQ8+dCKw=="],
+
+    "@magpie-community/opencode-opendesign-auth": ["@magpie-community/opencode-opendesign-auth@0.1.7", "https://registry.npmmirror.com/@magpie-community/opencode-opendesign-auth/-/opencode-opendesign-auth-0.1.7.tgz", {}, "sha512-15u2tEraEnAWnTFQCdbM01BfLVVdGN1R7rQReAzp1tfIdqed5706+r0Cb3zSeEnkToX7ozVWf76/b2TOrrKrnA=="],
+
+    "@magpie-community/opencode-qoder-auth": ["@magpie-community/opencode-qoder-auth@0.2.47", "https://registry.npmmirror.com/@magpie-community/opencode-qoder-auth/-/opencode-qoder-auth-0.2.47.tgz", {}, "sha512-cUaAcJxlJQwM0glz+lj4RVzrWvcASL9Kxzw4XWG0MqogaX/Pz4dTIR4+mxSA7pzyHxupqH2olmCpPe1J43hfEA=="],
+
+    "@magpie-community/opencode-raccoon-auth": ["@magpie-community/opencode-raccoon-auth@./dist/magpie-community-opencode-raccoon-auth-0.1.4.tgz", {}, "sha512-Mdq6NReWcRDAbVeuh3MpT6t9Pu5azzcpqAz4+jFY7gyH6TTZa+y4m23QYd91W0Gn5/9YrG749U0xjQiaJYchdw=="],
+
+    "@magpie-community/opencode-trae-auth": ["@magpie-community/opencode-trae-auth@0.2.24", "https://registry.npmmirror.com/@magpie-community/opencode-trae-auth/-/opencode-trae-auth-0.2.24.tgz", {}, "sha512-zEA56qUbw5cK52FA0JBGN9d8tV0KZfxQ7X9HHF51b3MGid2B7m/Ve0mQkahFeKkXQURQ+zM8KZd4KD8gWq9Deg=="],
+
+    "@magpie-community/opencode-workbuddy-auth": ["@magpie-community/opencode-workbuddy-auth@0.1.45", "https://registry.npmmirror.com/@magpie-community/opencode-workbuddy-auth/-/opencode-workbuddy-auth-0.1.45.tgz", {}, "sha512-cA2hXTehCvTW+OW59aMNiYy5HLWEZZ7bBYLeWcVLfKt0oYXm7/xX4SEsRYGV2orpfM8qoF6g2CIxqe25wV4WSQ=="],
+
+    "@magpie-community/opencode-zcode-auth": ["@magpie-community/opencode-zcode-auth@0.1.33", "https://registry.npmmirror.com/@magpie-community/opencode-zcode-auth/-/opencode-zcode-auth-0.1.33.tgz", {}, "sha512-UtYqHcNgv+lXPxHYT4Zwedq3/c24bO3nYlB9enwChosI2z+KfGbCCFDAi3DmRIdIgQh591lScW16Us9Zp8xccQ=="],
+
+    "@magpie-community/opencode-zed-auth": ["@magpie-community/opencode-zed-auth@0.1.11", "https://registry.npmmirror.com/@magpie-community/opencode-zed-auth/-/opencode-zed-auth-0.1.11.tgz", {}, "sha512-IDecnrR2c7G0Vs8ibnCiu8KiyceHp0HFPiyyMYAN3L68ugmU13/UCXJB79Za+4jhkKb7Xsnd7vZgF5NObAphzA=="],
+
+    "@magpie-community/opencode-zen-free-auth": ["@magpie-community/opencode-zen-free-auth@0.1.17", "https://registry.npmmirror.com/@magpie-community/opencode-zen-free-auth/-/opencode-zen-free-auth-0.1.17.tgz", {}, "sha512-rj7Kcj90Z39ifSCOB6qCfqUu7l2o8vMe5felgZQW0l3URdJG0LIRjtpW7mCn+87c7byD6qWF26txbN53wE1jLw=="],
+
+    "magpie-our-free-model": ["magpie-our-free-model@github:mu-zi-lee/magpie-our-free-model#e1a9b25", {}, "mu-zi-lee-magpie-our-free-model-e1a9b25", "sha512-Gt+7d8b1dhJ0efzqGzZrmvBluqkcmdEIdxFldQ0zgYWGlXC5T6kSgww+jN4cFlRlDQOSjloUMVIGHFsm615tNg=="],
+
+    "officeace-auth": ["officeace-auth@0.1.12", "https://registry.npmmirror.com/officeace-auth/-/officeace-auth-0.1.12.tgz", {}, "sha512-4FI4q+vYQ6UHHM4udapNe6OppdoAWzdVz5bnDwFMHaUVTeMqQ1hIDoGD/pmCyT7zJ48+XNw9Gdq/7mbwq71Kng=="],
+  }
+}
