@@ -296,20 +296,20 @@
     "desc": "magpie / OpenCode provider plugin for NetEase Youdao LobsterAI (有道龙虾)"
   },
   {
-    "name": "MYCF711/magpie-magicrew-auth",
-    "clone": "https://github.com/MYCF711/magpie-magicrew-auth.git",
-    "branch": "main",
-    "sizeKB": 1245,
-    "updated": "2026-10-28T23:51:28Z",
-    "desc": "Magicrew / super-magic (letsmagic.cn) provider for magpie and OpenCode"
-  },
-  {
     "name": "bingqilinweimaotai/magpie-github-sync-plugin",
     "clone": "https://github.com/bingqilinweimaotai/magpie-github-sync-plugin.git",
     "branch": "main",
     "sizeKB": 296,
     "updated": "2026-10-27T06:02:52Z",
     "desc": "Magpie 内置 GitHub 同步的增强版后续维护，优化实现和体验。"
+  },
+  {
+    "name": "MYCF711/magpie-magicrew-auth",
+    "clone": "https://github.com/MYCF711/magpie-magicrew-auth.git",
+    "branch": "main",
+    "sizeKB": 1245,
+    "updated": "2026-10-29T00:06:41Z",
+    "desc": "Magicrew / super-magic (letsmagic.cn) provider for magpie and OpenCode"
   },
   {
     "name": "aqiu817/magpie-atomcode",
@@ -528,20 +528,12 @@
     "desc": "R4 Coder provider plugin for magpie: API-key sign-in; live model catalog and usage card."
   },
   {
-    "name": "chengyixu/magpie-freebuff",
-    "clone": "https://github.com/chengyixu/magpie-freebuff.git",
+    "name": "CodingChiao/magpie-muse-code",
+    "clone": "https://github.com/CodingChiao/magpie-muse-code.git",
     "branch": "main",
-    "sizeKB": 9,
-    "updated": "2026-10-26T06:41:49Z",
-    "desc": "Freebuff provider plugin for Magpie and OpenCode"
-  },
-  {
-    "name": "zhou0928/magpie-retry",
-    "clone": "https://github.com/zhou0928/magpie-retry.git",
-    "branch": "main",
-    "sizeKB": 22,
-    "updated": "2026-10-28T01:00:39Z",
-    "desc": "A circuit breaker for magpie's gateway: a model that keeps failing rests for a while; refused at once with a 429 so the agent retries on its own backoff."
+    "sizeKB": 33,
+    "updated": "2026-10-23T17:07:44Z",
+    "desc": "Magpie plugin for Meta One / Muse Code: device-code sign-in; Codex apply_patch & web search; 5h/7d subscription usage"
   },
   {
     "name": "SadWood/magpie-gaccode",
@@ -568,20 +560,28 @@
     "desc": "解决远程开发问题"
   },
   {
-    "name": "CodingChiao/magpie-muse-code",
-    "clone": "https://github.com/CodingChiao/magpie-muse-code.git",
-    "branch": "main",
-    "sizeKB": 33,
-    "updated": "2026-10-23T17:07:44Z",
-    "desc": "Magpie plugin for Meta One / Muse Code: device-code sign-in; Codex apply_patch & web search; 5h/7d subscription usage"
-  },
-  {
     "name": "Arimayuki03/magpie-zcode-switch-auth",
     "clone": "https://github.com/Arimayuki03/magpie-zcode-switch-auth.git",
     "branch": "main",
     "sizeKB": 183,
     "updated": "2026-10-25T07:39:28Z",
     "desc": "ZCode (GLM Coding Plan) sign-in & zcode-switch account-import plugin for magpie / OpenCode · ZCode 登录与 zcode-switch 账号导入插件"
+  },
+  {
+    "name": "chengyixu/magpie-freebuff",
+    "clone": "https://github.com/chengyixu/magpie-freebuff.git",
+    "branch": "main",
+    "sizeKB": 9,
+    "updated": "2026-10-26T06:41:49Z",
+    "desc": "Freebuff provider plugin for Magpie and OpenCode"
+  },
+  {
+    "name": "zhou0928/magpie-retry",
+    "clone": "https://github.com/zhou0928/magpie-retry.git",
+    "branch": "main",
+    "sizeKB": 22,
+    "updated": "2026-10-28T01:00:39Z",
+    "desc": "A circuit breaker for magpie's gateway: a model that keeps failing rests for a while; refused at once with a 429 so the agent retries on its own backoff."
   },
   {
     "name": "Clean-Lakes/magpie-agent-lake",
@@ -1264,12 +1264,44 @@
     "desc": "QwenWork (千问办公) for magpie/OpenCode: public cloud + enterprise flagship (VPC) providers — 企业旗舰版支持自定义域名"
   },
   {
-    "name": "wmfan2002-cloud/codar-magpie",
-    "clone": "https://github.com/wmfan2002-cloud/codar-magpie.git",
+    "name": "Gyarados4157/magpie-our-free-model",
+    "clone": "https://github.com/Gyarados4157/magpie-our-free-model.git",
     "branch": "main",
-    "sizeKB": 91,
-    "updated": "2026-10-28T06:44:38Z",
-    "desc": "Codar (SpeedAI) as a magpie / OpenCode provider: WeChat QR sign-in with phone verification; 16 models over Chat Completions and Anthropic Messages; daily check-in; free models and points balance. Unofficial."
+    "sizeKB": 4437,
+    "updated": "2026-10-21T09:11:01Z",
+    "desc": "Magpie plugin for Our Free Model; kept in sync with Ebony-Vinyl/dsh-our-free-model"
+  },
+  {
+    "name": "paceyw/kimi-chat",
+    "clone": "https://github.com/paceyw/kimi-chat.git",
+    "branch": "main",
+    "sizeKB": 500,
+    "updated": "2026-10-27T15:38:50Z",
+    "desc": "Kimi Chat (kimi.com web account) as a magpie / OpenCode provider: streaming chat; reasoning tiers; web search with citations; client tool calls; monthly quota."
+  },
+  {
+    "name": "ferguson089347/magpie-moonup",
+    "clone": "https://github.com/ferguson089347/magpie-moonup.git",
+    "branch": "main",
+    "sizeKB": 61,
+    "updated": "2026-10-28T03:20:32Z",
+    "desc": ""
+  },
+  {
+    "name": "SevenFo/magpie-multicodex",
+    "clone": "https://github.com/SevenFo/magpie-multicodex.git",
+    "branch": "main",
+    "sizeKB": 38,
+    "updated": "2026-10-26T13:11:29Z",
+    "desc": "CXI for Magpie: manage independent Codex homes in one page; with cxi included."
+  },
+  {
+    "name": "Jiao77/magpie-string-ai",
+    "clone": "https://github.com/Jiao77/magpie-string-ai.git",
+    "branch": "main",
+    "sizeKB": 30,
+    "updated": "2026-10-25T14:10:09Z",
+    "desc": "String AI (string.ink) 专用 Magpie 供应商插件：聚合多分组 Key、按模型自动路由分发、单卡片展示钱包余额与额度。"
   },
   {
     "name": "ca-x/magpie-intern-ai",
@@ -1320,46 +1352,6 @@
     "desc": "Provider plugin that brings MonkeyCode (monkeycode-ai.com) models to magpie and OpenCode"
   },
   {
-    "name": "Gyarados4157/magpie-our-free-model",
-    "clone": "https://github.com/Gyarados4157/magpie-our-free-model.git",
-    "branch": "main",
-    "sizeKB": 4437,
-    "updated": "2026-10-21T09:11:01Z",
-    "desc": "Magpie plugin for Our Free Model; kept in sync with Ebony-Vinyl/dsh-our-free-model"
-  },
-  {
-    "name": "paceyw/kimi-chat",
-    "clone": "https://github.com/paceyw/kimi-chat.git",
-    "branch": "main",
-    "sizeKB": 500,
-    "updated": "2026-10-27T15:38:50Z",
-    "desc": "Kimi Chat (kimi.com web account) as a magpie / OpenCode provider: streaming chat; reasoning tiers; web search with citations; client tool calls; monthly quota."
-  },
-  {
-    "name": "ferguson089347/magpie-moonup",
-    "clone": "https://github.com/ferguson089347/magpie-moonup.git",
-    "branch": "main",
-    "sizeKB": 61,
-    "updated": "2026-10-28T03:20:32Z",
-    "desc": ""
-  },
-  {
-    "name": "SevenFo/magpie-multicodex",
-    "clone": "https://github.com/SevenFo/magpie-multicodex.git",
-    "branch": "main",
-    "sizeKB": 38,
-    "updated": "2026-10-26T13:11:29Z",
-    "desc": "CXI for Magpie: manage independent Codex homes in one page; with cxi included."
-  },
-  {
-    "name": "Jiao77/magpie-string-ai",
-    "clone": "https://github.com/Jiao77/magpie-string-ai.git",
-    "branch": "main",
-    "sizeKB": 30,
-    "updated": "2026-10-25T14:10:09Z",
-    "desc": "String AI (string.ink) 专用 Magpie 供应商插件：聚合多分组 Key、按模型自动路由分发、单卡片展示钱包余额与额度。"
-  },
-  {
     "name": "RexVane/magpie-plugin-meoo-agent",
     "clone": "https://github.com/RexVane/magpie-plugin-meoo-agent.git",
     "branch": "main",
@@ -1382,6 +1374,14 @@
     "sizeKB": 123,
     "updated": "2026-10-28T04:13:06Z",
     "desc": "妙手 Meituan CatPaw as a Magpie provider: three-step agent chat bridged to OpenAI-compatible streaming; official credit balance card"
+  },
+  {
+    "name": "wmfan2002-cloud/codar-magpie",
+    "clone": "https://github.com/wmfan2002-cloud/codar-magpie.git",
+    "branch": "main",
+    "sizeKB": 91,
+    "updated": "2026-10-28T06:44:38Z",
+    "desc": "Codar (SpeedAI) as a magpie / OpenCode provider: WeChat QR sign-in with phone verification; 16 models over Chat Completions and Anthropic Messages; daily check-in; free models and points balance. Unofficial."
   },
   {
     "name": "utopiask/magpie-logins-sync",
