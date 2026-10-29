@@ -1,0 +1,43 @@
+[2026-10-29 23:18:25 UTC] cloud sync: total=214 new=13 updated=29
+  + NEW  321sssrt-bit/magpie-comfyui
+  + NEW  overstarry/magpie-cloudflare-gateway
+  + NEW  JohnWangggg/magpie-purge
+  + NEW  aqiu817/magpie-dashboard
+  + NEW  MayDay-wpf/snowapp-magpie-plugin
+  + NEW  ayuayue/magpie-codebuddy-import
+  + NEW  sabercomo/magpie-workbuddy-plus
+  + NEW  Zhuoyuan1/magpie-agent-uniterm
+  + NEW  yukiryo/magpie-plugin-agnes
+  + NEW  zseeu1/wbkit
+  + NEW  StringAI-Team/magpie-string-ai
+  + NEW  x-mug/magpie-cache-guard
+  + NEW  Betsy20/magpie-Jet-Hub
+  ~ UPD  mu-zi-lee/magpie-our-free-model  2026-10-28T15:38:44Z -> 2026-10-29T19:18:30Z
+  ~ UPD  BUKOWSKIREAL/magpie-gemini-web  2026-10-28T19:35:36Z -> 2026-10-29T22:20:17Z
+  ~ UPD  Magiczerowxy/magpie-chat  2026-10-28T11:18:03Z -> 2026-10-29T11:25:12Z
+  ~ UPD  tkhs101/OpenCode-Zen-FreeX  2026-10-28T21:56:18Z -> 2026-10-29T13:33:04Z
+  ~ UPD  lesnolie/magpie-free-gateways  2026-10-21T12:16:50Z -> 2026-10-29T09:04:23Z
+  ~ UPD  voidrinz/skill-shelf-magpie-plugin  2026-10-28T19:58:28Z -> 2026-10-29T03:58:43Z
+  ~ UPD  yimi1mi/busy-magpie  2026-10-28T14:26:00Z -> 2026-10-29T00:52:29Z
+  ~ UPD  MYCF711/magpie-magicrew-auth  2026-10-29T00:06:41Z -> 2026-10-29T16:31:30Z
+  ~ UPD  FischelChern/sub2api-magpie-plugin  2026-10-28T15:09:06Z -> 2026-10-29T05:43:33Z
+  ~ UPD  theseaiying/magpie-officeace-plugin  2026-10-28T06:47:32Z -> 2026-10-29T07:26:09Z
+  ~ UPD  932633145/magpie-agent-cursor-bridge  2026-10-28T12:57:17Z -> 2026-10-29T02:54:49Z
+  ~ UPD  MYCF711/magpie-loomy-auth  2026-10-27T19:27:29Z -> 2026-10-29T16:18:42Z
+  ~ UPD  Gyl1219/magpie-providers-hub  2026-10-28T19:43:43Z -> 2026-10-29T23:01:10Z
+  ~ UPD  awsl404/magpie-api-checkin  2026-10-27T09:10:50Z -> 2026-10-29T02:48:38Z
+  ~ UPD  ddq568/opencode-stepx-auth  2026-10-28T18:52:13Z -> 2026-10-29T14:26:36Z
+  ~ UPD  MYCF711/magpie-plugin-scaffold  2026-10-28T18:43:03Z -> 2026-10-29T17:04:10Z
+  ~ UPD  aqiu817/magpie-sensenova  2026-10-28T14:57:42Z -> 2026-10-29T12:59:29Z
+  ~ UPD  hg1048596-pixel/opencode-orcaterm-auth  2026-10-27T16:06:06Z -> 2026-10-29T15:44:20Z
+  ~ UPD  Jiao77/magpie-string-ai  2026-10-25T14:10:09Z -> 2026-10-29T03:41:26Z
+  ~ UPD  MYCF711/magpie-officeace  2026-10-27T19:15:54Z -> 2026-10-29T16:18:04Z
+  ~ UPD  zeyu-j/centricmem-skill  2026-10-28T17:03:00Z -> 2026-10-29T19:23:43Z
+  ~ UPD  road-kid/opencode-loomy-auth  2026-10-28T12:56:18Z -> 2026-10-29T16:50:34Z
+  ~ UPD  xiaoli0412/magpie-workbuddy-pool  2026-10-27T21:26:18Z -> 2026-10-29T04:56:25Z
+  ~ UPD  QingJ01/magpie-agent-office  2026-10-28T23:36:24Z -> 2026-10-29T11:12:18Z
+  ~ UPD  StrayDragon/magpie-loop-guard  2026-10-19T15:01:28Z -> 2026-10-29T03:59:55Z
+  ~ UPD  SevenFo/magpie-multicodex  2026-10-26T13:11:29Z -> 2026-10-29T11:24:47Z
+  ~ UPD  Professor-Chen/magpie-kiro-plugin  2026-10-22T14:26:57Z -> 2026-10-29T20:03:52Z
+  ~ UPD  liwenjinchn/claude-desktop-zh  2026-10-28T16:41:50Z -> 2026-10-29T01:34:43Z
+  ~ UPD  wssz527/magpie-agent-kimi-work-byok  2026-10-28T13:50:02Z -> 2026-10-29T21:18:42Z
