@@ -255,3 +255,63 @@
   ~ UPD  wssz527/magpie-agent-kimi-work-byok  2026-11-01T17:37:02Z -> 2026-11-02T11:41:26Z
   ~ UPD  ifmos/magpie-model-guard  2026-10-31T11:24:30Z -> 2026-11-02T03:00:25Z
   ~ UPD  laxtiz/opencode-classifier-dev-auth  2026-10-31T09:31:05Z -> 2026-11-02T16:14:14Z
+[2026-11-03 23:59:26 UTC] cloud sync: total=298 new=24 updated=35
+  + NEW  DIYgod/RSSHub
+  + NEW  arcships/magpie-dim-oauth
+  + NEW  tiezbro/magpie-claude-setup-token-quota
+  + NEW  manjughosa/magpie-digital-pet-portal
+  + NEW  Sliverkiss/magpie-edgeone
+  + NEW  PengJunchen/magpie-comate-auth
+  + NEW  zhang3776813/u1s1-magpie
+  + NEW  harlan-zhang/magpie-deepseek-files
+  + NEW  zhdsmy/magpie-cliproxyapi-plugin
+  + NEW  Gruu6y/clean-login
+  + NEW  MYCF711/magpie-workbuddy
+  + NEW  MDX-Tom/magpie-antigravity-effort
+  + NEW  siml1169/ShyPie
+  + NEW  chary1n/tabbit-providers
+  + NEW  Sliverkiss/magpie-mimo2api
+  + NEW  LumenMarch/magpie-breeze-blue
+  + NEW  sljdxde/quota-keepalive-magpie-plugin
+  + NEW  jinyue806/xfyun-astudio
+  + NEW  Sliverkiss/magpie-inceptionlab
+  + NEW  niyoh120/magpie-dumate-enterprise
+  + NEW  MDX-Tom/magpie-dsh-websearch
+  + NEW  Souitou-iop/magpie-plugin-today-auth
+  + NEW  MYCF711/magpie-opc-auth
+  + NEW  akiiwa-games/magpie-agentcompass-router
+  ~ UPD  vshulcz/deja-vu  2026-11-03T01:28:06Z -> 2026-11-03T23:17:49Z
+  ~ UPD  mu-zi-lee/magpie-our-free-model  2026-11-03T01:28:09Z -> 2026-11-03T10:30:27Z
+  ~ UPD  BUKOWSKIREAL/magpie-gemini-web  2026-11-02T14:42:37Z -> 2026-11-03T07:28:39Z
+  ~ UPD  JohnWangggg/magpie-muse-web  2026-11-02T12:30:50Z -> 2026-11-03T21:13:15Z
+  ~ UPD  mu-zi-lee/magpie-doubao-translate  2026-10-21T08:40:53Z -> 2026-11-03T13:50:28Z
+  ~ UPD  AaronWong1999/ccx  2026-11-02T10:07:59Z -> 2026-11-03T03:01:38Z
+  ~ UPD  932633145/magpie-agent-cursor-bridge  2026-11-02T09:56:14Z -> 2026-11-03T07:18:54Z
+  ~ UPD  MYCF711/magpie-magicrew-auth  2026-11-02T04:22:14Z -> 2026-11-03T20:49:24Z
+  ~ UPD  Betsy20/magpie-Jet-Hub  2026-11-02T03:30:19Z -> 2026-11-03T12:49:05Z
+  ~ UPD  jichie/magpie-workbuddy-tasks  2026-11-02T15:49:11Z -> 2026-11-03T09:32:18Z
+  ~ UPD  manjughosa/magpie-compress-core  2026-11-02T12:42:46Z -> 2026-11-03T16:15:36Z
+  ~ UPD  manjughosa/magpie-digital-pet  2026-11-01T22:58:49Z -> 2026-11-03T08:21:52Z
+  ~ UPD  risense-ai/respire-magpie  2026-11-03T01:34:55Z -> 2026-11-03T12:19:45Z
+  ~ UPD  cuddlesgiggles/teleagent-auth  2026-11-02T02:16:53Z -> 2026-11-03T02:50:36Z
+  ~ UPD  MYCF711/magpie-plugin-scaffold  2026-11-03T01:34:37Z -> 2026-11-03T18:09:10Z
+  ~ UPD  JohnWangggg/magpie-purge  2026-10-31T07:11:57Z -> 2026-11-03T17:12:07Z
+  ~ UPD  aqiu817/magpie-atomcode  2026-11-01T15:01:41Z -> 2026-11-03T15:32:13Z
+  ~ UPD  MisonL/magpie-plugin-msmoli  2026-10-30T15:07:49Z -> 2026-11-03T15:19:19Z
+  ~ UPD  MYCF711/magpie-officeace  2026-11-02T04:22:26Z -> 2026-11-03T10:07:50Z
+  ~ UPD  KevinFX-code/magpie-wps-lingxi  2026-11-02T02:25:46Z -> 2026-11-03T14:54:22Z
+  ~ UPD  disturbwe/magpie-deepseek-files  2026-10-21T06:48:48Z -> 2026-11-03T16:38:36Z
+  ~ UPD  DBinK/magpie-speed  2026-11-02T04:06:19Z -> 2026-11-03T08:37:59Z
+  ~ UPD  Gyl1219/magpie-providers-hub  2026-11-02T22:48:58Z -> 2026-11-03T22:39:39Z
+  ~ UPD  TianZuo555/magpie-portkey  2026-11-01T14:00:46Z -> 2026-11-03T14:14:34Z
+  ~ UPD  zeyu-j/centricmem-skill  2026-10-31T00:37:31Z -> 2026-11-03T12:01:39Z
+  ~ UPD  wssz527/magpie-agent-kimi-work-byok  2026-11-02T11:41:26Z -> 2026-11-03T03:30:18Z
+  ~ UPD  YangHonghang/magpie-window-warmup  2026-11-02T09:20:34Z -> 2026-11-03T08:45:03Z
+  ~ UPD  menhouran/magpie-plugin-ms-ai  2026-11-01T18:16:38Z -> 2026-11-03T16:13:41Z
+  ~ UPD  Fim98/magpie-mirasim-plugin  2026-11-02T03:53:48Z -> 2026-11-03T02:54:01Z
+  ~ UPD  jinyue806/Agnes-Code  2026-11-01T06:02:12Z -> 2026-11-03T07:16:44Z
+  ~ UPD  webkubor/fovea  2026-11-02T13:39:16Z -> 2026-11-03T03:00:29Z
+  ~ UPD  ifmos/magpie-model-guard  2026-11-02T03:00:25Z -> 2026-11-03T19:11:42Z
+  ~ UPD  BioCrossCoder/magpie-terminal-agents  2026-11-03T00:19:17Z -> 2026-11-03T07:52:45Z
+  ~ UPD  Azheyc/novaflow-magpie-plugins  2026-11-02T03:02:46Z -> 2026-11-03T06:52:12Z
+  ~ UPD  para1lel/codex-route-monitor  2026-11-02T16:14:09Z -> 2026-11-03T10:32:04Z
