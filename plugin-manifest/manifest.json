@@ -3,41 +3,41 @@
   "name": "DIYgod/RSSHub",
   "clone": "https://github.com/DIYgod/RSSHub.git",
   "branch": "master",
-  "sizeKB": 1342113,
-  "updated": "2026-11-14T00:15:03Z",
+  "sizeKB": 1343703,
+  "updated": "2026-11-14T19:55:40Z",
   "desc": "🧡 Everything is RSSible"
  },
  {
   "name": "ZiChuanLan/agent-purge",
   "clone": "https://github.com/ZiChuanLan/agent-purge.git",
   "branch": "main",
-  "sizeKB": 3123,
-  "updated": "2026-11-14T00:15:19Z",
+  "sizeKB": 3205,
+  "updated": "2026-11-14T19:31:28Z",
   "desc": "One persona; many coding agents. Replace or inject system prompts across codex; claude; opencode; grok; omp; hermes; pi; zcode - with a local web console."
  },
  {
   "name": "vshulcz/deja-vu",
   "clone": "https://github.com/vshulcz/deja-vu.git",
   "branch": "main",
-  "sizeKB": 52206,
-  "updated": "2026-11-13T17:52:53Z",
-  "desc": "Shared local memory; session history search; cross-agent handoff; and uncommitted code recovery across 43 coding agents — Claude Code; Codex; Cursor; OpenCode; Gemini CLI; OpenClaw & more (CLI & MCP). One Go binary; zero LLM calls."
+  "sizeKB": 52258,
+  "updated": "2026-11-14T15:25:57Z",
+  "desc": "Shared local memory; session history search; cross-agent handoff; and uncommitted code recovery across 46 coding agents — Claude Code; Codex; Cursor; OpenCode; Gemini CLI; OpenClaw & more (CLI & MCP). One Go binary; zero LLM calls."
  },
  {
   "name": "mu-zi-lee/magpie-our-free-model",
   "clone": "https://github.com/mu-zi-lee/magpie-our-free-model.git",
   "branch": "main",
   "sizeKB": 7008,
-  "updated": "2026-11-13T14:08:42Z",
+  "updated": "2026-11-14T19:58:47Z",
   "desc": "Our Free Model 的 Magpie 适配插件：整合免费模型池、EAC 授权与多账号渠道，支持自动服务管理及免登录的 Cloudflare 临时远程控制台。｜Magpie integration for Our Free Model with free model pools; EAC authentication; multiple account providers; automatic service management; and an accountless Cloudflare temporary remote console."
  },
  {
   "name": "BUKOWSKIREAL/magpie-gemini-web",
   "clone": "https://github.com/BUKOWSKIREAL/magpie-gemini-web.git",
   "branch": "main",
-  "sizeKB": 1003,
-  "updated": "2026-11-13T22:02:27Z",
-  "desc": "Gemini Web provider for Magpie with a local backend and experimental Argon support"
+  "sizeKB": 1006,
+  "updated": "2026-11-14T12:56:24Z",
+  "desc": "Google AI Studio and Gemini Web provider for Magpie (Gemini 4 Carbon / Hydrogen / Argon; Nano Banana image generation; Deep Research); backed by AIStudio2API and gemini-web2api-go"
  },
  {
   "name": "mu-zi-lee/magpie-intelligence-check",
@@ -51,8 +51,8 @@
   "name": "DylanLIiii/opencode-antigravity-bridge",
   "clone": "https://github.com/DylanLIiii/opencode-antigravity-bridge.git",
   "branch": "main",
-  "sizeKB": 919,
-  "updated": "2026-11-13T16:12:50Z",
+  "sizeKB": 1725,
+  "updated": "2026-11-14T15:38:41Z",
   "desc": "Magpie provider plugin that bridges an Antigravity subscription to a real agy CLI subprocess"
  },
  {
@@ -64,12 +64,28 @@
   "desc": "Magpie plugin for muse.ai: sign in to each account in a browser; use Muse Spark with tool calls in Codex/OpenCode; see each account's weekly usage"
  },
  {
+  "name": "MarioZZJ/cc-notify-hooks",
+  "clone": "https://github.com/MarioZZJ/cc-notify-hooks.git",
+  "branch": "main",
+  "sizeKB": 1255,
+  "updated": "2026-11-14T16:50:20Z",
+  "desc": "Agent 等待响应通知插件（支持Claude Code、CodeX、DeepSeek Harness、Reasonix） — 11 个渠道，短通知即时触达，长通知异步兜底。人可以闲着，Agent 不可以。"
+ },
+ {
   "name": "Magiczerowxy/magpie-chat",
   "clone": "https://github.com/Magiczerowxy/magpie-chat.git",
   "branch": "main",
   "sizeKB": 1882,
   "updated": "2026-11-11T13:05:32Z",
   "desc": "A chat page inside magpie's window: use magpie's own models; MCP servers; instructions and skills — with images; files and LaTeX."
+ },
+ {
+  "name": "jichie/magpie-workbuddy-tasks",
+  "clone": "https://github.com/jichie/magpie-workbuddy-tasks.git",
+  "branch": "main",
+  "sizeKB": 1797,
+  "updated": "2026-11-14T07:35:01Z",
+  "desc": "WorkBuddy 成长/旅行/夜猫任务批量自动化：复用 magpie 已登录账号，本地看板 + 小时排程（magpie 插件）"
  },
  {
   "name": "Guuuu233/claude-tui-boost",
@@ -80,20 +96,20 @@
   "desc": "让 Claude 订阅额度更耐用。通过真实 Claude Code 交互式 TUI 接入 Magpie/OpenCode（支持 macOS、Linux 与 Windows WSL2）；Opus 5.5 单组对照测得约 1.8～2 倍额度利用效率。"
  },
  {
-  "name": "jichie/magpie-workbuddy-tasks",
-  "clone": "https://github.com/jichie/magpie-workbuddy-tasks.git",
-  "branch": "main",
-  "sizeKB": 1281,
-  "updated": "2026-11-12T03:25:41Z",
-  "desc": "WorkBuddy 成长/旅行/夜猫任务批量自动化：复用 magpie 已登录账号，本地看板 + 小时排程（magpie 插件）"
- },
- {
   "name": "guotree/magpie-websearch",
   "clone": "https://github.com/guotree/magpie-websearch.git",
   "branch": "main",
   "sizeKB": 2282,
   "updated": "2026-11-13T10:01:20Z",
   "desc": "给 magpie 更多搜索方式：一个插件，持续接入更多搜索 API。More web search for magpie — one plugin; more engines over time. "
+ },
+ {
+  "name": "Fish-under-sea/magpie-purge",
+  "clone": "https://github.com/Fish-under-sea/magpie-purge.git",
+  "branch": "main",
+  "sizeKB": 1637,
+  "updated": "2026-11-14T20:52:19Z",
+  "desc": "magpie-purge：把本地 purge 目录做成 magpie 的页面插件与网关钩子——清点、校验、去重、回滚，按模式改写 system 段。内置 9 位专家技能包。上游 ZiChuanLan/agent-purge。"
  },
  {
   "name": "tkhs101/OpenCode-Zen-FreeX",
@@ -112,28 +128,20 @@
   "desc": "Magpie plugin with live free-model catalogs for OpenCode Zen and Kilo Gateway; including native Jev System One support."
  },
  {
-  "name": "Fish-under-sea/magpie-purge",
-  "clone": "https://github.com/Fish-under-sea/magpie-purge.git",
-  "branch": "main",
-  "sizeKB": 1637,
-  "updated": "2026-11-13T19:03:22Z",
-  "desc": "magpie-purge：把本地 purge 目录做成 magpie 的页面插件与网关钩子——清点、校验、去重、回滚，按模式改写 system 段。内置 9 位专家技能包。上游 ZiChuanLan/agent-purge。"
- },
- {
   "name": "MYCF711/magpie-marvis",
   "clone": "https://github.com/MYCF711/magpie-marvis.git",
   "branch": "main",
   "sizeKB": 632,
-  "updated": "2026-11-13T17:15:11Z",
+  "updated": "2026-11-14T03:31:46Z",
   "desc": "magpie / OpenCode provider plugin for Tencent Marvis — DeepSeek V4.1 Flash; sign in with QQ or WeChat; no API key to paste."
  },
  {
-  "name": "baijiu666/magpie-PhanthyCode",
-  "clone": "https://github.com/baijiu666/magpie-PhanthyCode.git",
+  "name": "Betsy20/magpie-Jet-Hub",
+  "clone": "https://github.com/Betsy20/magpie-Jet-Hub.git",
   "branch": "main",
-  "sizeKB": 1160,
-  "updated": "2026-11-13T07:11:50Z",
-  "desc": "magpie 插件：用 PhanthyCode 账号直连 code.phanthy.com 的模型目录、积分额度与设备密钥签名（不需要桌面端）"
+  "sizeKB": 10885,
+  "updated": "2026-11-14T02:16:52Z",
+  "desc": "dsh-providers-hub兼容插件，聚合29家供应商，每日自动签到，一键完成新人/成长任务；嵌入式Cordis容器运行枢纽，重用账号池、静默刷新、凭据与 DSH 的 .credentials.yaml 共享，不依赖DSH进程"
  },
  {
   "name": "mu-zi-lee/magpie-doubao-translate",
@@ -144,12 +152,36 @@
   "desc": "Magpie 豆包翻译插件：通过 Cookie 直连豆包 AI、火山及微软翻译，无需 Docker 或额外 API Key。｜Magpie plugin for Doubao web translation: access Doubao AI; Volcengine and Microsoft Translator via Cookie; without Docker or an extra API key."
  },
  {
+  "name": "245678000000/magpie-doubaowork-auth",
+  "clone": "https://github.com/245678000000/magpie-doubaowork-auth.git",
+  "branch": "main",
+  "sizeKB": 266,
+  "updated": "2026-11-14T15:27:16Z",
+  "desc": "豆包工作 Doubao Work · 独立 Magpie 插件：浏览器多账号登录、动态模型、额度、文本 SSE，实验性工具桥。macOS / Chrome / Edge。"
+ },
+ {
   "name": "QingJ01/magpie-agent-office",
   "clone": "https://github.com/QingJ01/magpie-agent-office.git",
   "branch": "main",
   "sizeKB": 8120,
   "updated": "2026-11-13T18:55:57Z",
   "desc": "我的 Agent 在干嘛：实时展示 Claude Code、Codex、DeepSeek Harness、Gemini CLI 等 Agent 的工作状态，3D/2D 太空站办公室、悬浮窗与列表。Live agent activity dashboard for magpie."
+ },
+ {
+  "name": "AaronWong1999/ccx",
+  "clone": "https://github.com/AaronWong1999/ccx.git",
+  "branch": "main",
+  "sizeKB": 8349,
+  "updated": "2026-11-13T21:50:21Z",
+  "desc": "Sync task context between Claude and Codex."
+ },
+ {
+  "name": "sabercomo/magpie-workbuddy-plus",
+  "clone": "https://github.com/sabercomo/magpie-workbuddy-plus.git",
+  "branch": "main",
+  "sizeKB": 9945,
+  "updated": "2026-11-14T15:28:43Z",
+  "desc": "Magpie 第三方 WorkBuddy 补充插件（国内版 + 国际版）：连登活跃、成长任务、猫猫旅行、连登福利、国际版每日活跃奖励与分开的定时，加上多账号看板。国内每日签到由 Magpie 负责。"
  },
  {
   "name": "KaranocaVe/magpie-fingerprint",
@@ -168,20 +200,20 @@
   "desc": "WPS 灵犀 (Lingxi Claw) provider plugin for Magpie & OpenCode: daily check-in (智点); live models; and OpenAI-compatible proxy"
  },
  {
-  "name": "Betsy20/magpie-Jet-Hub",
-  "clone": "https://github.com/Betsy20/magpie-Jet-Hub.git",
+  "name": "MYCF711/magpie-monkeycode",
+  "clone": "https://github.com/MYCF711/magpie-monkeycode.git",
   "branch": "main",
-  "sizeKB": 10885,
-  "updated": "2026-11-11T08:41:09Z",
-  "desc": "dsh-providers-hub兼容插件，聚合29家供应商，每日自动签到，一键完成新人/成长任务；嵌入式Cordis容器运行枢纽，重用账号池、静默刷新、凭据与 DSH 的 .credentials.yaml 共享，不依赖DSH进程"
+  "sizeKB": 1767,
+  "updated": "2026-11-14T04:25:38Z",
+  "desc": "MonkeyCode 国内站 / 国际站双供应商 magpie 插件"
  },
  {
-  "name": "AaronWong1999/ccx",
-  "clone": "https://github.com/AaronWong1999/ccx.git",
-  "branch": "main",
-  "sizeKB": 8349,
-  "updated": "2026-11-13T21:50:21Z",
-  "desc": "Sync task context between Claude and Codex."
+  "name": "ZhaoJun233/agentrouter-magpie-plugin",
+  "clone": "https://github.com/ZhaoJun233/agentrouter-magpie-plugin.git",
+  "branch": "master",
+  "sizeKB": 535,
+  "updated": "2026-11-14T12:43:29Z",
+  "desc": "AgentRouter provider for magpie and OpenCode: org/air site selection; API Key; GitHub and LinuxDo sign-in; configurable headers; balance and daily check-in"
  },
  {
   "name": "yuweihao17/codearts",
@@ -196,16 +228,24 @@
   "clone": "https://github.com/932633145/magpie-agent-cursor-bridge.git",
   "branch": "main",
   "sizeKB": 34180,
-  "updated": "2026-11-12T20:19:14Z",
+  "updated": "2026-11-14T09:36:51Z",
   "desc": "Cursor protocol bridge backed by Magpie for Windows and macOS"
  },
  {
-  "name": "MYCF711/magpie-monkeycode",
-  "clone": "https://github.com/MYCF711/magpie-monkeycode.git",
+  "name": "manjughosa/magpie-compress-core",
+  "clone": "https://github.com/manjughosa/magpie-compress-core.git",
   "branch": "main",
-  "sizeKB": 1767,
-  "updated": "2026-11-13T21:59:08Z",
-  "desc": "MonkeyCode 国内站 / 国际站双供应商 magpie 插件"
+  "sizeKB": 4634,
+  "updated": "2026-11-14T08:53:22Z",
+  "desc": "magpie 网关的上下文压缩插件：16 个策略、四档预设、独立页面与面板"
+ },
+ {
+  "name": "miaocell/magpie-doubao-work-auth",
+  "clone": "https://github.com/miaocell/magpie-doubao-work-auth.git",
+  "branch": "main",
+  "sizeKB": 122,
+  "updated": "2026-11-14T15:32:36Z",
+  "desc": "无需登录豆包客户端、本机无需下载豆包工作，把豆包工作订阅变成 magpie 上的 9 个模型：豆包 / DeepSeek / Kimi / GLM，带真实倍率与上下文，支持多账号"
  },
  {
   "name": "yimi1mi/busy-magpie",
@@ -216,44 +256,12 @@
   "desc": "magpie 实时路由桌面挂件 · A transparent; click-through live routing perch for your desktop."
  },
  {
-  "name": "manjughosa/magpie-compress-core",
-  "clone": "https://github.com/manjughosa/magpie-compress-core.git",
-  "branch": "main",
-  "sizeKB": 4474,
-  "updated": "2026-11-13T19:06:10Z",
-  "desc": "magpie 网关的上下文压缩插件：16 个策略、四档预设、独立页面与面板"
- },
- {
-  "name": "sabercomo/magpie-workbuddy-plus",
-  "clone": "https://github.com/sabercomo/magpie-workbuddy-plus.git",
-  "branch": "main",
-  "sizeKB": 11040,
-  "updated": "2026-11-13T11:49:07Z",
-  "desc": "Magpie 第三方 WorkBuddy 补充插件（国内版 + 国际版）：连登活跃、成长任务、猫猫旅行、连登福利、国际版每日活跃奖励与分开的定时，加上多账号看板。国内每日签到由 Magpie 负责。"
- },
- {
-  "name": "ZhaoJun233/agentrouter-magpie-plugin",
-  "clone": "https://github.com/ZhaoJun233/agentrouter-magpie-plugin.git",
-  "branch": "master",
-  "sizeKB": 516,
-  "updated": "2026-11-12T01:43:04Z",
-  "desc": "AgentRouter provider for magpie and OpenCode: org/air site selection; API Key; GitHub and LinuxDo sign-in; configurable headers; balance and daily check-in"
- },
- {
   "name": "voidrinz/skill-shelf-magpie-plugin",
   "clone": "https://github.com/voidrinz/skill-shelf-magpie-plugin.git",
   "branch": "main",
   "sizeKB": 3447,
   "updated": "2026-10-31T20:21:11Z",
   "desc": "Magpie 的增强版 Skills 管理器：跨 Agent 浏览，文件夹与标签整理，Packs 打包与部署，AI 简介与翻译，WebDAV 同步。 | An enhanced Skills manager for Magpie: cross-agent browsing; folders and tags; Pack export and deployment; AI descriptions and translation; and WebDAV sync."
- },
- {
-  "name": "MYCF711/magpie-magicrew-auth",
-  "clone": "https://github.com/MYCF711/magpie-magicrew-auth.git",
-  "branch": "main",
-  "sizeKB": 4005,
-  "updated": "2026-11-13T09:34:46Z",
-  "desc": "【已停止维护 2026-11-04】Super Magic / MagiCrew provider for magpie — 最后一个版本 1.0.0。上游存在账号被禁用风险，请勿在主力账号上使用。代码留档、仓库保持公开，不再更新。"
  },
  {
   "name": "nodlles/magpie-agent-cursor-bridge",
@@ -264,12 +272,20 @@
   "desc": "Use Magpie models in Cursor through a local protocol bridge (Apple Silicon macOS)"
  },
  {
-  "name": "245678000000/magpie-doubaowork-auth",
-  "clone": "https://github.com/245678000000/magpie-doubaowork-auth.git",
+  "name": "MYCF711/magpie-magicrew-auth",
+  "clone": "https://github.com/MYCF711/magpie-magicrew-auth.git",
   "branch": "main",
-  "sizeKB": 122,
-  "updated": "2026-11-13T13:56:35Z",
-  "desc": "豆包工作 Doubao Work · 独立 Magpie 插件：浏览器多账号登录、动态模型、额度、文本 SSE，实验性工具桥。macOS / Chrome / Edge。"
+  "sizeKB": 4005,
+  "updated": "2026-11-13T09:34:46Z",
+  "desc": "【已停止维护 2026-11-04】Super Magic / MagiCrew provider for magpie — 最后一个版本 1.0.0。上游存在账号被禁用风险，请勿在主力账号上使用。代码留档、仓库保持公开，不再更新。"
+ },
+ {
+  "name": "R227BOUT/magpie-dumate",
+  "clone": "https://github.com/R227BOUT/magpie-dumate.git",
+  "branch": "main",
+  "sizeKB": 302,
+  "updated": "2026-11-14T12:15:44Z",
+  "desc": "把百度搭子 DuMate 的个人积分接入 Magpie：OpenAI 兼容模型调用、每日自动签到、余额与到期积分展示，支持复用桌面端登录态或免装客户端的浏览器登录。"
  },
  {
   "name": "hg1048596-pixel/opencode-orcaterm-auth",
@@ -280,6 +296,14 @@
   "desc": "Tencent Cloud OrcaTerm (遨驰终端) AI quota as an OpenAI-compatible provider for magpie. 把腾讯云 OrcaTerm 的 AI 问答额度（每月 1000 次）反代成 OpenAI 兼容接口，供 magpie使用。"
  },
  {
+  "name": "JinPen-G/magpie-responses-shim",
+  "clone": "https://github.com/JinPen-G/magpie-responses-shim.git",
+  "branch": "main",
+  "sizeKB": 37,
+  "updated": "2026-11-14T01:42:47Z",
+  "desc": "修复 OpenAI Responses API 跨资源错误的 Magpie 网关中间件插件"
+ },
+ {
   "name": "arcships/magpie-dim-oauth",
   "clone": "https://github.com/arcships/magpie-dim-oauth.git",
   "branch": "main",
@@ -288,20 +312,12 @@
   "desc": "DimAgent provider for Magpie: OAuth sign-in; models; usage; subscription renewal and quota resets"
  },
  {
-  "name": "laxtiz/opencode-vllm-sr-auth",
-  "clone": "https://github.com/laxtiz/opencode-vllm-sr-auth.git",
-  "branch": "master",
-  "sizeKB": 50,
-  "updated": "2026-11-12T12:59:29Z",
-  "desc": "vLLM-SR System Duo — System One decision models (choice/noul/score/box/span) plus the System Two chat router; for OpenCode and magpie"
- },
- {
-  "name": "JinPen-G/magpie-responses-shim",
-  "clone": "https://github.com/JinPen-G/magpie-responses-shim.git",
+  "name": "MisonL/magpie-plugin-msmoli",
+  "clone": "https://github.com/MisonL/magpie-plugin-msmoli.git",
   "branch": "main",
-  "sizeKB": 25,
-  "updated": "2026-11-13T18:00:33Z",
-  "desc": "修复 OpenAI Responses API 跨资源错误的 Magpie 网关中间件插件"
+  "sizeKB": 27464,
+  "updated": "2026-11-14T08:17:57Z",
+  "desc": "A magpie plugin that claims ModelScope (魔搭) daily 魔粒 credits and shows the balance on the account card"
  },
  {
   "name": "wolfvoid/magpie-DaFeiYu",
@@ -312,84 +328,20 @@
   "desc": "magpie-DaFeiYu · 蓝色大肥鱼：Mac 专用 Magpie 桌宠。106 段动画，请求亮灯，订阅看百分比、API 看余额。素材：github.com/PC2005-cloud/dsh-pet（非商用）"
  },
  {
-  "name": "manjughosa/magpie-digital-pet",
-  "clone": "https://github.com/manjughosa/magpie-digital-pet.git",
+  "name": "laxtiz/opencode-vllm-sr-auth",
+  "clone": "https://github.com/laxtiz/opencode-vllm-sr-auth.git",
   "branch": "master",
-  "sizeKB": 17910,
-  "updated": "2026-11-13T06:14:07Z",
-  "desc": "烧 token，养电子宠物"
+  "sizeKB": 50,
+  "updated": "2026-11-12T12:59:29Z",
+  "desc": "vLLM-SR System Duo — System One decision models (choice/noul/score/box/span) plus the System Two chat router; for OpenCode and magpie"
  },
  {
-  "name": "mu-zi-lee/magpie-deepseekweb2api",
-  "clone": "https://github.com/mu-zi-lee/magpie-deepseekweb2api.git",
+  "name": "Gyl1219/magpie-providers-hub",
+  "clone": "https://github.com/Gyl1219/magpie-providers-hub.git",
   "branch": "main",
-  "sizeKB": 1746,
-  "updated": "2026-11-05T06:45:16Z",
-  "desc": "Magpie DeepSeek 网页版接入插件：通过 userToken 连接 DeepSeek Chat/Reasoner，支持多账号池、会话复用、故障切换及流式推理输出。｜Integrate DeepSeek Web into Magpie via userToken; with Chat/Reasoner support; multi-account pooling; session persistence; failover and streaming reasoning output."
- },
- {
-  "name": "3056810551/magpie-hark-web",
-  "clone": "https://github.com/3056810551/magpie-hark-web.git",
-  "branch": "main",
-  "sizeKB": 102,
-  "updated": "2026-11-13T16:32:31Z",
-  "desc": "Magpie provider plugin for hark.com: sign in to each account in a browser window or connect to existing Chrome; use Hark in Codex; OpenCode and other agents"
- },
- {
-  "name": "FischelChern/sub2api-magpie-plugin",
-  "clone": "https://github.com/FischelChern/sub2api-magpie-plugin.git",
-  "branch": "main",
-  "sizeKB": 966,
-  "updated": "2026-11-05T02:19:23Z",
-  "desc": "Sub2API 的 Magpie Provider 插件。支持套餐与用量查询、完整模型发现 多账号池化、多站点配置、四种 API协议，以及Codex和Claude Agent 请求头兼容"
- },
- {
-  "name": "CheinTian/magpie-opencsg-auth",
-  "clone": "https://github.com/CheinTian/magpie-opencsg-auth.git",
-  "branch": "main",
-  "sizeKB": 24,
-  "updated": "2026-11-04T14:26:00Z",
-  "desc": "OpenCSG AI Gateway provider for magpie and OpenCode; with API key and OAuth sign-in"
- },
- {
-  "name": "zhx47/magpie_newapi_plugin",
-  "clone": "https://github.com/zhx47/magpie_newapi_plugin.git",
-  "branch": "main",
-  "sizeKB": 1039,
-  "updated": "2026-11-04T07:27:35Z",
-  "desc": ""
- },
- {
-  "name": "shiyang1026/magpie-claude-science",
-  "clone": "https://github.com/shiyang1026/magpie-claude-science.git",
-  "branch": "main",
-  "sizeKB": 145,
-  "updated": "2026-11-01T11:30:54Z",
-  "desc": "Use Magpie models in Claude Science with the original macOS app."
- },
- {
-  "name": "MYCF711/magpie-plugin-scaffold",
-  "clone": "https://github.com/MYCF711/magpie-plugin-scaffold.git",
-  "branch": "main",
-  "sizeKB": 1849,
-  "updated": "2026-11-13T09:32:02Z",
-  "desc": "A magpie / OpenCode provider plugin template: all nine hooks implemented. Clone it and implement five functions to make your own provider."
- },
- {
-  "name": "MisonL/magpie-plugin-msmoli",
-  "clone": "https://github.com/MisonL/magpie-plugin-msmoli.git",
-  "branch": "main",
-  "sizeKB": 27747,
-  "updated": "2026-11-13T18:53:22Z",
-  "desc": "A magpie plugin that claims ModelScope (魔搭) daily 魔粒 credits and shows the balance on the account card"
- },
- {
-  "name": "cyberElar/magpie-x-search",
-  "clone": "https://github.com/cyberElar/magpie-x-search.git",
-  "branch": "main",
-  "sizeKB": 83,
-  "updated": "2026-10-19T13:01:33Z",
-  "desc": "Quota-limited xAI native X search over MCP; using local magpie OAuth for any calling model"
+  "sizeKB": 2049,
+  "updated": "2026-11-14T02:18:22Z",
+  "desc": "dsh-providers-hub（作者 JetLi）的第三方 Magpie 适配：一个供应商聚合多个独立渠道——OfficeAce（华为云）、AStudio（讯飞）、MiniMax Code 国际版、Accio（阿里），均不依赖 DSH 运行"
  },
  {
   "name": "risense-ai/respire-magpie",
@@ -400,6 +352,62 @@
   "desc": "respire-memory：让 AI Agent 通过记忆召回、经验积累与后台归档持续自进化。Magpie gateway memory plugin."
  },
  {
+  "name": "cyberElar/magpie-x-search",
+  "clone": "https://github.com/cyberElar/magpie-x-search.git",
+  "branch": "main",
+  "sizeKB": 83,
+  "updated": "2026-10-19T13:01:33Z",
+  "desc": "Quota-limited xAI native X search over MCP; using local magpie OAuth for any calling model"
+ },
+ {
+  "name": "FischelChern/sub2api-magpie-plugin",
+  "clone": "https://github.com/FischelChern/sub2api-magpie-plugin.git",
+  "branch": "main",
+  "sizeKB": 966,
+  "updated": "2026-11-05T02:19:23Z",
+  "desc": "Sub2API 的 Magpie Provider 插件。支持套餐与用量查询、完整模型发现 多账号池化、多站点配置、四种 API协议，以及Codex和Claude Agent 请求头兼容"
+ },
+ {
+  "name": "mu-zi-lee/magpie-deepseekweb2api",
+  "clone": "https://github.com/mu-zi-lee/magpie-deepseekweb2api.git",
+  "branch": "main",
+  "sizeKB": 1746,
+  "updated": "2026-11-05T06:45:16Z",
+  "desc": "Magpie DeepSeek 网页版接入插件：通过 userToken 连接 DeepSeek Chat/Reasoner，支持多账号池、会话复用、故障切换及流式推理输出。｜Integrate DeepSeek Web into Magpie via userToken; with Chat/Reasoner support; multi-account pooling; session persistence; failover and streaming reasoning output."
+ },
+ {
+  "name": "manjughosa/magpie-digital-pet",
+  "clone": "https://github.com/manjughosa/magpie-digital-pet.git",
+  "branch": "master",
+  "sizeKB": 17910,
+  "updated": "2026-11-13T06:14:07Z",
+  "desc": "烧 token，养电子宠物"
+ },
+ {
+  "name": "3056810551/magpie-hark-web",
+  "clone": "https://github.com/3056810551/magpie-hark-web.git",
+  "branch": "main",
+  "sizeKB": 102,
+  "updated": "2026-11-13T16:32:31Z",
+  "desc": "Magpie provider plugin for hark.com: sign in to each account in a browser window or connect to existing Chrome; use Hark in Codex; OpenCode and other agents"
+ },
+ {
+  "name": "MYCF711/magpie-plugin-scaffold",
+  "clone": "https://github.com/MYCF711/magpie-plugin-scaffold.git",
+  "branch": "main",
+  "sizeKB": 1849,
+  "updated": "2026-11-13T09:32:02Z",
+  "desc": "A magpie / OpenCode provider plugin template: all nine hooks implemented. Clone it and implement five functions to make your own provider."
+ },
+ {
+  "name": "CheinTian/magpie-opencsg-auth",
+  "clone": "https://github.com/CheinTian/magpie-opencsg-auth.git",
+  "branch": "main",
+  "sizeKB": 24,
+  "updated": "2026-11-04T14:26:00Z",
+  "desc": "OpenCSG AI Gateway provider for magpie and OpenCode; with API key and OAuth sign-in"
+ },
+ {
   "name": "leset0ng/opencode-super-xiaoai-auth",
   "clone": "https://github.com/leset0ng/opencode-super-xiaoai-auth.git",
   "branch": "main",
@@ -408,12 +416,20 @@
   "desc": "OpenCode/Magpie provider plugin: Xiaomi Super XiaoAI (MiMo); signed in with a Xiaomi account"
  },
  {
-  "name": "Gyl1219/magpie-providers-hub",
-  "clone": "https://github.com/Gyl1219/magpie-providers-hub.git",
+  "name": "shiyang1026/magpie-claude-science",
+  "clone": "https://github.com/shiyang1026/magpie-claude-science.git",
   "branch": "main",
-  "sizeKB": 2072,
-  "updated": "2026-11-13T16:58:30Z",
-  "desc": "dsh-providers-hub（作者 JetLi）的第三方 Magpie 适配：一个供应商聚合多个独立渠道——OfficeAce（华为云）、AStudio（讯飞）、MiniMax Code 国际版、Accio（阿里），均不依赖 DSH 运行"
+  "sizeKB": 145,
+  "updated": "2026-11-01T11:30:54Z",
+  "desc": "Use Magpie models in Claude Science with the original macOS app."
+ },
+ {
+  "name": "zhx47/magpie_newapi_plugin",
+  "clone": "https://github.com/zhx47/magpie_newapi_plugin.git",
+  "branch": "main",
+  "sizeKB": 1055,
+  "updated": "2026-11-04T07:27:35Z",
+  "desc": ""
  },
  {
   "name": "polang233/claude-desktop-zh",
@@ -424,28 +440,12 @@
   "desc": "为原版 Claude Desktop 的第三方模式加载官方中文界面，保留原来的设置、会话和历史。默认简体中文。"
  },
  {
-  "name": "R227BOUT/magpie-dumate",
-  "clone": "https://github.com/R227BOUT/magpie-dumate.git",
-  "branch": "main",
-  "sizeKB": 302,
-  "updated": "2026-11-13T12:43:20Z",
-  "desc": "把百度搭子 DuMate 的个人积分接入 Magpie：OpenAI 兼容模型调用、每日自动签到、余额与到期积分展示，支持复用桌面端登录态或免装客户端的浏览器登录。"
- },
- {
   "name": "aqiu817/magpie-deepaicode",
   "clone": "https://github.com/aqiu817/magpie-deepaicode.git",
   "branch": "main",
-  "sizeKB": 162,
+  "sizeKB": 192,
   "updated": "2026-11-12T20:05:43Z",
   "desc": "magpie 插件：把 DeepAI Code 接入为供应商 deepaicode。浏览器登录 / 桌面端凭据 / API Key 三路登录，直连上游，动态模型目录、每日 Theos 额度与签到。"
- },
- {
-  "name": "miaocell/magpie-doubao-work-auth",
-  "clone": "https://github.com/miaocell/magpie-doubao-work-auth.git",
-  "branch": "main",
-  "sizeKB": 110,
-  "updated": "2026-11-13T17:48:53Z",
-  "desc": "Doubao Work subscription as magpie models: 9 models with real rate; no desktop client needed"
  },
  {
   "name": "wbb6517/magpie-computer-use",
@@ -454,6 +454,14 @@
   "sizeKB": 497,
   "updated": "2026-11-11T11:45:08Z",
   "desc": "通过本机 Codex Computer Use，为 magpie 中的 Agent 提供截图、点击、输入等十个 macOS 操作工具。"
+ },
+ {
+  "name": "resucdueff/magpie-notion",
+  "clone": "https://github.com/resucdueff/magpie-notion.git",
+  "branch": "main",
+  "sizeKB": 350,
+  "updated": "2026-10-23T13:55:16Z",
+  "desc": "Magpie / OpenCode 的 Notion AI 插件。登录只粘贴自己的 token_v2，工作区自动发现。"
  },
  {
   "name": "Mola-maker/magpie-layerfs",
@@ -472,28 +480,12 @@
   "desc": "DeepSeek (chat.deepseek.com) 网页账号接入 Magpie/OpenCode 的非官方供应商插件：浏览器登录、工作量证明、联网搜索、附件上传、工具调用 | Unofficial Magpie/OpenCode provider plugin for your signed-in DeepSeek web account: browser sign-in; PoW; web search; attachments; tool calling"
  },
  {
-  "name": "resucdueff/magpie-notion",
-  "clone": "https://github.com/resucdueff/magpie-notion.git",
+  "name": "3294798852/magpie-doubao-work",
+  "clone": "https://github.com/3294798852/magpie-doubao-work.git",
   "branch": "main",
-  "sizeKB": 350,
-  "updated": "2026-10-23T13:55:16Z",
-  "desc": "Magpie / OpenCode 的 Notion AI 插件。登录只粘贴自己的 token_v2，工作区自动发现。"
- },
- {
-  "name": "MYCF711/magpie-loomy-auth",
-  "clone": "https://github.com/MYCF711/magpie-loomy-auth.git",
-  "branch": "main",
-  "sizeKB": 718,
-  "updated": "2026-11-13T09:33:02Z",
-  "desc": "Loomy (iFlytek) provider plugin for magpie: desktop-session / SMS / session sign-in; live model catalog with reasoning efforts; and the two credit pools reported as the host routes them — the daily pool counts; the permanent one is shown aside."
- },
- {
-  "name": "theseaiying/magpie-officeace-plugin",
-  "clone": "https://github.com/theseaiying/magpie-officeace-plugin.git",
-  "branch": "main",
-  "sizeKB": 116,
-  "updated": "2026-10-29T07:26:09Z",
-  "desc": "Magpie provider plugin for Huawei Cloud OfficeAce (AgentArts) model gateway; compatible with OpenCode | 华为云   OfficeAce 的 Magpie 模型网关插件（代码兼容 OpenCode）"
+  "sizeKB": 301,
+  "updated": "2026-11-14T01:27:14Z",
+  "desc": "Magpie 豆包 / 豆包工作 / 豆包插件 / Doubao Work provider plugin (doubaowork). Browser login; JSON import; OpenAI text streaming; quotas & daily check-in. Windows; Linux; macOS."
  },
  {
   "name": "22952497/agentrouter-magpie",
@@ -502,6 +494,14 @@
   "sizeKB": 112,
   "updated": "2026-11-12T06:49:25Z",
   "desc": "magpie / OpenCode 的 AgentRouter (agentrouter.org) provider：模型调用、余额用量、每日签到、可自定义请求头。"
+ },
+ {
+  "name": "MYCF711/magpie-loomy-auth",
+  "clone": "https://github.com/MYCF711/magpie-loomy-auth.git",
+  "branch": "main",
+  "sizeKB": 798,
+  "updated": "2026-11-13T09:33:02Z",
+  "desc": "Loomy (iFlytek) provider plugin for magpie: desktop-session / SMS / session sign-in; live model catalog with reasoning efforts; and the two credit pools reported as the host routes them — the daily pool counts; the permanent one is shown aside."
  },
  {
   "name": "mu-zi-lee/magpie-chatgptweb2api",
@@ -528,6 +528,22 @@
   "desc": "Magpie Claude 网页版接入插件：通过 Cookie 连接 Claude，支持动态模型发现、流式对话、会话复用及工具调用，无需独立部署服务。｜Integrate Claude Web into Magpie via Cookie; with dynamic model discovery; streaming chat; session reuse and tool calling; without a standalone server."
  },
  {
+  "name": "theseaiying/magpie-officeace-plugin",
+  "clone": "https://github.com/theseaiying/magpie-officeace-plugin.git",
+  "branch": "main",
+  "sizeKB": 116,
+  "updated": "2026-10-29T07:26:09Z",
+  "desc": "Magpie provider plugin for Huawei Cloud OfficeAce (AgentArts) model gateway; compatible with OpenCode | 华为云   OfficeAce 的 Magpie 模型网关插件（代码兼容 OpenCode）"
+ },
+ {
+  "name": "miaocell/magpie-agent-deva",
+  "clone": "https://github.com/miaocell/magpie-agent-deva.git",
+  "branch": "main",
+  "sizeKB": 32,
+  "updated": "2026-11-14T05:18:56Z",
+  "desc": "把 Deva 桌面版接进 magpie 的 Agent 列表：在 Agents 页勾选模型，插件写进 Deva 的配置"
+ },
+ {
   "name": "aqiu817/magpie-amd-cloud",
   "clone": "https://github.com/aqiu817/magpie-amd-cloud.git",
   "branch": "main",
@@ -552,36 +568,20 @@
   "desc": "Windows port of Claude Science Local for Magpie: local model bridge; managed background runtime; and reversible setup."
  },
  {
+  "name": "RanceLee233/dumate-rance",
+  "clone": "https://github.com/RanceLee233/dumate-rance.git",
+  "branch": "main",
+  "sizeKB": 93,
+  "updated": "2026-11-14T16:06:28Z",
+  "desc": "百度搭子 DuMate for magpie: cross-platform sign-in; model discovery and persistent 1M context metadata. Unofficial experimental integration."
+ },
+ {
   "name": "zrtzrt/magpie-models-price",
   "clone": "https://github.com/zrtzrt/magpie-models-price.git",
   "branch": "main",
   "sizeKB": 12784,
   "updated": "2026-11-12T09:13:30Z",
   "desc": "Auto-match and custom-price Magpie models with models.dev official pricing database & real API spend switch"
- },
- {
-  "name": "LIghtJUNction/magpie-context-folding",
-  "clone": "https://github.com/LIghtJUNction/magpie-context-folding.git",
-  "branch": "main",
-  "sizeKB": 3253,
-  "updated": "2026-11-12T16:53:08Z",
-  "desc": "Reversible; agent-directed context folding for Magpie with cache-aware cost guards"
- },
- {
-  "name": "PengJunchen/magpie-comate-auth",
-  "clone": "https://github.com/PengJunchen/magpie-comate-auth.git",
-  "branch": "main",
-  "sizeKB": 428,
-  "updated": "2026-11-13T08:52:18Z",
-  "desc": "Independent Comate cloud provider for Magpie: native sessions; images and client-owned tools"
- },
- {
-  "name": "3294798852/magpie-doubao-work",
-  "clone": "https://github.com/3294798852/magpie-doubao-work.git",
-  "branch": "main",
-  "sizeKB": 154,
-  "updated": "2026-11-13T14:17:09Z",
-  "desc": "Magpie 豆包 / 豆包工作 / 豆包插件 / Doubao Work provider plugin (doubaowork). Browser login; JSON import; OpenAI text streaming; quotas & daily check-in. Windows; Linux; macOS."
  },
  {
   "name": "MYCF711/magpie-officeace",
@@ -600,12 +600,20 @@
   "desc": "文心快码 Baidu Comate account card for magpie: membership; seat/add-on/gift points"
  },
  {
-  "name": "harwinvoid/magpie-plugin-qwenwork",
-  "clone": "https://github.com/harwinvoid/magpie-plugin-qwenwork.git",
+  "name": "PengJunchen/magpie-comate-auth",
+  "clone": "https://github.com/PengJunchen/magpie-comate-auth.git",
   "branch": "main",
-  "sizeKB": 188,
-  "updated": "2026-11-04T15:15:04Z",
-  "desc": "QwenWork (千问办公) as a magpie / OpenCode provider — sign in with QwenWork's own device flow; use its models."
+  "sizeKB": 428,
+  "updated": "2026-11-13T08:52:18Z",
+  "desc": "Independent Comate cloud provider for Magpie: native sessions; images and client-owned tools"
+ },
+ {
+  "name": "LIghtJUNction/magpie-context-folding",
+  "clone": "https://github.com/LIghtJUNction/magpie-context-folding.git",
+  "branch": "main",
+  "sizeKB": 3301,
+  "updated": "2026-11-12T16:53:08Z",
+  "desc": "Reversible; agent-directed context folding for Magpie with cache-aware cost guards"
  },
  {
   "name": "broven/magpie-sub2api",
@@ -616,12 +624,12 @@
   "desc": "magpie plugin for sub2api sites: models; and subscription/quota usage windows for routing"
  },
  {
-  "name": "x1051445024/magpie-ua-switcher",
-  "clone": "https://github.com/x1051445024/magpie-ua-switcher.git",
+  "name": "harwinvoid/magpie-plugin-qwenwork",
+  "clone": "https://github.com/harwinvoid/magpie-plugin-qwenwork.git",
   "branch": "main",
-  "sizeKB": 739,
-  "updated": "2026-11-12T16:49:13Z",
-  "desc": "magpie 插件：一键切换发往上游的 User-Agent——伪装成 Codex CLI / Claude Code / pi / ZCode 或自定义档案，本地网页开关即时生效。Switch magpie's upstream User-Agent (codex/claude-code/pi/custom) with a local web switcher."
+  "sizeKB": 188,
+  "updated": "2026-11-04T15:15:04Z",
+  "desc": "QwenWork (千问办公) as a magpie / OpenCode provider — sign in with QwenWork's own device flow; use its models."
  },
  {
   "name": "bluenoah1991/magpie-zenmux",
@@ -632,20 +640,12 @@
   "desc": "A Magpie provider plugin for ZenMux Builder Plan and Pay As You Go; with model discovery; native protocol routing; streaming; and tool calling."
  },
  {
-  "name": "miaocell/magpie-agent-deva",
-  "clone": "https://github.com/miaocell/magpie-agent-deva.git",
+  "name": "x1051445024/magpie-ua-switcher",
+  "clone": "https://github.com/x1051445024/magpie-ua-switcher.git",
   "branch": "main",
-  "sizeKB": 32,
-  "updated": "2026-11-13T04:32:40Z",
-  "desc": "把 Deva 桌面版接进 magpie 的 Agent 列表：在 Agents 页勾选模型，插件写进 Deva 的配置"
- },
- {
-  "name": "aqiu817/magpie-atomcode",
-  "clone": "https://github.com/aqiu817/magpie-atomcode.git",
-  "branch": "main",
-  "sizeKB": 95,
-  "updated": "2026-11-03T15:32:13Z",
-  "desc": "ATOMCODE for Magpie: AtomCode (AtomGit CodingPlan) provider plugin — browser OAuth; signed requests; native daily check-in; 5-hour quota window"
+  "sizeKB": 739,
+  "updated": "2026-11-12T16:49:13Z",
+  "desc": "magpie 插件：一键切换发往上游的 User-Agent——伪装成 Codex CLI / Claude Code / pi / ZCode 或自定义档案，本地网页开关即时生效。Switch magpie's upstream User-Agent (codex/claude-code/pi/custom) with a local web switcher."
  },
  {
   "name": "uoox/magpie-workbuddy-tasks",
@@ -654,6 +654,14 @@
   "sizeKB": 56,
   "updated": "2026-11-05T14:30:11Z",
   "desc": "magpie 插件：在社区 WorkBuddy 插件之上补齐每日任务——国内版签到、成长任务、能量盲盒、猫猫旅行、连登管家、夜猫子；国际版签到与每日活跃会话"
+ },
+ {
+  "name": "aqiu817/magpie-atomcode",
+  "clone": "https://github.com/aqiu817/magpie-atomcode.git",
+  "branch": "main",
+  "sizeKB": 95,
+  "updated": "2026-11-03T15:32:13Z",
+  "desc": "ATOMCODE for Magpie: AtomCode (AtomGit CodingPlan) provider plugin — browser OAuth; signed requests; native daily check-in; 5-hour quota window"
  },
  {
   "name": "mdwsk88/magpie-search-mix",
@@ -680,12 +688,20 @@
   "desc": "Magpie 供应商插件：接入商汤日日新 Token Plan（开发者 API，platform.sensenova.cn）的模型，并把控制台积分额度上报为原生额度窗口。不是消费级应用「商汤小浣熊」"
  },
  {
-  "name": "RanceLee233/dumate-rance",
-  "clone": "https://github.com/RanceLee233/dumate-rance.git",
+  "name": "euanguo/magpie-middleware-image-slim",
+  "clone": "https://github.com/euanguo/magpie-middleware-image-slim.git",
   "branch": "main",
-  "sizeKB": 93,
-  "updated": "2026-11-13T15:55:04Z",
-  "desc": "百度搭子 DuMate for magpie: cross-platform sign-in; model discovery and persistent 1M context metadata. Unofficial experimental integration."
+  "sizeKB": 27,
+  "updated": "2026-10-14T10:25:56Z",
+  "desc": "magpie gateway middleware: keep the newest images and replace older inline images with a text placeholder — agents resend every screenshot on every turn otherwise"
+ },
+ {
+  "name": "321sssrt-bit/magpie-comfyui",
+  "clone": "https://github.com/321sssrt-bit/magpie-comfyui.git",
+  "branch": "main",
+  "sizeKB": 21104,
+  "updated": "2026-11-01T19:55:39Z",
+  "desc": ""
  },
  {
   "name": "anbulang/opencode-teleagent-auth",
@@ -704,36 +720,12 @@
   "desc": "7 种样式注入请求，含本地统计与中英文面板。不走浏览器自动化：在网关层替换 system prompt。"
  },
  {
-  "name": "euanguo/magpie-middleware-image-slim",
-  "clone": "https://github.com/euanguo/magpie-middleware-image-slim.git",
-  "branch": "main",
-  "sizeKB": 27,
-  "updated": "2026-10-14T10:25:56Z",
-  "desc": "magpie gateway middleware: keep the newest images and replace older inline images with a text placeholder — agents resend every screenshot on every turn otherwise"
- },
- {
   "name": "manjughosa/magpie-digital-pet-portal",
   "clone": "https://github.com/manjughosa/magpie-digital-pet-portal.git",
   "branch": "master",
   "sizeKB": 394,
   "updated": "2026-11-10T02:24:12Z",
   "desc": "Unofficial interactive showcase portal for the Digital Pet magpie plugin: 600+ pets; 14+ pixel scenes; real token feeding."
- },
- {
-  "name": "egenchen/magpie-packycode",
-  "clone": "https://github.com/egenchen/magpie-packycode.git",
-  "branch": "main",
-  "sizeKB": 168,
-  "updated": "2026-11-02T10:42:52Z",
-  "desc": "PackyAPI / PackyCode 的 magpie 适配插件：同一模型自动走「当前可用且最便宜的分组」，分组故障自动切换，并支持健康检查、倍率学习与余额/用量卡片。 | Magpie integration for PackyAPI / PackyCode: each request goes out on the cheapest token group that is working; with automatic failover; health checks; learned multipliers and a balance & usage card."
- },
- {
-  "name": "MisonL/magpie-plugin-codar",
-  "clone": "https://github.com/MisonL/magpie-plugin-codar.git",
-  "branch": "main",
-  "sizeKB": 564,
-  "updated": "2026-11-12T05:22:04Z",
-  "desc": "Codar (科搭) for magpie — its models as a provider; the daily check-in; and the account's points on the card"
  },
  {
   "name": "ferocknew/magpie-opencode-2-free-plug-in",
@@ -744,36 +736,20 @@
   "desc": "OpenCode 2 免费模型免登录接入插件：支持 GLM-5.3-Flash Free、DeepSeek V4.1、Big Pickle 等全量模型，自动注入门禁指纹与原生流式响应。"
  },
  {
-  "name": "321sssrt-bit/magpie-comfyui",
-  "clone": "https://github.com/321sssrt-bit/magpie-comfyui.git",
+  "name": "egenchen/magpie-packycode",
+  "clone": "https://github.com/egenchen/magpie-packycode.git",
   "branch": "main",
-  "sizeKB": 21104,
-  "updated": "2026-11-01T19:55:39Z",
-  "desc": ""
+  "sizeKB": 674,
+  "updated": "2026-11-02T10:42:52Z",
+  "desc": "PackyAPI / PackyCode 的 magpie 适配插件：同一模型自动走「当前可用且最便宜的分组」，分组故障自动切换，并支持健康检查、倍率学习与余额/用量卡片。 | Magpie integration for PackyAPI / PackyCode: each request goes out on the cheapest token group that is working; with automatic failover; health checks; learned multipliers and a balance & usage card."
  },
  {
-  "name": "cty1735/magpie-select-translate",
-  "clone": "https://github.com/cty1735/magpie-select-translate.git",
+  "name": "MisonL/magpie-plugin-codar",
+  "clone": "https://github.com/MisonL/magpie-plugin-codar.git",
   "branch": "main",
-  "sizeKB": 21746,
-  "updated": "2026-11-13T07:40:26Z",
-  "desc": "magpie 划词翻译（helper + magpie 插件）"
- },
- {
-  "name": "yangwudong/magpie-portkey-bedrock",
-  "clone": "https://github.com/yangwudong/magpie-portkey-bedrock.git",
-  "branch": "main",
-  "sizeKB": 380,
-  "updated": "2026-11-12T08:39:31Z",
-  "desc": ""
- },
- {
-  "name": "Jasery/opencode-lobster-auth",
-  "clone": "https://github.com/Jasery/opencode-lobster-auth.git",
-  "branch": "main",
-  "sizeKB": 201,
-  "updated": "2026-11-04T01:37:31Z",
-  "desc": "magpie / OpenCode provider plugin for NetEase Youdao LobsterAI (有道龙虾)"
+  "sizeKB": 1686,
+  "updated": "2026-11-12T05:22:04Z",
+  "desc": "Codar (科搭) for magpie — its models as a provider; the daily check-in; and the account's points on the card"
  },
  {
   "name": "Sliverkiss/magpie-edgeone",
@@ -800,6 +776,54 @@
   "desc": "豆包工作桌面订阅 Magpie 供应商插件"
  },
  {
+  "name": "cty1735/magpie-select-translate",
+  "clone": "https://github.com/cty1735/magpie-select-translate.git",
+  "branch": "main",
+  "sizeKB": 21746,
+  "updated": "2026-11-13T07:40:26Z",
+  "desc": "magpie 划词翻译（helper + magpie 插件）"
+ },
+ {
+  "name": "yangwudong/magpie-portkey-bedrock",
+  "clone": "https://github.com/yangwudong/magpie-portkey-bedrock.git",
+  "branch": "main",
+  "sizeKB": 380,
+  "updated": "2026-11-12T08:39:31Z",
+  "desc": ""
+ },
+ {
+  "name": "CodingChiao/magpie-muse-code",
+  "clone": "https://github.com/CodingChiao/magpie-muse-code.git",
+  "branch": "main",
+  "sizeKB": 33,
+  "updated": "2026-11-06T17:19:25Z",
+  "desc": "Magpie plugin for Meta One / Muse Code: device-code sign-in; Codex apply_patch & web search; 5h/7d subscription usage"
+ },
+ {
+  "name": "m0eak/magpie-plugin-tokenharbor",
+  "clone": "https://github.com/m0eak/magpie-plugin-tokenharbor.git",
+  "branch": "main",
+  "sizeKB": 17,
+  "updated": "2026-11-13T15:54:11Z",
+  "desc": "TokenHarbor provider plugin with quota visibility"
+ },
+ {
+  "name": "Jasery/opencode-lobster-auth",
+  "clone": "https://github.com/Jasery/opencode-lobster-auth.git",
+  "branch": "main",
+  "sizeKB": 201,
+  "updated": "2026-11-04T01:37:31Z",
+  "desc": "magpie / OpenCode provider plugin for NetEase Youdao LobsterAI (有道龙虾)"
+ },
+ {
+  "name": "XYenon/magpie-google-ai-studio",
+  "clone": "https://github.com/XYenon/magpie-google-ai-studio.git",
+  "branch": "main",
+  "sizeKB": 169,
+  "updated": "2026-11-13T08:28:33Z",
+  "desc": "Google AI Studio provider plugin for Magpie."
+ },
+ {
   "name": "awsl404/magpie-api-checkin",
   "clone": "https://github.com/awsl404/magpie-api-checkin.git",
   "branch": "main",
@@ -814,30 +838,6 @@
   "sizeKB": 518,
   "updated": "2026-11-06T12:41:27Z",
   "desc": "Vertex AI models and Google Cloud promotional credits in Magpie and OpenCode; signed with your own gcloud / ADC login"
- },
- {
-  "name": "CodingChiao/magpie-muse-code",
-  "clone": "https://github.com/CodingChiao/magpie-muse-code.git",
-  "branch": "main",
-  "sizeKB": 33,
-  "updated": "2026-11-06T17:19:25Z",
-  "desc": "Magpie plugin for Meta One / Muse Code: device-code sign-in; Codex apply_patch & web search; 5h/7d subscription usage"
- },
- {
-  "name": "m0eak/magpie-plugin-tokenharbor",
-  "clone": "https://github.com/m0eak/magpie-plugin-tokenharbor.git",
-  "branch": "main",
-  "sizeKB": 16,
-  "updated": "2026-11-13T15:54:11Z",
-  "desc": "TokenHarbor provider plugin with quota visibility"
- },
- {
-  "name": "XYenon/magpie-google-ai-studio",
-  "clone": "https://github.com/XYenon/magpie-google-ai-studio.git",
-  "branch": "main",
-  "sizeKB": 169,
-  "updated": "2026-11-13T08:28:33Z",
-  "desc": "Google AI Studio provider plugin for Magpie."
  },
  {
   "name": "TianZuo555/magpie-portkey",
@@ -856,28 +856,12 @@
   "desc": "Magpie Agent plugin for Proma: synchronize models and routing groups with reasoning menus on Windows."
  },
  {
-  "name": "disturbwe/magpie-deepseek-files",
-  "clone": "https://github.com/disturbwe/magpie-deepseek-files.git",
-  "branch": "main",
-  "sizeKB": 100,
-  "updated": "2026-11-03T16:38:36Z",
-  "desc": "Native Magpie plugin: cached DeepSeek Files API image references to prevent HTTP 413 without discarding images."
- },
- {
   "name": "bingqilinweimaotai/magpie-github-sync-plugin",
   "clone": "https://github.com/bingqilinweimaotai/magpie-github-sync-plugin.git",
   "branch": "main",
   "sizeKB": 296,
   "updated": "2026-10-27T06:02:52Z",
   "desc": "Magpie 内置 GitHub 同步的增强版后续维护，优化实现和体验。"
- },
- {
-  "name": "laxtiz/opencode-classifier-dev-auth",
-  "clone": "https://github.com/laxtiz/opencode-classifier-dev-auth.git",
-  "branch": "master",
-  "sizeKB": 9,
-  "updated": "2026-11-06T11:11:22Z",
-  "desc": "magpie/OpenCode provider plugin for classifier.dev — keyless System One decision models"
  },
  {
   "name": "zseeu1/wbkit",
@@ -888,6 +872,14 @@
   "desc": "WorkBuddy 的 magpie 补位插件：账号池、每日签到、猫猫旅行、成长计划、官方用量与账号页。供应商与登录交给社区插件 opencode-workbuddy-auth。"
  },
  {
+  "name": "laxtiz/opencode-classifier-dev-auth",
+  "clone": "https://github.com/laxtiz/opencode-classifier-dev-auth.git",
+  "branch": "master",
+  "sizeKB": 9,
+  "updated": "2026-11-06T11:11:22Z",
+  "desc": "magpie/OpenCode provider plugin for classifier.dev — keyless System One decision models"
+ },
+ {
   "name": "akiiwa-games/magpie-agentcompass-router",
   "clone": "https://github.com/akiiwa-games/magpie-agentcompass-router.git",
   "branch": "main",
@@ -896,12 +888,28 @@
   "desc": "Pure intent and multi-dimensional capability routing plugin for Magpie; powered by AgentCompass System-One profiler and Model DNA allocator"
  },
  {
-  "name": "Arimayuki03/magpie-zcode-switch-auth",
-  "clone": "https://github.com/Arimayuki03/magpie-zcode-switch-auth.git",
+  "name": "disturbwe/magpie-deepseek-files",
+  "clone": "https://github.com/disturbwe/magpie-deepseek-files.git",
   "branch": "main",
-  "sizeKB": 183,
-  "updated": "2026-11-13T12:06:33Z",
-  "desc": "magpie / OpenCode 的 ZCode 登录与 zcode-switch 账号导入插件。 | ZCode sign-in and zcode-switch account-import plugin for magpie / OpenCode."
+  "sizeKB": 100,
+  "updated": "2026-11-03T16:38:36Z",
+  "desc": "Native Magpie plugin: cached DeepSeek Files API image references to prevent HTTP 413 without discarding images."
+ },
+ {
+  "name": "guanwenpeng2001-bot/magpie-cloud-agents",
+  "clone": "https://github.com/guanwenpeng2001-bot/magpie-cloud-agents.git",
+  "branch": "main",
+  "sizeKB": 782,
+  "updated": "2026-11-12T07:21:12Z",
+  "desc": "六个厂商云代理接入 Magpie：Codex Cloud/Agents、Cursor Cloud、Devin、ChatGPT Dots、Grok Bot，各驱动真实厂商账号，非免费模型池。｜Six vendor cloud agents as Magpie providers: Codex Cloud & Agents; Cursor Cloud; Devin; ChatGPT Dots; Grok Bot. Each drives a real vendor account; not a free model pool."
+ },
+ {
+  "name": "cuddlesgiggles/agent-cowork",
+  "clone": "https://github.com/cuddlesgiggles/agent-cowork.git",
+  "branch": "main",
+  "sizeKB": 39,
+  "updated": "2026-10-30T14:02:33Z",
+  "desc": "Tuanjie Cowork (codely) as a magpie agent: `magpie cowork <model>` switches the model it chats with; on the subscriptions magpie already holds."
  },
  {
   "name": "qiufengwentian/magpie-plugins",
@@ -923,25 +931,25 @@
   "name": "liuzq1103/magpie-page-token-widget",
   "clone": "https://github.com/liuzq1103/magpie-page-token-widget.git",
   "branch": "main",
-  "sizeKB": 243,
+  "sizeKB": 721,
   "updated": "2026-11-13T17:00:40Z",
   "desc": "An iPhone home screen widget for Magpie: install the plugin; scan a code; and the widget shows each subscription's remaining quota and real token usage."
  },
  {
-  "name": "guanwenpeng2001-bot/magpie-cloud-agents",
-  "clone": "https://github.com/guanwenpeng2001-bot/magpie-cloud-agents.git",
+  "name": "mysterysqwq/-Obsolete-magpie-cherrystudio-link",
+  "clone": "https://github.com/mysterysqwq/-Obsolete-magpie-cherrystudio-link.git",
   "branch": "main",
-  "sizeKB": 782,
-  "updated": "2026-11-12T07:21:12Z",
-  "desc": "六个厂商云代理接入 Magpie：Codex Cloud/Agents、Cursor Cloud、Devin、ChatGPT Dots、Grok Bot，各驱动真实厂商账号，非免费模型池。｜Six vendor cloud agents as Magpie providers: Codex Cloud & Agents; Cursor Cloud; Devin; ChatGPT Dots; Grok Bot. Each drives a real vendor account; not a free model pool."
+  "sizeKB": 40,
+  "updated": "2026-11-09T05:31:13Z",
+  "desc": "链接 Magpie 与 Cherry Studio 的双向插件"
  },
  {
-  "name": "cuddlesgiggles/agent-cowork",
-  "clone": "https://github.com/cuddlesgiggles/agent-cowork.git",
+  "name": "brick314116-hue/magpie-kiki",
+  "clone": "https://github.com/brick314116-hue/magpie-kiki.git",
   "branch": "main",
-  "sizeKB": 39,
-  "updated": "2026-10-30T14:02:33Z",
-  "desc": "Tuanjie Cowork (codely) as a magpie agent: `magpie cowork <model>` switches the model it chats with; on the subscriptions magpie already holds."
+  "sizeKB": 33,
+  "updated": "2026-10-31T12:29:49Z",
+  "desc": "Kiki as a Magpie agent: pick a Magpie model for Kiki. The Magpie plugin writes Kiki's TOML from its Bun host; a Kiki-side plugin is optional."
  },
  {
   "name": "mu-zi-lee/magpie-ssh-chat-hf-co",
@@ -984,36 +992,44 @@
   "desc": "A human-driven memory infrastructure for AI agents: shared context across agents; workspaces and teammates. Unified decisions; notes and session units as searchable .md cards; privately hosted and served over MCP to major agents like Claude Code; Codex; Cursor; Hermes and more."
  },
  {
-  "name": "mysterysqwq/-Obsolete-magpie-cherrystudio-link",
-  "clone": "https://github.com/mysterysqwq/-Obsolete-magpie-cherrystudio-link.git",
+  "name": "Ice0828/magpie-agent-cursor-bridge-linux",
+  "clone": "https://github.com/Ice0828/magpie-agent-cursor-bridge-linux.git",
   "branch": "main",
-  "sizeKB": 40,
-  "updated": "2026-11-09T05:31:13Z",
-  "desc": "链接 Magpie 与 Cherry Studio 的双向插件"
+  "sizeKB": 172,
+  "updated": "2026-11-14T10:38:10Z",
+  "desc": ""
  },
  {
-  "name": "brick314116-hue/magpie-kiki",
-  "clone": "https://github.com/brick314116-hue/magpie-kiki.git",
+  "name": "al-yuanshan/magpie-taskbar",
+  "clone": "https://github.com/al-yuanshan/magpie-taskbar.git",
   "branch": "main",
-  "sizeKB": 33,
-  "updated": "2026-10-31T12:29:49Z",
-  "desc": "Kiki as a Magpie agent: pick a Magpie model for Kiki. The Magpie plugin writes Kiki's TOML from its Bun host; a Kiki-side plugin is optional."
+  "sizeKB": 300,
+  "updated": "2026-11-10T07:33:30Z",
+  "desc": "TrafficMonitor任务栏插件监控magpie网关使用情况"
  },
  {
-  "name": "XcodeFish/opencode-cn-ai-auth",
-  "clone": "https://github.com/XcodeFish/opencode-cn-ai-auth.git",
-  "branch": "master",
-  "sizeKB": 969,
-  "updated": "2026-10-22T03:24:35Z",
-  "desc": "Magpie provider plugin for Loomy (iFlytek) and Raccoon (SenseTime) coding subscriptions: sign-in; model catalog and credits.｜讯飞 Loomy 与商汤小浣熊的编程订阅：各自的登录、模型目录与积分额度。"
+  "name": "niyoh120/magpie-dumate-enterprise",
+  "clone": "https://github.com/niyoh120/magpie-dumate-enterprise.git",
+  "branch": "main",
+  "sizeKB": 87,
+  "updated": "2026-11-13T05:21:43Z",
+  "desc": "把百度搭子企业版（DuMate Enterprise）的租户资源点接入 Magpie / OpenCode：Cookie → 租户 user_token → ais-v2 网关，OpenAI 兼容，余额与用量展示"
  },
  {
-  "name": "YaoGuaiLi/hangong",
-  "clone": "https://github.com/YaoGuaiLi/hangong.git",
+  "name": "sidkang/agy-acp",
+  "clone": "https://github.com/sidkang/agy-acp.git",
   "branch": "main",
-  "sizeKB": 106,
-  "updated": "2026-11-10T14:10:32Z",
-  "desc": "汉宫 · magpie gateway middleware — one system prompt on every agent; injected at the gateway · 一个提示词注入全部 Agent 的 magpie 网关中间件"
+  "sizeKB": 1790,
+  "updated": "2026-11-14T16:46:29Z",
+  "desc": "Multi-account Antigravity CLI (agy acp) model provider plugin for Magpie and OpenCode"
+ },
+ {
+  "name": "yys9253462-gif/claude-ag-zh",
+  "clone": "https://github.com/yys9253462-gif/claude-ag-zh.git",
+  "branch": "main",
+  "sizeKB": 5119,
+  "updated": "2026-11-14T18:21:22Z",
+  "desc": "Claude Desktop & Antigravity 中文汉化工具（Windows 独立可执行版 / Magpie 插件 / macOS 实验版）"
  },
  {
   "name": "tianyn1990/qwenwork-magpie",
@@ -1043,9 +1059,73 @@
   "name": "qaz139688/magpie-comate-auth",
   "clone": "https://github.com/qaz139688/magpie-comate-auth.git",
   "branch": "main",
-  "sizeKB": 55,
+  "sizeKB": 80,
   "updated": "2026-11-13T17:15:39Z",
   "desc": "Improved Magpie plugin for Baidu Comate: device auth; live quota; official model contexts."
+ },
+ {
+  "name": "webkubor/harnessweight",
+  "clone": "https://github.com/webkubor/harnessweight.git",
+  "branch": "main",
+  "sizeKB": 12181,
+  "updated": "2026-11-12T09:18:39Z",
+  "desc": "给网关后面的每个 Agent harness 称重：输入 token、缓存命中、失败率、每轮重发的工具定义体积。已收录 magpie 社区插件 · Weigh every agent harness behind your magpie gateway."
+ },
+ {
+  "name": "tiezbro/magpie-claude-setup-token-quota",
+  "clone": "https://github.com/tiezbro/magpie-claude-setup-token-quota.git",
+  "branch": "main",
+  "sizeKB": 101,
+  "updated": "2026-11-03T12:54:40Z",
+  "desc": "Quota-only Magpie plugin for Claude setup-token 5h/7d allowance"
+ },
+ {
+  "name": "wabxn514/magpie-today-plugin",
+  "clone": "https://github.com/wabxn514/magpie-today-plugin.git",
+  "branch": "main",
+  "sizeKB": 41,
+  "updated": "2026-10-28T19:41:18Z",
+  "desc": "把 Today App 内置的 DeepSeek V4.1 Flash / GLM 5.3 做成 magpie 原生供应商。"
+ },
+ {
+  "name": "guangzan/magpie-gateway-admin",
+  "clone": "https://github.com/guangzan/magpie-gateway-admin.git",
+  "branch": "main",
+  "sizeKB": 1968,
+  "updated": "2026-11-10T07:45:15Z",
+  "desc": "给 magpie 网关加上多用户管理：批量发 key、限额、模型权限和用量看板"
+ },
+ {
+  "name": "guanwenpeng2001-bot/magpie-chatgpt-web",
+  "clone": "https://github.com/guanwenpeng2001-bot/magpie-chatgpt-web.git",
+  "branch": "main",
+  "sizeKB": 2126,
+  "updated": "2026-11-12T13:00:46Z",
+  "desc": "ChatGPT web (chatgpt.com) as a magpie text provider: visible-Chrome sign-in; temporary chats; batched reply streaming. | 把 ChatGPT 网页会话接入 Magpie：可见 Chrome 登录、临时对话、分批流式回复。"
+ },
+ {
+  "name": "XcodeFish/opencode-cn-ai-auth",
+  "clone": "https://github.com/XcodeFish/opencode-cn-ai-auth.git",
+  "branch": "master",
+  "sizeKB": 969,
+  "updated": "2026-10-22T03:24:35Z",
+  "desc": "Magpie provider plugin for Loomy (iFlytek) and Raccoon (SenseTime) coding subscriptions: sign-in; model catalog and credits.｜讯飞 Loomy 与商汤小浣熊的编程订阅：各自的登录、模型目录与积分额度。"
+ },
+ {
+  "name": "YaoGuaiLi/hangong",
+  "clone": "https://github.com/YaoGuaiLi/hangong.git",
+  "branch": "main",
+  "sizeKB": 106,
+  "updated": "2026-11-10T14:10:32Z",
+  "desc": "汉宫 · magpie gateway middleware — one system prompt on every agent; injected at the gateway · 一个提示词注入全部 Agent 的 magpie 网关中间件"
+ },
+ {
+  "name": "QAyong/magpie-model-square",
+  "clone": "https://github.com/QAyong/magpie-model-square.git",
+  "branch": "main",
+  "sizeKB": 249,
+  "updated": "2026-11-14T15:11:44Z",
+  "desc": "模型广场：比较 AI 模型综合能力、网页表现与预算成本，离线查看价格、上下文和模态。"
  },
  {
   "name": "ddq568/opencode-stepx-auth",
@@ -1078,38 +1158,6 @@
   "sizeKB": 70,
   "updated": "2026-11-07T09:01:48Z",
   "desc": "Meoo 秒悟 (meoo.com) in OpenCode and Magpie: browser PKCE sign-in; reuse of local dsh-meoo-connect state; or a project service AK; with a live model catalog"
- },
- {
-  "name": "tiezbro/magpie-claude-setup-token-quota",
-  "clone": "https://github.com/tiezbro/magpie-claude-setup-token-quota.git",
-  "branch": "main",
-  "sizeKB": 101,
-  "updated": "2026-11-03T12:54:40Z",
-  "desc": "Quota-only Magpie plugin for Claude setup-token 5h/7d allowance"
- },
- {
-  "name": "wabxn514/magpie-today-plugin",
-  "clone": "https://github.com/wabxn514/magpie-today-plugin.git",
-  "branch": "main",
-  "sizeKB": 41,
-  "updated": "2026-10-28T19:41:18Z",
-  "desc": "把 Today App 内置的 DeepSeek V4.1 Flash / GLM 5.3 做成 magpie 原生供应商。"
- },
- {
-  "name": "guangzan/magpie-gateway-admin",
-  "clone": "https://github.com/guangzan/magpie-gateway-admin.git",
-  "branch": "main",
-  "sizeKB": 1968,
-  "updated": "2026-11-10T07:45:15Z",
-  "desc": "给 magpie 网关加上多用户管理：批量发 key、限额、模型权限和用量看板"
- },
- {
-  "name": "guanwenpeng2001-bot/magpie-chatgpt-web",
-  "clone": "https://github.com/guanwenpeng2001-bot/magpie-chatgpt-web.git",
-  "branch": "main",
-  "sizeKB": 1599,
-  "updated": "2026-11-12T13:00:46Z",
-  "desc": "ChatGPT web (chatgpt.com) as a magpie text provider: visible-Chrome sign-in; temporary chats; batched reply streaming. | 把 ChatGPT 网页会话接入 Magpie：可见 Chrome 登录、临时对话、分批流式回复。"
  },
  {
   "name": "dbydd/opencode-opendesign-auth",
@@ -1152,6 +1200,38 @@
   "desc": "Connect Ducoro to Magpie models; sync assigned MCP servers; skills; instructions and explicitly selected subagents."
  },
  {
+  "name": "Thebanditsare/opencode-perch-auth",
+  "clone": "https://github.com/Thebanditsare/opencode-perch-auth.git",
+  "branch": "main",
+  "sizeKB": 15,
+  "updated": "2026-11-09T19:22:51Z",
+  "desc": "magpie/OpenCode provider plugin for Perch Terminal: browser sign-in; Perch-hosted models"
+ },
+ {
+  "name": "kasisama/magpie-joycode",
+  "clone": "https://github.com/kasisama/magpie-joycode.git",
+  "branch": "main",
+  "sizeKB": 50,
+  "updated": "2026-11-04T05:39:23Z",
+  "desc": "JoyCode provider for magpie: browser login; quota; model rates and streaming tool calls"
+ },
+ {
+  "name": "CrazyTomatoOo/volcengine-apigw-usage",
+  "clone": "https://github.com/CrazyTomatoOo/volcengine-apigw-usage.git",
+  "branch": "main",
+  "sizeKB": 61,
+  "updated": "2026-11-07T02:03:19Z",
+  "desc": "火山引擎 APIG 网关的 Magpie 插件：推理转发 + token 用量查询 (BlueRegion 架构)"
+ },
+ {
+  "name": "qingnian108/magpie-agent-console",
+  "clone": "https://github.com/qingnian108/magpie-agent-console.git",
+  "branch": "main",
+  "sizeKB": 2923,
+  "updated": "2026-11-06T14:37:02Z",
+  "desc": "Magpie page plugin: drive local Agent CLIs (Claude Code; Codex; Cursor; …) from a control surface in the magpie window."
+ },
+ {
   "name": "Chekhovin/magpie-ccursor",
   "clone": "https://github.com/Chekhovin/magpie-ccursor.git",
   "branch": "main",
@@ -1168,68 +1248,12 @@
   "desc": "magpie page plugin: run; supervise and update long-running local commands; and share local ports via Cloudflare quick tunnels."
  },
  {
-  "name": "webkubor/harnessweight",
-  "clone": "https://github.com/webkubor/harnessweight.git",
+  "name": "Sliverkiss/magpie-cli-purge",
+  "clone": "https://github.com/Sliverkiss/magpie-cli-purge.git",
   "branch": "main",
-  "sizeKB": 12181,
-  "updated": "2026-11-12T09:18:39Z",
-  "desc": "给网关后面的每个 Agent harness 称重：输入 token、缓存命中、失败率、每轮重发的工具定义体积。已收录 magpie 社区插件 · Weigh every agent harness behind your magpie gateway."
- },
- {
-  "name": "CrazyTomatoOo/volcengine-apigw-usage",
-  "clone": "https://github.com/CrazyTomatoOo/volcengine-apigw-usage.git",
-  "branch": "main",
-  "sizeKB": 61,
-  "updated": "2026-11-07T02:03:19Z",
-  "desc": "火山引擎 APIG 网关的 Magpie 插件：推理转发 + token 用量查询 (BlueRegion 架构)"
- },
- {
-  "name": "qingnian108/magpie-agent-console",
-  "clone": "https://github.com/qingnian108/magpie-agent-console.git",
-  "branch": "main",
-  "sizeKB": 2837,
-  "updated": "2026-11-06T14:37:02Z",
-  "desc": "Magpie page plugin: drive local Agent CLIs (Claude Code; Codex; Cursor; …) from a control surface in the magpie window."
- },
- {
-  "name": "YougLin-dev/r4coder-magpie-plugin",
-  "clone": "https://github.com/YougLin-dev/r4coder-magpie-plugin.git",
-  "branch": "main",
-  "sizeKB": 20,
-  "updated": "2026-10-20T06:46:07Z",
-  "desc": "R4 Coder provider plugin for magpie: API-key sign-in; live model catalog and usage card."
- },
- {
-  "name": "xiaokang6/magpie-cline-pass",
-  "clone": "https://github.com/xiaokang6/magpie-cline-pass.git",
-  "branch": "main",
-  "sizeKB": 137,
-  "updated": "2026-10-24T14:51:07Z",
-  "desc": "Cline Pass provider for magpie; based on dsh-cline-pass: live subscription models; quota usage; per-model upstream probing; pinning and pre-first-token failover."
- },
- {
-  "name": "RrOrange/magpie-scnet-auth",
-  "clone": "https://github.com/RrOrange/magpie-scnet-auth.git",
-  "branch": "main",
-  "sizeKB": 49,
-  "updated": "2026-11-13T05:07:59Z",
-  "desc": "Magpie provider plugin for SCNet (scnet.cn) LLM models"
- },
- {
-  "name": "kasisama/magpie-joycode",
-  "clone": "https://github.com/kasisama/magpie-joycode.git",
-  "branch": "main",
-  "sizeKB": 50,
-  "updated": "2026-11-04T05:39:23Z",
-  "desc": "JoyCode provider for magpie: browser login; quota; model rates and streaming tool calls"
- },
- {
-  "name": "liubaicai/magpie-codebuddy-cli",
-  "clone": "https://github.com/liubaicai/magpie-codebuddy-cli.git",
-  "branch": "main",
-  "sizeKB": 152,
-  "updated": "2026-11-11T02:38:01Z",
-  "desc": "[!非反代]把CodeBuddy CLI（Workbuddy）接入Magpie，在同一个网关中使用 Workbuddy/CodeBuddy 账号的积分、模型、思考过程和工具调用。"
+  "sizeKB": 391,
+  "updated": "2026-11-14T10:54:00Z",
+  "desc": "magpie 网关插件：把经过网关的 agent 请求的系统提示词换成你的人设。"
  },
  {
   "name": "Jiao77/magpie-string-ai",
@@ -1256,12 +1280,12 @@
   "desc": "One ARTEX agent plugin for official Magpie: native model selection; visible-model sync; and Windows/WSL connections. No Magpie patch required."
  },
  {
-  "name": "Thebanditsare/opencode-perch-auth",
-  "clone": "https://github.com/Thebanditsare/opencode-perch-auth.git",
+  "name": "YougLin-dev/r4coder-magpie-plugin",
+  "clone": "https://github.com/YougLin-dev/r4coder-magpie-plugin.git",
   "branch": "main",
-  "sizeKB": 15,
-  "updated": "2026-11-09T19:22:51Z",
-  "desc": "magpie/OpenCode provider plugin for Perch Terminal: browser sign-in; Perch-hosted models"
+  "sizeKB": 20,
+  "updated": "2026-10-20T06:46:07Z",
+  "desc": "R4 Coder provider plugin for magpie: API-key sign-in; live model catalog and usage card."
  },
  {
   "name": "SadWood/magpie-gaccode",
@@ -1294,46 +1318,6 @@
   "sizeKB": 5342,
   "updated": "2026-11-10T08:05:06Z",
   "desc": "解决远程开发问题"
- },
- {
-  "name": "zhou0928/magpie-retry",
-  "clone": "https://github.com/zhou0928/magpie-retry.git",
-  "branch": "main",
-  "sizeKB": 22,
-  "updated": "2026-10-28T01:00:39Z",
-  "desc": "A circuit breaker for magpie's gateway: a model that keeps failing rests for a while; refused at once with a 429 so the agent retries on its own backoff."
- },
- {
-  "name": "kabaBZ/magpie-otari-provider",
-  "clone": "https://github.com/kabaBZ/magpie-otari-provider.git",
-  "branch": "main",
-  "sizeKB": 183,
-  "updated": "2026-11-09T10:17:42Z",
-  "desc": "Otari provider plugin for Magpie: models; pricing; balance; usage; routing visibility and Chat Completions."
- },
- {
-  "name": "chengyixu/magpie-freebuff",
-  "clone": "https://github.com/chengyixu/magpie-freebuff.git",
-  "branch": "main",
-  "sizeKB": 22,
-  "updated": "2026-11-12T13:33:38Z",
-  "desc": "Freebuff provider plugin for Magpie and OpenCode"
- },
- {
-  "name": "al-yuanshan/magpie-taskbar",
-  "clone": "https://github.com/al-yuanshan/magpie-taskbar.git",
-  "branch": "main",
-  "sizeKB": 300,
-  "updated": "2026-11-10T07:33:30Z",
-  "desc": "TrafficMonitor任务栏插件监控magpie网关使用情况"
- },
- {
-  "name": "niyoh120/magpie-dumate-enterprise",
-  "clone": "https://github.com/niyoh120/magpie-dumate-enterprise.git",
-  "branch": "main",
-  "sizeKB": 87,
-  "updated": "2026-11-13T05:21:43Z",
-  "desc": "把百度搭子企业版（DuMate Enterprise）的租户资源点接入 Magpie / OpenCode：Cookie → 租户 user_token → ais-v2 网关，OpenAI 兼容，余额与用量展示"
  },
  {
   "name": "ezdemo/magpie-haiku55-thinking",
@@ -1376,12 +1360,52 @@
   "desc": "magpie gateway middleware: keep the recent window sharp; thin old history — saccade drops old context on a new topic; evidence page included"
  },
  {
-  "name": "JohnWangggg/magpie-observatory",
-  "clone": "https://github.com/JohnWangggg/magpie-observatory.git",
+  "name": "liubaicai/magpie-codebuddy-cli",
+  "clone": "https://github.com/liubaicai/magpie-codebuddy-cli.git",
   "branch": "main",
-  "sizeKB": 128789,
-  "updated": "2026-11-13T17:37:05Z",
-  "desc": "A live monitoring cockpit for Magpie: routing; quotas; usage and rhythm."
+  "sizeKB": 152,
+  "updated": "2026-11-11T02:38:01Z",
+  "desc": "[!非反代]把CodeBuddy CLI（Workbuddy）接入Magpie，在同一个网关中使用 Workbuddy/CodeBuddy 账号的积分、模型、思考过程和工具调用。"
+ },
+ {
+  "name": "xiaokang6/magpie-cline-pass",
+  "clone": "https://github.com/xiaokang6/magpie-cline-pass.git",
+  "branch": "main",
+  "sizeKB": 137,
+  "updated": "2026-10-24T14:51:07Z",
+  "desc": "Cline Pass provider for magpie; based on dsh-cline-pass: live subscription models; quota usage; per-model upstream probing; pinning and pre-first-token failover."
+ },
+ {
+  "name": "RrOrange/magpie-scnet-auth",
+  "clone": "https://github.com/RrOrange/magpie-scnet-auth.git",
+  "branch": "main",
+  "sizeKB": 49,
+  "updated": "2026-11-13T05:07:59Z",
+  "desc": "Magpie provider plugin for SCNet (scnet.cn) LLM models"
+ },
+ {
+  "name": "zhou0928/magpie-retry",
+  "clone": "https://github.com/zhou0928/magpie-retry.git",
+  "branch": "main",
+  "sizeKB": 22,
+  "updated": "2026-10-28T01:00:39Z",
+  "desc": "A circuit breaker for magpie's gateway: a model that keeps failing rests for a while; refused at once with a 429 so the agent retries on its own backoff."
+ },
+ {
+  "name": "chengyixu/magpie-freebuff",
+  "clone": "https://github.com/chengyixu/magpie-freebuff.git",
+  "branch": "main",
+  "sizeKB": 22,
+  "updated": "2026-11-12T13:33:38Z",
+  "desc": "Freebuff provider plugin for Magpie and OpenCode"
+ },
+ {
+  "name": "kabaBZ/magpie-otari-provider",
+  "clone": "https://github.com/kabaBZ/magpie-otari-provider.git",
+  "branch": "main",
+  "sizeKB": 196,
+  "updated": "2026-11-09T10:17:42Z",
+  "desc": "Otari provider plugin for Magpie: models; pricing; balance; usage; routing visibility and Chat Completions."
  },
  {
   "name": "CallMeKingsley97/magpie-retry",
@@ -1432,6 +1456,14 @@
   "desc": "非官方社区插件：在 Magpie 中统一管理 Hindsight 的 AI 对话与日报/周报模型。"
  },
  {
+  "name": "ANDY-JK/magpie-claude-desktop-zh",
+  "clone": "https://github.com/ANDY-JK/magpie-claude-desktop-zh.git",
+  "branch": "main",
+  "sizeKB": 2953,
+  "updated": "2026-11-11T16:46:16Z",
+  "desc": "简体中文界面 for Claude Desktop; as a magpie plugin: a copy of the official client with a self-built zh-Hans catalog; the installed app untouched"
+ },
+ {
   "name": "Hu9956/DSH-model-controls",
   "clone": "https://github.com/Hu9956/DSH-model-controls.git",
   "branch": "main",
@@ -1464,60 +1496,12 @@
   "desc": "Codex账号级降智检测与降智自动隔离"
  },
  {
-  "name": "ANDY-JK/magpie-claude-desktop-zh",
-  "clone": "https://github.com/ANDY-JK/magpie-claude-desktop-zh.git",
+  "name": "KasenRi/magpie-plugin-updream",
+  "clone": "https://github.com/KasenRi/magpie-plugin-updream.git",
   "branch": "main",
-  "sizeKB": 2953,
-  "updated": "2026-11-11T16:46:16Z",
-  "desc": "简体中文界面 for Claude Desktop; as a magpie plugin: a copy of the official client with a self-built zh-Hans catalog; the installed app untouched"
- },
- {
-  "name": "MoozIiSP/magpie-google-aistudio",
-  "clone": "https://github.com/MoozIiSP/magpie-google-aistudio.git",
-  "branch": "main",
-  "sizeKB": 9,
-  "updated": "2026-10-31T12:32:46Z",
-  "desc": "Google AI Studio provider plugin for Magpie"
- },
- {
-  "name": "GGGODLIN/magpie-chatgpt-desktop",
-  "clone": "https://github.com/GGGODLIN/magpie-chatgpt-desktop.git",
-  "branch": "main",
-  "sizeKB": 502,
-  "updated": "2026-10-30T09:05:20Z",
-  "desc": "Magpie provider plugin and local CLI for macOS ChatGPT Desktop via CDP"
- },
- {
-  "name": "Alexhang1314520/magpie-agent-nowledge-mem",
-  "clone": "https://github.com/Alexhang1314520/magpie-agent-nowledge-mem.git",
-  "branch": "main",
-  "sizeKB": 25,
-  "updated": "2026-11-07T03:15:22Z",
-  "desc": "Magpie Agent plugin managing Nowledge Mem Default; AI Now and Background models with reversible synchronization"
- },
- {
-  "name": "ezdemo/magpie-agent-loopra",
-  "clone": "https://github.com/ezdemo/magpie-agent-loopra.git",
-  "branch": "main",
-  "sizeKB": 31,
-  "updated": "2026-11-05T12:36:21Z",
-  "desc": "Magpie Agent plugin for Loopra: model channels; context/output limits; image input and configuration restore."
- },
- {
-  "name": "muzixiaoyao/magpie-agent-musacode",
-  "clone": "https://github.com/muzixiaoyao/magpie-agent-musacode.git",
-  "branch": "main",
-  "sizeKB": 4,
-  "updated": "2026-11-06T06:34:41Z",
-  "desc": "A magpie agent plugin for MUSACODE: pick its model in magpie; OpenCode-compatible config."
- },
- {
-  "name": "Euraxluo/magpie-plugin-baohe",
-  "clone": "https://github.com/Euraxluo/magpie-plugin-baohe.git",
-  "branch": "main",
-  "sizeKB": 100,
-  "updated": "2026-11-10T02:25:29Z",
-  "desc": "宝盒(中通 zbox-lite)网络哨兵 magpie 插件：状态总览/一键无头重连/补丁与守护管理 · Baohe network sentry page plugin for magpie"
+  "sizeKB": 145,
+  "updated": "2026-11-14T04:19:57Z",
+  "desc": "Unofficial magpie tools plugin: call UPdream (Seedance 2.5 / 2.0) video generation from any LLM agent via MCP"
  },
  {
   "name": "tokener-ai/magpie-plugin-tokener",
@@ -1568,6 +1552,54 @@
   "desc": "magpie's Zed plugin (upstream: magpie-community/plugins packages/zed) with fixes that haven't landed there yet; following upstream hourly"
  },
  {
+  "name": "MoozIiSP/magpie-google-aistudio",
+  "clone": "https://github.com/MoozIiSP/magpie-google-aistudio.git",
+  "branch": "main",
+  "sizeKB": 9,
+  "updated": "2026-10-31T12:32:46Z",
+  "desc": "Google AI Studio provider plugin for Magpie"
+ },
+ {
+  "name": "Alexhang1314520/magpie-agent-nowledge-mem",
+  "clone": "https://github.com/Alexhang1314520/magpie-agent-nowledge-mem.git",
+  "branch": "main",
+  "sizeKB": 25,
+  "updated": "2026-11-07T03:15:22Z",
+  "desc": "Magpie Agent plugin managing Nowledge Mem Default; AI Now and Background models with reversible synchronization"
+ },
+ {
+  "name": "ezdemo/magpie-agent-loopra",
+  "clone": "https://github.com/ezdemo/magpie-agent-loopra.git",
+  "branch": "main",
+  "sizeKB": 31,
+  "updated": "2026-11-05T12:36:21Z",
+  "desc": "Magpie Agent plugin for Loopra: model channels; context/output limits; image input and configuration restore."
+ },
+ {
+  "name": "muzixiaoyao/magpie-agent-musacode",
+  "clone": "https://github.com/muzixiaoyao/magpie-agent-musacode.git",
+  "branch": "main",
+  "sizeKB": 4,
+  "updated": "2026-11-06T06:34:41Z",
+  "desc": "A magpie agent plugin for MUSACODE: pick its model in magpie; OpenCode-compatible config."
+ },
+ {
+  "name": "Euraxluo/magpie-plugin-baohe",
+  "clone": "https://github.com/Euraxluo/magpie-plugin-baohe.git",
+  "branch": "main",
+  "sizeKB": 100,
+  "updated": "2026-11-10T02:25:29Z",
+  "desc": "宝盒(中通 zbox-lite)网络哨兵 magpie 插件：状态总览/一键无头重连/补丁与守护管理 · Baohe network sentry page plugin for magpie"
+ },
+ {
+  "name": "GGGODLIN/magpie-chatgpt-desktop",
+  "clone": "https://github.com/GGGODLIN/magpie-chatgpt-desktop.git",
+  "branch": "main",
+  "sizeKB": 137,
+  "updated": "2026-10-30T09:05:20Z",
+  "desc": "Magpie provider plugin and local CLI for macOS ChatGPT Desktop via CDP"
+ },
+ {
   "name": "weizsw/magpie-venice-web",
   "clone": "https://github.com/weizsw/magpie-venice-web.git",
   "branch": "main",
@@ -1598,6 +1630,54 @@
   "sizeKB": 26,
   "updated": "2026-11-12T06:00:01Z",
   "desc": "Native Magpie gateway middleware for audio/video attachment compatibility"
+ },
+ {
+  "name": "zerodegress/magpie-not-enough-llama",
+  "clone": "https://github.com/zerodegress/magpie-not-enough-llama.git",
+  "branch": "master",
+  "sizeKB": 13,
+  "updated": "2026-10-24T13:57:18Z",
+  "desc": "A magpie provider that spins up a local llama-server only when a request arrives; then shuts it down after it goes idle; so models are never resident but still look like an ordinary local/<model> provider."
+ },
+ {
+  "name": "xiaolietu/st-sensenova-magpie",
+  "clone": "https://github.com/xiaolietu/st-sensenova-magpie.git",
+  "branch": "main",
+  "sizeKB": 362,
+  "updated": "2026-11-02T15:03:31Z",
+  "desc": "SenseNova（商汤 · 日日新）Token Plan 的 Magpie 供应商插件。模型列表实时取自 GET /v1/models，没有内置清单；控制台积分额度上报为 Magpie 原生额度窗口。"
+ },
+ {
+  "name": "wanglz111/magpie-commandcode-search",
+  "clone": "https://github.com/wanglz111/magpie-commandcode-search.git",
+  "branch": "main",
+  "sizeKB": 26,
+  "updated": "2026-10-18T11:08:56Z",
+  "desc": "Magpie search-only provider: DeepSeek web search through your CommandCode plan; isolated with bubblewrap on Linux."
+ },
+ {
+  "name": "linjicong/opencode-xfyun-maas-auth",
+  "clone": "https://github.com/linjicong/opencode-xfyun-maas-auth.git",
+  "branch": "main",
+  "sizeKB": 57,
+  "updated": "2026-11-13T02:01:31Z",
+  "desc": "magpie / OpenCode provider plugin for iFlytek Xfyun MaaS"
+ },
+ {
+  "name": "MYCF711/magpie-chatbox-ai",
+  "clone": "https://github.com/MYCF711/magpie-chatbox-ai.git",
+  "branch": "main",
+  "sizeKB": 681,
+  "updated": "2026-11-13T09:36:22Z",
+  "desc": "Chatbox AI (the service inside the Chatbox desktop app) as a magpie / OpenCode provider: local license import; 63 models over four native gateways; daily token quota and image capability. Unofficial."
+ },
+ {
+  "name": "NKBaa/magpie-antigravity-coding-filter",
+  "clone": "https://github.com/NKBaa/magpie-antigravity-coding-filter.git",
+  "branch": "main",
+  "sizeKB": 2244,
+  "updated": "2026-11-12T09:24:11Z",
+  "desc": "magpie gateway middleware: another coding agent's name in the system prompt is rewritten or cloaked; only on the request an Antigravity account is sent. Port of jellyfish-p/cpa-plugin-antigravity-coding-filter."
  },
  {
   "name": "drop-source/magpie-relay-auto",
@@ -1696,84 +1776,180 @@
   "desc": "BreezeBlue provider plugin for Magpie"
  },
  {
-  "name": "zerodegress/magpie-not-enough-llama",
-  "clone": "https://github.com/zerodegress/magpie-not-enough-llama.git",
+  "name": "SwufeFox/Coffusio",
+  "clone": "https://github.com/SwufeFox/Coffusio.git",
+  "branch": "main",
+  "sizeKB": 103,
+  "updated": "2026-10-18T07:56:25Z",
+  "desc": "Magpie Gateway middleware with ColdCoffee-inspired routing and an optional scoped MCP toolbox."
+ },
+ {
+  "name": "jk-uzi/claude-desktop-zh-win",
+  "clone": "https://github.com/jk-uzi/claude-desktop-zh-win.git",
+  "branch": "main",
+  "sizeKB": 400,
+  "updated": "2026-11-05T13:35:16Z",
+  "desc": "Windows magpie plugin: load official Simplified Chinese UI into Claude Desktop third-party Gateway mode; including Claude 4.x ion-dist.asar and the inference settings window."
+ },
+ {
+  "name": "cat-xierluo/magpie-zcode-start",
+  "clone": "https://github.com/cat-xierluo/magpie-zcode-start.git",
+  "branch": "main",
+  "sizeKB": 655,
+  "updated": "2026-11-04T19:53:06Z",
+  "desc": "Unofficial Magpie provider plugin exposing ZCode Start Plan allowances as an independent zcode-start lane"
+ },
+ {
+  "name": "huige233/magpie-kimi-cli-login",
+  "clone": "https://github.com/huige233/magpie-kimi-cli-login.git",
+  "branch": "main",
+  "sizeKB": 8,
+  "updated": "2026-11-11T10:49:36Z",
+  "desc": "Magpie provider plugin for local Kimi Code CLI logins; model discovery; and per-account quotas on Windows."
+ },
+ {
+  "name": "NekoNuo/guard",
+  "clone": "https://github.com/NekoNuo/guard.git",
+  "branch": "main",
+  "sizeKB": 38,
+  "updated": "2026-10-26T08:48:45Z",
+  "desc": "magpie-客户端黑/白名单"
+ },
+ {
+  "name": "connoryang331/magpie-workbuddy-growth",
+  "clone": "https://github.com/connoryang331/magpie-workbuddy-growth.git",
   "branch": "master",
-  "sizeKB": 13,
-  "updated": "2026-10-24T13:57:18Z",
-  "desc": "A magpie provider that spins up a local llama-server only when a request arrives; then shuts it down after it goes idle; so models are never resident but still look like an ordinary local/<model> provider."
+  "sizeKB": 29,
+  "updated": "2026-10-26T10:12:40Z",
+  "desc": "magpie 插件：WorkBuddy 国内版成长计划与任务签到管家（任务树点亮 / 猫猫旅行 / 连登补签兑换抽奖 / 开学季）"
  },
  {
-  "name": "xiaolietu/st-sensenova-magpie",
-  "clone": "https://github.com/xiaolietu/st-sensenova-magpie.git",
+  "name": "Kleistr/magpie-bilibili-translate",
+  "clone": "https://github.com/Kleistr/magpie-bilibili-translate.git",
   "branch": "main",
-  "sizeKB": 362,
-  "updated": "2026-11-02T15:03:31Z",
-  "desc": "SenseNova（商汤 · 日日新）Token Plan 的 Magpie 供应商插件。模型列表实时取自 GET /v1/models，没有内置清单；控制台积分额度上报为 Magpie 原生额度窗口。"
+  "sizeKB": 11,
+  "updated": "2026-10-26T14:54:53Z",
+  "desc": "Magpie Index-Translate 供应商插件，接入 Index-Translate（bilibili 翻译模型家族，免费公网 API，兼容 OpenAI chat completions，无需 API key）。"
  },
  {
-  "name": "wanglz111/magpie-commandcode-search",
-  "clone": "https://github.com/wanglz111/magpie-commandcode-search.git",
+  "name": "Singrun/magpie-provider-balance-probe",
+  "clone": "https://github.com/Singrun/magpie-provider-balance-probe.git",
   "branch": "main",
-  "sizeKB": 26,
-  "updated": "2026-10-18T11:08:56Z",
-  "desc": "Magpie search-only provider: DeepSeek web search through your CommandCode plan; isolated with bubblewrap on Linux."
+  "sizeKB": 39,
+  "updated": "2026-10-24T15:33:47Z",
+  "desc": "Magpie plugin for detecting third-party provider balance endpoints and repairing native balance settings"
  },
  {
-  "name": "linjicong/opencode-xfyun-maas-auth",
-  "clone": "https://github.com/linjicong/opencode-xfyun-maas-auth.git",
+  "name": "ayuayue/magpie-codebuddy-import",
+  "clone": "https://github.com/ayuayue/magpie-codebuddy-import.git",
   "branch": "main",
-  "sizeKB": 57,
-  "updated": "2026-11-13T02:01:31Z",
-  "desc": "magpie / OpenCode provider plugin for iFlytek Xfyun MaaS"
+  "sizeKB": 221,
+  "updated": "2026-11-02T02:06:28Z",
+  "desc": "magpie 的 CodeBuddy(WorkBuddy) 插件：导入 workbuddy-switch 账号 JSON、每日签到、派猫猫旅行"
  },
  {
-  "name": "MYCF711/magpie-chatbox-ai",
-  "clone": "https://github.com/MYCF711/magpie-chatbox-ai.git",
+  "name": "sljdxde/quota-keepalive-magpie-plugin",
+  "clone": "https://github.com/sljdxde/quota-keepalive-magpie-plugin.git",
   "branch": "main",
-  "sizeKB": 681,
-  "updated": "2026-11-13T09:36:22Z",
-  "desc": "Chatbox AI (the service inside the Chatbox desktop app) as a magpie / OpenCode provider: local license import; 63 models over four native gateways; daily token quota and image capability. Unofficial."
+  "sizeKB": 12552,
+  "updated": "2026-11-03T06:46:16Z",
+  "desc": "Magpie plugin for multi-provider quota check-in; real-chat keepalive; run history and quota trends"
  },
  {
-  "name": "NKBaa/magpie-antigravity-coding-filter",
-  "clone": "https://github.com/NKBaa/magpie-antigravity-coding-filter.git",
+  "name": "1466109846/ua-pro",
+  "clone": "https://github.com/1466109846/ua-pro.git",
   "branch": "main",
-  "sizeKB": 2244,
-  "updated": "2026-11-12T09:24:11Z",
-  "desc": "magpie gateway middleware: another coding agent's name in the system prompt is rewritten or cloaked; only on the request an Antigravity account is sent. Port of jellyfish-p/cpa-plugin-antigravity-coding-filter."
+  "sizeKB": 456,
+  "updated": "2026-11-11T22:44:50Z",
+  "desc": "UA PRO — Magpie provider plugin with versioned Claude Code and Codex templates; multi-protocol routing and local management"
  },
  {
-  "name": "Jiao77/magpie-haoyue",
-  "clone": "https://github.com/Jiao77/magpie-haoyue.git",
+  "name": "linjicong/magpie-memorix",
+  "clone": "https://github.com/linjicong/magpie-memorix.git",
+  "branch": "master",
+  "sizeKB": 49,
+  "updated": "2026-11-12T10:35:22Z",
+  "desc": "Magpie gateway hook: recall memorix project memory into every agent request and capture each finished turn back into memorix"
+ },
+ {
+  "name": "player462/magpie-clash-nodes",
+  "clone": "https://github.com/player462/magpie-clash-nodes.git",
+  "branch": "main",
+  "sizeKB": 191,
+  "updated": "2026-11-13T12:43:28Z",
+  "desc": "Pick Clash proxy nodes per provider and per account inside magpie's own window"
+ },
+ {
+  "name": "heyduanping/magpie-codingpass-quota",
+  "clone": "https://github.com/heyduanping/magpie-codingpass-quota.git",
   "branch": "main",
   "sizeKB": 19,
-  "updated": "2026-10-24T19:48:11Z",
-  "desc": "皓悦 API (1pkapi.com) 的 Magpie 适配插件：支持四大分组多 Key 绑定与自动路由分发，单卡片展示钱包余额与额度。"
+  "updated": "2026-11-14T10:03:07Z",
+  "desc": "CodingPass subscription quota history in Magpie"
  },
  {
-  "name": "YYKJ-AI/resetbell-magpie",
-  "clone": "https://github.com/YYKJ-AI/resetbell-magpie.git",
+  "name": "anyaoqi/magpie-agent-paseo",
+  "clone": "https://github.com/anyaoqi/magpie-agent-paseo.git",
   "branch": "main",
-  "sizeKB": 2623,
-  "updated": "2026-11-06T05:33:13Z",
-  "desc": "Reset 雷达 · Reset Radar for Magpie — Codex、Claude、Kimi、Grok 公开额度重置与官方动态提醒。"
+  "sizeKB": 15,
+  "updated": "2026-10-22T09:44:22Z",
+  "desc": "Use Magpie models in Paseo through its OpenCode provider"
  },
  {
-  "name": "shlroland/magpie-agent-kaku",
-  "clone": "https://github.com/shlroland/magpie-agent-kaku.git",
+  "name": "aqiu817/magpie-dashboard",
+  "clone": "https://github.com/aqiu817/magpie-dashboard.git",
   "branch": "main",
-  "sizeKB": 90,
-  "updated": "2026-11-09T10:05:36Z",
-  "desc": "Magpie Agent plugin for Kaku Assistant: gateway key/base_url injection and per-role group routing"
+  "sizeKB": 33,
+  "updated": "2026-10-29T18:06:46Z",
+  "desc": "Sub2API-style usage dashboard for Magpie: stat cards; period comparison bars; model distribution ranking — one sidebar page; zero deps"
  },
  {
-  "name": "qq136692547-cmyk/magpie-gemini-search",
-  "clone": "https://github.com/qq136692547-cmyk/magpie-gemini-search.git",
+  "name": "Sliverkiss/magpie-inceptionlab",
+  "clone": "https://github.com/Sliverkiss/magpie-inceptionlab.git",
   "branch": "main",
-  "sizeKB": 6,
-  "updated": "2026-11-13T04:48:46Z",
-  "desc": "Web search API plugin for Magpie powered by Google Gemini Search Grounding"
+  "sizeKB": 98,
+  "updated": "2026-11-07T10:03:17Z",
+  "desc": "Inceptionlabs2api，提供 Mercury 3模型。完全匿名，无需账号，无需密钥，安装即用。"
+ },
+ {
+  "name": "8liang/magpie-t3code-hub",
+  "clone": "https://github.com/8liang/magpie-t3code-hub.git",
+  "branch": "main",
+  "sizeKB": 107,
+  "updated": "2026-11-06T09:06:59Z",
+  "desc": "Magpie plugin: serve Magpie quotas as a CLIProxyAPI usage hub for T3 Code"
+ },
+ {
+  "name": "Scorpioxyb/magpie-agent-celia",
+  "clone": "https://github.com/Scorpioxyb/magpie-agent-celia.git",
+  "branch": "main",
+  "sizeKB": 14,
+  "updated": "2026-11-08T16:21:12Z",
+  "desc": "Magpie agent plugin: run Celia's assistant on a model picked in Magpie / 让 Celia 的助手走 Magpie 里的模型"
+ },
+ {
+  "name": "ColoristSansi/magpie-strata-local",
+  "clone": "https://github.com/ColoristSansi/magpie-strata-local.git",
+  "branch": "main",
+  "sizeKB": 26,
+  "updated": "2026-11-01T07:39:37Z",
+  "desc": "Magpie plugin: auto start/stop the local Strata model and expose it as provider strata-local (Chat / Messages / Responses)"
+ },
+ {
+  "name": "InvisibleGuardian007/magpie-codex-guard",
+  "clone": "https://github.com/InvisibleGuardian007/magpie-codex-guard.git",
+  "branch": "main",
+  "sizeKB": 1556,
+  "updated": "2026-11-11T10:52:54Z",
+  "desc": "magpie 页面插件：体检 Codex 桌面端的账号态文件，快照与恢复被登出清空的项目与会话归属，并显示 codex 5h/7d 额度。A magpie page that guards Codex's account-state file."
+ },
+ {
+  "name": "terenceooi99/agent-space-manager",
+  "clone": "https://github.com/terenceooi99/agent-space-manager.git",
+  "branch": "master",
+  "sizeKB": 1889,
+  "updated": "2026-11-12T17:00:33Z",
+  "desc": "Universal Multi-IDE & Project Skill Orchestrator with Dynamic Intent-Based Tool Gateway for Magpie. 通用多IDE和项目技能协调器，带有动态意图工具网关，适用于Magpie。"
  },
  {
   "name": "NieiR/magpie-zenmux",
@@ -1864,108 +2040,132 @@
   "desc": "DEPRECATED - self-registration in the plugin supersedes this. See magpie-community/plugins#394."
  },
  {
-  "name": "SwufeFox/Coffusio",
-  "clone": "https://github.com/SwufeFox/Coffusio.git",
+  "name": "SammySnake-d/magpie-mirasim-harness-bridge",
+  "clone": "https://github.com/SammySnake-d/magpie-mirasim-harness-bridge.git",
   "branch": "main",
-  "sizeKB": 103,
-  "updated": "2026-10-18T07:56:25Z",
-  "desc": "Magpie Gateway middleware with ColdCoffee-inspired routing and an optional scoped MCP toolbox."
+  "sizeKB": 36,
+  "updated": "2026-11-05T10:49:25Z",
+  "desc": "Magpie plugin bridging Mirasim harnesses to their per-agent model catalogs."
  },
  {
-  "name": "NekoNuo/guard",
-  "clone": "https://github.com/NekoNuo/guard.git",
+  "name": "CenturySee/magpie-codefree-o",
+  "clone": "https://github.com/CenturySee/magpie-codefree-o.git",
   "branch": "main",
-  "sizeKB": 38,
-  "updated": "2026-10-26T08:48:45Z",
-  "desc": "magpie-客户端黑/白名单"
+  "sizeKB": 24,
+  "updated": "2026-11-11T07:55:47Z",
+  "desc": "Unofficial CodeFree-O provider for Magpie and OpenCode using local CLI sign-in"
  },
  {
-  "name": "connoryang331/magpie-workbuddy-growth",
-  "clone": "https://github.com/connoryang331/magpie-workbuddy-growth.git",
-  "branch": "master",
-  "sizeKB": 29,
-  "updated": "2026-10-26T10:12:40Z",
-  "desc": "magpie 插件：WorkBuddy 国内版成长计划与任务签到管家（任务树点亮 / 猫猫旅行 / 连登补签兑换抽奖 / 开学季）"
- },
- {
-  "name": "Kleistr/magpie-bilibili-translate",
-  "clone": "https://github.com/Kleistr/magpie-bilibili-translate.git",
+  "name": "louiseliu/magpie-cursor-feedback",
+  "clone": "https://github.com/louiseliu/magpie-cursor-feedback.git",
   "branch": "main",
-  "sizeKB": 11,
-  "updated": "2026-10-26T14:54:53Z",
-  "desc": "Magpie Index-Translate 供应商插件，接入 Index-Translate（bilibili 翻译模型家族，免费公网 API，兼容 OpenAI chat completions，无需 API key）。"
+  "sizeKB": 132,
+  "updated": "2026-11-12T15:10:12Z",
+  "desc": "Magpie Cursor provider plugin with configurable automatic feedback; native Run continuity; and official request billing diagnostics"
  },
  {
-  "name": "Singrun/magpie-provider-balance-probe",
-  "clone": "https://github.com/Singrun/magpie-provider-balance-probe.git",
+  "name": "aduoer/magpie-github-proxy",
+  "clone": "https://github.com/aduoer/magpie-github-proxy.git",
   "branch": "main",
-  "sizeKB": 39,
-  "updated": "2026-10-24T15:33:47Z",
-  "desc": "Magpie plugin for detecting third-party provider balance endpoints and repairing native balance settings"
+  "sizeKB": 581,
+  "updated": "2026-10-31T03:14:56Z",
+  "desc": "让 magpie 里的 GitHub 资源——应用更新、插件、MCP、Skill——走你配置的代理或镜像前缀（页面插件，带自检与一键重启）"
  },
  {
-  "name": "ayuayue/magpie-codebuddy-import",
-  "clone": "https://github.com/ayuayue/magpie-codebuddy-import.git",
+  "name": "HPygmalion/magpie-plugin-agnes",
+  "clone": "https://github.com/HPygmalion/magpie-plugin-agnes.git",
   "branch": "main",
-  "sizeKB": 221,
-  "updated": "2026-11-02T02:06:28Z",
-  "desc": "magpie 的 CodeBuddy(WorkBuddy) 插件：导入 workbuddy-switch 账号 JSON、每日签到、派猫猫旅行"
+  "sizeKB": 45,
+  "updated": "2026-11-05T05:23:59Z",
+  "desc": "🇨🇳 Agnes AI 国内/国际双版 API 插件：独立生图模型单列、免费对话模型标注（一键「只选免费」不误选生图）、512K/1M 大上下文+64K 输出、排除视频模型"
  },
  {
-  "name": "sljdxde/quota-keepalive-magpie-plugin",
-  "clone": "https://github.com/sljdxde/quota-keepalive-magpie-plugin.git",
+  "name": "zhang3776813/u1s1-magpie",
+  "clone": "https://github.com/zhang3776813/u1s1-magpie.git",
   "branch": "main",
-  "sizeKB": 12552,
-  "updated": "2026-11-03T06:46:16Z",
-  "desc": "Magpie plugin for multi-provider quota check-in; real-chat keepalive; run history and quota trends"
+  "sizeKB": 28,
+  "updated": "2026-11-04T01:52:10Z",
+  "desc": "u1s1 × Magpie 供应商插件：设备码登录，让 Magpie 网关内各 Agent 使用 u1s1 模型"
  },
  {
-  "name": "jk-uzi/claude-desktop-zh-win",
-  "clone": "https://github.com/jk-uzi/claude-desktop-zh-win.git",
+  "name": "Jedeiah/magpie-openbot-armor",
+  "clone": "https://github.com/Jedeiah/magpie-openbot-armor.git",
   "branch": "main",
-  "sizeKB": 400,
-  "updated": "2026-11-05T13:35:16Z",
-  "desc": "Windows magpie plugin: load official Simplified Chinese UI into Claude Desktop third-party Gateway mode; including Claude 4.x ion-dist.asar and the inference settings window."
+  "sizeKB": 50,
+  "updated": "2026-11-05T16:56:29Z",
+  "desc": "Magpie gateway hook and config page for OpenBot: preserve persona; strip anti-jobs; inject configurable armor protocol."
  },
  {
-  "name": "cat-xierluo/magpie-zcode-start",
-  "clone": "https://github.com/cat-xierluo/magpie-zcode-start.git",
+  "name": "zszwnes/magpie-systalyze",
+  "clone": "https://github.com/zszwnes/magpie-systalyze.git",
   "branch": "main",
-  "sizeKB": 655,
-  "updated": "2026-11-04T19:53:06Z",
-  "desc": "Unofficial Magpie provider plugin exposing ZCode Start Plan allowances as an independent zcode-start lane"
+  "sizeKB": 82,
+  "updated": "2026-10-27T04:42:58Z",
+  "desc": "Unofficial Systalyze provider for magpie: preset models from https://inference.systalyze.com/v1; effort variants; and local-estimate usage windows."
  },
  {
-  "name": "huige233/magpie-kimi-cli-login",
-  "clone": "https://github.com/huige233/magpie-kimi-cli-login.git",
+  "name": "imyelo/magpie-slowdown",
+  "clone": "https://github.com/imyelo/magpie-slowdown.git",
   "branch": "main",
-  "sizeKB": 8,
-  "updated": "2026-11-11T10:49:36Z",
-  "desc": "Magpie provider plugin for local Kimi Code CLI logins; model discovery; and per-account quotas on Windows."
+  "sizeKB": 102,
+  "updated": "2026-10-23T10:46:45Z",
+  "desc": "🐢 A magpie gateway middleware that lowers how often an Agent client receives a streamed response."
  },
  {
-  "name": "1466109846/ua-pro",
-  "clone": "https://github.com/1466109846/ua-pro.git",
+  "name": "IvanXxxxyyuffff/magpie-system-prompt-file",
+  "clone": "https://github.com/IvanXxxxyyuffff/magpie-system-prompt-file.git",
   "branch": "main",
-  "sizeKB": 456,
-  "updated": "2026-11-11T22:44:50Z",
-  "desc": "UA PRO — Magpie provider plugin with versioned Claude Code and Codex templates; multi-protocol routing and local management"
+  "sizeKB": 52,
+  "updated": "2026-10-28T13:20:50Z",
+  "desc": "Magpie plugin: a system prompt (persona) loaded from a local .md / .txt file and injected into every agent request. macOS + Windows."
  },
  {
-  "name": "linjicong/magpie-memorix",
-  "clone": "https://github.com/linjicong/magpie-memorix.git",
-  "branch": "master",
-  "sizeKB": 49,
-  "updated": "2026-11-12T10:35:22Z",
-  "desc": "Magpie gateway hook: recall memorix project memory into every agent request and capture each finished turn back into memorix"
- },
- {
-  "name": "player462/magpie-clash-nodes",
-  "clone": "https://github.com/player462/magpie-clash-nodes.git",
+  "name": "xiaopeng66/magpie-model-lab",
+  "clone": "https://github.com/xiaopeng66/magpie-model-lab.git",
   "branch": "main",
-  "sizeKB": 191,
-  "updated": "2026-11-13T12:43:28Z",
-  "desc": "Pick Clash proxy nodes per provider and per account inside magpie's own window"
+  "sizeKB": 1385,
+  "updated": "2026-11-14T05:50:57Z",
+  "desc": "模型实验室 Model Lab for Magpie：鹈鹕动画、模型指纹、糖果推理与按模型自动测试。"
+ },
+ {
+  "name": "Jiao77/magpie-haoyue",
+  "clone": "https://github.com/Jiao77/magpie-haoyue.git",
+  "branch": "main",
+  "sizeKB": 19,
+  "updated": "2026-10-24T19:48:11Z",
+  "desc": "皓悦 API (1pkapi.com) 的 Magpie 适配插件：支持四大分组多 Key 绑定与自动路由分发，单卡片展示钱包余额与额度。"
+ },
+ {
+  "name": "YYKJ-AI/resetbell-magpie",
+  "clone": "https://github.com/YYKJ-AI/resetbell-magpie.git",
+  "branch": "main",
+  "sizeKB": 2623,
+  "updated": "2026-11-06T05:33:13Z",
+  "desc": "Reset 雷达 · Reset Radar for Magpie — Codex、Claude、Kimi、Grok 公开额度重置与官方动态提醒。"
+ },
+ {
+  "name": "shlroland/magpie-agent-kaku",
+  "clone": "https://github.com/shlroland/magpie-agent-kaku.git",
+  "branch": "main",
+  "sizeKB": 90,
+  "updated": "2026-11-09T10:05:36Z",
+  "desc": "Magpie Agent plugin for Kaku Assistant: gateway key/base_url injection and per-role group routing"
+ },
+ {
+  "name": "qq136692547-cmyk/magpie-gemini-search",
+  "clone": "https://github.com/qq136692547-cmyk/magpie-gemini-search.git",
+  "branch": "main",
+  "sizeKB": 6,
+  "updated": "2026-11-13T04:48:46Z",
+  "desc": "Web search API plugin for Magpie powered by Google Gemini Search Grounding"
+ },
+ {
+  "name": "m0eak/magpie-plugin-coarena",
+  "clone": "https://github.com/m0eak/magpie-plugin-coarena.git",
+  "branch": "main",
+  "sizeKB": 13,
+  "updated": "2026-11-14T06:30:40Z",
+  "desc": "CoArena provider plugin with explicit data consent; dynamic models; and daily quota visibility."
  },
  {
   "name": "sdloghub/magpie-session-patcher",
@@ -2048,11 +2248,19 @@
   "desc": "一个 magpie 插件接入 WorkBuddy 国服与国际服：双供应商、三种登录、动态模型目录、额度、签到与限时补偿。"
  },
  {
+  "name": "Mars-Sea/coarena",
+  "clone": "https://github.com/Mars-Sea/coarena.git",
+  "branch": "main",
+  "sizeKB": 289,
+  "updated": "2026-11-14T04:23:55Z",
+  "desc": "Coarena plugin for Magpie and OpenCode: models; API key authentication; and daily usage."
+ },
+ {
   "name": "SherlockGougou/magpie-comate-auth",
   "clone": "https://github.com/SherlockGougou/magpie-comate-auth.git",
   "branch": "main",
-  "sizeKB": 208,
-  "updated": "2026-11-13T15:59:23Z",
+  "sizeKB": 488,
+  "updated": "2026-11-14T07:38:02Z",
   "desc": "把本机 Comate 账号接入 Magpie 的独立插件：直连 Comate 云端、原生会话续聊、工具由客户端执行，支持图片、长任务与用量查询。纯 JS 无依赖，非官方插件。"
  },
  {
@@ -2118,62 +2326,6 @@
   "sizeKB": 123,
   "updated": "2026-11-11T13:36:14Z",
   "desc": "Independent VL/Omni model controls; multimodal adapters; search and speech through Magpie."
- },
- {
-  "name": "aduoer/magpie-github-proxy",
-  "clone": "https://github.com/aduoer/magpie-github-proxy.git",
-  "branch": "main",
-  "sizeKB": 581,
-  "updated": "2026-10-31T03:14:56Z",
-  "desc": "让 magpie 里的 GitHub 资源——应用更新、插件、MCP、Skill——走你配置的代理或镜像前缀（页面插件，带自检与一键重启）"
- },
- {
-  "name": "HPygmalion/magpie-plugin-agnes",
-  "clone": "https://github.com/HPygmalion/magpie-plugin-agnes.git",
-  "branch": "main",
-  "sizeKB": 45,
-  "updated": "2026-11-05T05:23:59Z",
-  "desc": "🇨🇳 Agnes AI 国内/国际双版 API 插件：独立生图模型单列、免费对话模型标注（一键「只选免费」不误选生图）、512K/1M 大上下文+64K 输出、排除视频模型"
- },
- {
-  "name": "zhang3776813/u1s1-magpie",
-  "clone": "https://github.com/zhang3776813/u1s1-magpie.git",
-  "branch": "main",
-  "sizeKB": 28,
-  "updated": "2026-11-04T01:52:10Z",
-  "desc": "u1s1 × Magpie 供应商插件：设备码登录，让 Magpie 网关内各 Agent 使用 u1s1 模型"
- },
- {
-  "name": "Jedeiah/magpie-openbot-armor",
-  "clone": "https://github.com/Jedeiah/magpie-openbot-armor.git",
-  "branch": "main",
-  "sizeKB": 50,
-  "updated": "2026-11-05T16:56:29Z",
-  "desc": "Magpie gateway hook and config page for OpenBot: preserve persona; strip anti-jobs; inject configurable armor protocol."
- },
- {
-  "name": "zszwnes/magpie-systalyze",
-  "clone": "https://github.com/zszwnes/magpie-systalyze.git",
-  "branch": "main",
-  "sizeKB": 82,
-  "updated": "2026-10-27T04:42:58Z",
-  "desc": "Unofficial Systalyze provider for magpie: preset models from https://inference.systalyze.com/v1; effort variants; and local-estimate usage windows."
- },
- {
-  "name": "imyelo/magpie-slowdown",
-  "clone": "https://github.com/imyelo/magpie-slowdown.git",
-  "branch": "main",
-  "sizeKB": 102,
-  "updated": "2026-10-23T10:46:45Z",
-  "desc": "🐢 A magpie gateway middleware that lowers how often an Agent client receives a streamed response."
- },
- {
-  "name": "IvanXxxxyyuffff/magpie-system-prompt-file",
-  "clone": "https://github.com/IvanXxxxyyuffff/magpie-system-prompt-file.git",
-  "branch": "main",
-  "sizeKB": 52,
-  "updated": "2026-10-28T13:20:50Z",
-  "desc": "Magpie plugin: a system prompt (persona) loaded from a local .md / .txt file and injected into every agent request. macOS + Windows."
  },
  {
   "name": "fenyan5312/magpie-wpt",
@@ -2256,116 +2408,156 @@
   "desc": "百度库库 AI / Kuku AI provider for Magpie: 官网网页登录、多账号、每日签到、积分与流式文本对话（预览版）"
  },
  {
-  "name": "ipcjs/magpie-aicodemirror-auth",
-  "clone": "https://github.com/ipcjs/magpie-aicodemirror-auth.git",
+  "name": "aliveranme/magpie-prompt-guard",
+  "clone": "https://github.com/aliveranme/magpie-prompt-guard.git",
+  "branch": "main",
+  "sizeKB": 301,
+  "updated": "2026-10-31T22:20:14Z",
+  "desc": "Filters the prompts magpie's gateway sends: injection rules; and guardrail packs extracted from the agents' own system prompts — what limits the work goes; what makes it careful stays."
+ },
+ {
+  "name": "cdredfox/magpie-deepseek-plugin",
+  "clone": "https://github.com/cdredfox/magpie-deepseek-plugin.git",
+  "branch": "main",
+  "sizeKB": 169,
+  "updated": "2026-10-31T04:50:22Z",
+  "desc": "DeepSeek provider for Magpie with a local backend and experimental Argon support"
+ },
+ {
+  "name": "MDX-Tom/magpie-dsh-chattail",
+  "clone": "https://github.com/MDX-Tom/magpie-dsh-chattail.git",
+  "branch": "main",
+  "sizeKB": 14,
+  "updated": "2026-11-05T02:22:27Z",
+  "desc": "Magpie gateway middleware dynamically repairing missing finish_reason on Chat SSE streams for DeepSeek Harness (fixes issue #5289)"
+ },
+ {
+  "name": "FHfanshu/magpie-kt-agent",
+  "clone": "https://github.com/FHfanshu/magpie-kt-agent.git",
   "branch": "master",
-  "sizeKB": 51,
-  "updated": "2026-10-15T08:22:12Z",
-  "desc": "AICodeMirror models and account balance plugin for Magpie"
+  "sizeKB": 7,
+  "updated": "2026-11-06T12:24:12Z",
+  "desc": "magpie agent plugin for KohakuTerrarium (kt): pick the model in magpie; it is written into kt's llm_profiles.yaml"
  },
  {
-  "name": "become2206/magpie-openrouter-deepseek-compat",
-  "clone": "https://github.com/become2206/magpie-openrouter-deepseek-compat.git",
+  "name": "lefinite/magpie-agent-prota",
+  "clone": "https://github.com/lefinite/magpie-agent-prota.git",
   "branch": "main",
-  "sizeKB": 4,
-  "updated": "2026-10-22T08:03:40Z",
-  "desc": "为 Magpie 经 OpenRouter 调用 DeepSeek 提供 Anthropic Messages 格式兼容，自动补齐缺失的 thinking.signature 字段。"
+  "sizeKB": 11,
+  "updated": "2026-11-02T11:47:05Z",
+  "desc": "Standalone Magpie Agent plugin for Prota local gateway configuration"
  },
  {
-  "name": "Sliverkiss/magpie-cli-purge",
-  "clone": "https://github.com/Sliverkiss/magpie-cli-purge.git",
+  "name": "para1lel/codex-route-monitor",
+  "clone": "https://github.com/para1lel/codex-route-monitor.git",
   "branch": "main",
-  "sizeKB": 391,
-  "updated": "2026-11-07T05:38:51Z",
-  "desc": "magpie 网关插件：把经过网关的 agent 请求的系统提示词换成你的人设。"
+  "sizeKB": 563,
+  "updated": "2026-11-03T10:32:04Z",
+  "desc": "magpie plugin: probe every Codex account with ModelTrace's random-number fingerprint; disable accounts held back (Luna); enable the rest — at midnight and every three hours."
  },
  {
-  "name": "Ccat-Q/magpie-77625-auth",
-  "clone": "https://github.com/Ccat-Q/magpie-77625-auth.git",
+  "name": "Zephyrlux/magpie-auth-export",
+  "clone": "https://github.com/Zephyrlux/magpie-auth-export.git",
   "branch": "main",
-  "sizeKB": 152,
-  "updated": "2026-11-09T05:08:15Z",
-  "desc": "Magpie/OpenCode provider plugin for 77625 Router: daily check-in credits and remaining balance"
+  "sizeKB": 39,
+  "updated": "2026-11-04T02:50:20Z",
+  "desc": "Magpie credential export plugin with account selection and local JSON downloads"
  },
  {
-  "name": "miyling/magpie-page-credentials",
-  "clone": "https://github.com/miyling/magpie-page-credentials.git",
+  "name": "kupakupar/magpie-agent-kimi",
+  "clone": "https://github.com/kupakupar/magpie-agent-kimi.git",
   "branch": "main",
-  "sizeKB": 449,
-  "updated": "2026-11-09T10:00:10Z",
-  "desc": "Magpie 页面插件：一页看清所有订阅账户的 5h / 7d 窗口用量、限额与重置时间，并可直接刷新额度、使用 Codex 重置卡"
+  "sizeKB": 31,
+  "updated": "2026-10-16T17:58:38Z",
+  "desc": "Kimi desktop Work agent integration for Magpie"
  },
  {
-  "name": "KmBase/magpie-inscode",
-  "clone": "https://github.com/KmBase/magpie-inscode.git",
+  "name": "Purfeather/magpie-agent-minimax-design",
+  "clone": "https://github.com/Purfeather/magpie-agent-minimax-design.git",
   "branch": "main",
-  "sizeKB": 48,
-  "updated": "2026-10-28T18:33:11Z",
-  "desc": "Run **InsCode free quota** as a provider inside [magpie](https://usemagpie.ai) (and OpenCode)."
+  "sizeKB": 5,
+  "updated": "2026-11-06T14:59:09Z",
+  "desc": "MiniMax Design (design.minimax.io) as a magpie agent: one switch points Design's custom text model at magpie's gateway; with magpie's model list synced automatically"
  },
  {
-  "name": "wssz527/magpie-agent-kimi-work-byok",
-  "clone": "https://github.com/wssz527/magpie-agent-kimi-work-byok.git",
+  "name": "zzc485924/magpie-account-backup",
+  "clone": "https://github.com/zzc485924/magpie-account-backup.git",
   "branch": "main",
-  "sizeKB": 1173,
-  "updated": "2026-11-03T03:30:18Z",
-  "desc": "Kimi Work 原生 BYOK 与子代理模型控制；复用 Magpie 模型、凭证、路由和用量，支持 macOS 与 Windows。"
+  "sizeKB": 37,
+  "updated": "2026-11-10T10:19:30Z",
+  "desc": "Magpie 插件：导出 .magpie-backup 时按供应商/账号挑选登录信息 | Magpie plugin: pick which sign-ins a .magpie-backup carries"
  },
  {
-  "name": "kongtou20070406/magpie-obelisk-usage",
-  "clone": "https://github.com/kongtou20070406/magpie-obelisk-usage.git",
+  "name": "cathaysia/magpie-cron",
+  "clone": "https://github.com/cathaysia/magpie-cron.git",
   "branch": "main",
-  "sizeKB": 384,
-  "updated": "2026-11-02T11:08:46Z",
-  "desc": ""
+  "sizeKB": 59,
+  "updated": "2026-10-21T06:21:59Z",
+  "desc": "Magpie plugin & middleware to periodically disable or enable models under specific providers via cron schedules"
  },
  {
-  "name": "081ben/magpie-bit-api",
-  "clone": "https://github.com/081ben/magpie-bit-api.git",
+  "name": "CJSen/magpie-local-shortlog",
+  "clone": "https://github.com/CJSen/magpie-local-shortlog.git",
   "branch": "main",
-  "sizeKB": 54,
-  "updated": "2026-11-12T07:01:18Z",
-  "desc": ""
+  "sizeKB": 28,
+  "updated": "2026-10-27T14:52:56Z",
+  "desc": "magpie 的本地精简对话记录插件：只记用户问了什么、模型答了什么，单文件追加满 20MB 轮转，内容不出本机。"
  },
  {
-  "name": "aibot88/magpie-agent-wave",
-  "clone": "https://github.com/aibot88/magpie-agent-wave.git",
+  "name": "R227BOUT/magpie-credit-limit",
+  "clone": "https://github.com/R227BOUT/magpie-credit-limit.git",
   "branch": "main",
-  "sizeKB": 6,
-  "updated": "2026-11-13T15:58:19Z",
-  "desc": "Wave Terminal as a magpie agent: pick a model on magpie's Agents page; it becomes a Wave AI mode on magpie's localhost gateway — no cloud in between"
+  "sizeKB": 86,
+  "updated": "2026-10-28T04:12:39Z",
+  "desc": "Daily credit limits for magpie's gateway: real per-channel / per-account credit spend; park a channel or disable one account when the allowance is used up"
  },
  {
-  "name": "TokenNotIncluded/opencode-lmm-auth",
-  "clone": "https://github.com/TokenNotIncluded/opencode-lmm-auth.git",
+  "name": "Souitou-iop/magpie-plugin-today-auth",
+  "clone": "https://github.com/Souitou-iop/magpie-plugin-today-auth.git",
   "branch": "main",
-  "sizeKB": 302,
-  "updated": "2026-11-04T11:37:24Z",
-  "desc": "LMM OAuth provider for OpenCode: PKCE browser login; catalog and model routing"
+  "sizeKB": 143,
+  "updated": "2026-11-03T06:27:53Z",
+  "desc": "Today AI (todayai.cn) as a magpie provider: phone-code or cookie sign-in; per-account model tiers; chat over Today's canonical message protocol (WebSocket push; polling fallback); plan usage on the card."
  },
  {
-  "name": "SammySnake-d/magpie-mirasim-harness-bridge",
-  "clone": "https://github.com/SammySnake-d/magpie-mirasim-harness-bridge.git",
+  "name": "Emilia06120878/magpie-claude-subagent-router",
+  "clone": "https://github.com/Emilia06120878/magpie-claude-subagent-router.git",
   "branch": "main",
-  "sizeKB": 36,
-  "updated": "2026-11-05T10:49:25Z",
-  "desc": "Magpie plugin bridging Mirasim harnesses to their per-agent model catalogs."
+  "sizeKB": 87,
+  "updated": "2026-11-07T15:01:00Z",
+  "desc": "A global multi-model subagent pool for Claude Code in Magpie"
  },
  {
-  "name": "CenturySee/magpie-codefree-o",
-  "clone": "https://github.com/CenturySee/magpie-codefree-o.git",
+  "name": "YHonc/magpie-agent-message-compat",
+  "clone": "https://github.com/YHonc/magpie-agent-message-compat.git",
   "branch": "main",
-  "sizeKB": 24,
-  "updated": "2026-11-11T07:55:47Z",
-  "desc": "Unofficial CodeFree-O provider for Magpie and OpenCode using local CLI sign-in"
+  "sizeKB": 31,
+  "updated": "2026-11-06T15:21:43Z",
+  "desc": "Codex MultiAgent V2 message compatibility for Magpie: provenance-checked plaintext recovery and agent_message normalization."
  },
  {
-  "name": "louiseliu/magpie-cursor-feedback",
-  "clone": "https://github.com/louiseliu/magpie-cursor-feedback.git",
+  "name": "KasenRi/magpie-plugin-xiaoyunque",
+  "clone": "https://github.com/KasenRi/magpie-plugin-xiaoyunque.git",
   "branch": "main",
-  "sizeKB": 132,
-  "updated": "2026-11-12T15:10:12Z",
-  "desc": "Magpie Cursor provider plugin with configurable automatic feedback; native Run continuity; and official request billing diagnostics"
+  "sizeKB": 136,
+  "updated": "2026-11-11T14:10:48Z",
+  "desc": "Unofficial Magpie / OpenCode tools plugin for XiaoYunQue (小云雀 / Pippit CN; Seedance 2.5 & 2.0 video generation)"
+ },
+ {
+  "name": "q1094/magpie-meoo-auth",
+  "clone": "https://github.com/q1094/magpie-meoo-auth.git",
+  "branch": "main",
+  "sizeKB": 69,
+  "updated": "2026-11-11T17:28:36Z",
+  "desc": "Meoo provider plugin for magpie/OpenCode: controlled-browser PKCE sign-in; project picker; daily points check-in; sign-in validity"
+ },
+ {
+  "name": "4sh0u0/opencode-cloudflare-ai-gateway-auth",
+  "clone": "https://github.com/4sh0u0/opencode-cloudflare-ai-gateway-auth.git",
+  "branch": "main",
+  "sizeKB": 175,
+  "updated": "2026-10-08T13:37:19Z",
+  "desc": "magpie provider plugin: Cloudflare AI Gateway with your own provider keys (BYOK)"
  },
  {
   "name": "jingyi0605/magpie-newapi",
@@ -2448,6 +2640,142 @@
   "desc": "Switch models in the native Maka desktop app through Magpie on Windows x64 and Apple Silicon Macs."
  },
  {
+  "name": "ipcjs/magpie-aicodemirror-auth",
+  "clone": "https://github.com/ipcjs/magpie-aicodemirror-auth.git",
+  "branch": "master",
+  "sizeKB": 51,
+  "updated": "2026-10-15T08:22:12Z",
+  "desc": "AICodeMirror models and account balance plugin for Magpie"
+ },
+ {
+  "name": "become2206/magpie-openrouter-deepseek-compat",
+  "clone": "https://github.com/become2206/magpie-openrouter-deepseek-compat.git",
+  "branch": "main",
+  "sizeKB": 4,
+  "updated": "2026-10-22T08:03:40Z",
+  "desc": "为 Magpie 经 OpenRouter 调用 DeepSeek 提供 Anthropic Messages 格式兼容，自动补齐缺失的 thinking.signature 字段。"
+ },
+ {
+  "name": "Ccat-Q/magpie-77625-auth",
+  "clone": "https://github.com/Ccat-Q/magpie-77625-auth.git",
+  "branch": "main",
+  "sizeKB": 152,
+  "updated": "2026-11-09T05:08:15Z",
+  "desc": "Magpie/OpenCode provider plugin for 77625 Router: daily check-in credits and remaining balance"
+ },
+ {
+  "name": "miyling/magpie-page-credentials",
+  "clone": "https://github.com/miyling/magpie-page-credentials.git",
+  "branch": "main",
+  "sizeKB": 449,
+  "updated": "2026-11-09T10:00:10Z",
+  "desc": "Magpie 页面插件：一页看清所有订阅账户的 5h / 7d 窗口用量、限额与重置时间，并可直接刷新额度、使用 Codex 重置卡"
+ },
+ {
+  "name": "KmBase/magpie-inscode",
+  "clone": "https://github.com/KmBase/magpie-inscode.git",
+  "branch": "main",
+  "sizeKB": 48,
+  "updated": "2026-10-28T18:33:11Z",
+  "desc": "Run **InsCode free quota** as a provider inside [magpie](https://usemagpie.ai) (and OpenCode)."
+ },
+ {
+  "name": "wssz527/magpie-agent-kimi-work-byok",
+  "clone": "https://github.com/wssz527/magpie-agent-kimi-work-byok.git",
+  "branch": "main",
+  "sizeKB": 1173,
+  "updated": "2026-11-03T03:30:18Z",
+  "desc": "Kimi Work 原生 BYOK 与子代理模型控制；复用 Magpie 模型、凭证、路由和用量，支持 macOS 与 Windows。"
+ },
+ {
+  "name": "kongtou20070406/magpie-obelisk-usage",
+  "clone": "https://github.com/kongtou20070406/magpie-obelisk-usage.git",
+  "branch": "main",
+  "sizeKB": 384,
+  "updated": "2026-11-02T11:08:46Z",
+  "desc": ""
+ },
+ {
+  "name": "081ben/magpie-bit-api",
+  "clone": "https://github.com/081ben/magpie-bit-api.git",
+  "branch": "main",
+  "sizeKB": 54,
+  "updated": "2026-11-12T07:01:18Z",
+  "desc": ""
+ },
+ {
+  "name": "aibot88/magpie-agent-wave",
+  "clone": "https://github.com/aibot88/magpie-agent-wave.git",
+  "branch": "main",
+  "sizeKB": 6,
+  "updated": "2026-11-13T15:58:19Z",
+  "desc": "Wave Terminal as a magpie agent: pick a model on magpie's Agents page; it becomes a Wave AI mode on magpie's localhost gateway — no cloud in between"
+ },
+ {
+  "name": "TokenNotIncluded/opencode-lmm-auth",
+  "clone": "https://github.com/TokenNotIncluded/opencode-lmm-auth.git",
+  "branch": "main",
+  "sizeKB": 332,
+  "updated": "2026-11-04T11:37:24Z",
+  "desc": "LMM OAuth provider for OpenCode: PKCE browser login; catalog and model routing"
+ },
+ {
+  "name": "Emilia06120878/magpie-agent-toonflow",
+  "clone": "https://github.com/Emilia06120878/magpie-agent-toonflow.git",
+  "branch": "main",
+  "sizeKB": 34,
+  "updated": "2026-11-08T07:48:17Z",
+  "desc": "Magpie agent plugin for local Toonflow: text models and MCP resource sync through magpie-image."
+ },
+ {
+  "name": "ferguson089347/magpie-moonup",
+  "clone": "https://github.com/ferguson089347/magpie-moonup.git",
+  "branch": "main",
+  "sizeKB": 61,
+  "updated": "2026-10-28T03:20:32Z",
+  "desc": ""
+ },
+ {
+  "name": "paceyw/kimi-chat",
+  "clone": "https://github.com/paceyw/kimi-chat.git",
+  "branch": "main",
+  "sizeKB": 500,
+  "updated": "2026-10-27T15:38:50Z",
+  "desc": "Kimi Chat (kimi.com web account) as a magpie / OpenCode provider: streaming chat; reasoning tiers; web search with citations; client tool calls; monthly quota."
+ },
+ {
+  "name": "SevenFo/magpie-multicodex",
+  "clone": "https://github.com/SevenFo/magpie-multicodex.git",
+  "branch": "main",
+  "sizeKB": 45,
+  "updated": "2026-10-29T11:24:47Z",
+  "desc": "CXI for Magpie: manage independent Codex homes in one page; with cxi included."
+ },
+ {
+  "name": "kilng235/magpie-token-receipt",
+  "clone": "https://github.com/kilng235/magpie-token-receipt.git",
+  "branch": "main",
+  "sizeKB": 620,
+  "updated": "2026-11-05T12:31:49Z",
+  "desc": "magpie 页面插件：把 token 用量打成一张热敏超市小票（SVG），只读 usage:summary / providers:list，无依赖不联网"
+ },
+ {
+  "name": "666-gy/magpie-agent-yan",
+  "clone": "https://github.com/666-gy/magpie-agent-yan.git",
+  "branch": "yan/main",
+  "sizeKB": 2,
+  "updated": "2026-11-04T04:57:31Z",
+  "desc": "Magpie Agent adapter for Yan Agent on Windows"
+ },
+ {
+  "name": "xwyjh3612/aggregate-repair",
+  "clone": "https://github.com/xwyjh3612/aggregate-repair.git",
+  "branch": "main",
+  "sizeKB": 35,
+  "updated": "2026-11-14T06:12:09Z",
+  "desc": "Magpie 渠道切换修复中间件：修复 Codex Responses 400 报错、会话失效及 Azure OpenAI 资源 ID 不匹配。Channel switch and session repair for invalid Responses item IDs."
+ },
+ {
   "name": "LittlefishStudent/magpie-plugin-qwenwork-enterprise",
   "clone": "https://github.com/LittlefishStudent/magpie-plugin-qwenwork-enterprise.git",
   "branch": "main",
@@ -2528,356 +2856,20 @@
   "desc": "Magpie 提示词伪装与过滤插件 - 解耦提示词管理，发往供应商自动附加，客户端发出自动抹除"
  },
  {
-  "name": "jinyue806/Agnes-Code",
-  "clone": "https://github.com/jinyue806/Agnes-Code.git",
-  "branch": "master",
-  "sizeKB": 55,
-  "updated": "2026-11-03T07:16:44Z",
-  "desc": "Agnes Code desktop sign-in as an OpenCode/magpie provider: OpenAI-compatible gateway; live model catalog; daily check-in and points balance"
- },
- {
-  "name": "gu-gavin/magpie-catpaw-tools",
-  "clone": "https://github.com/gu-gavin/magpie-catpaw-tools.git",
+  "name": "roiding/opencode-agentrouter-auth",
+  "clone": "https://github.com/roiding/opencode-agentrouter-auth.git",
   "branch": "main",
-  "sizeKB": 56,
-  "updated": "2026-11-05T10:25:14Z",
-  "desc": "妙手 CatPaw (Meituan) provider plugin for magpie — native tool calling over the CLI agent protocol; live model list; parallel tool calls"
+  "sizeKB": 225,
+  "updated": "2026-11-14T07:19:43Z",
+  "desc": "AgentRouter provider plugin for Magpie: five login modes; optional daily sign-in; multi-account routing; multi-protocol request protection"
  },
  {
-  "name": "nickzhangcomes/claude-science-local-for-magpie",
-  "clone": "https://github.com/nickzhangcomes/claude-science-local-for-magpie.git",
+  "name": "s-silt/magpie-dumate-local",
+  "clone": "https://github.com/s-silt/magpie-dumate-local.git",
   "branch": "main",
-  "sizeKB": 85,
-  "updated": "2026-10-24T06:33:07Z",
-  "desc": "无需登录Claude Science，直接使用第三方模型。"
- },
- {
-  "name": "Essaim8/magpie-tool-schema-fix",
-  "clone": "https://github.com/Essaim8/magpie-tool-schema-fix.git",
-  "branch": "main",
-  "sizeKB": 11,
-  "updated": "2026-10-15T04:37:31Z",
-  "desc": ""
- },
- {
-  "name": "Phoen1xCode/magpie-zenmux",
-  "clone": "https://github.com/Phoen1xCode/magpie-zenmux.git",
-  "branch": "main",
-  "sizeKB": 38,
-  "updated": "2026-10-28T16:14:13Z",
-  "desc": "ZenMux provider plugin for Magpie: Builder Plan; PAYG; native protocol routing; and quota reporting."
- },
- {
-  "name": "Molaison/magpie-agentrouter",
-  "clone": "https://github.com/Molaison/magpie-agentrouter.git",
-  "branch": "main",
-  "sizeKB": 44,
-  "updated": "2026-11-11T11:33:38Z",
-  "desc": "Magpie for AgentRouter: automatic retry; native account failover; and gzip request compression."
- },
- {
-  "name": "zhuweiyou/magpie-oc2api",
-  "clone": "https://github.com/zhuweiyou/magpie-oc2api.git",
-  "branch": "main",
-  "sizeKB": 52,
-  "updated": "2026-11-07T08:45:39Z",
-  "desc": "在 magpie 里使用你在 Vercel 上的 oc2api 实例。"
- },
- {
-  "name": "Echo-Smith/magpie-plugin-ai-passport",
-  "clone": "https://github.com/Echo-Smith/magpie-plugin-ai-passport.git",
-  "branch": "main",
-  "sizeKB": 10,
-  "updated": "2026-11-11T17:16:36Z",
-  "desc": "Magpie plugin: push agent activity and token usage to an AI Passport wearable"
- },
- {
-  "name": "siml1169/ShyPie",
-  "clone": "https://github.com/siml1169/ShyPie.git",
-  "branch": "main",
-  "sizeKB": 7125,
-  "updated": "2026-11-06T21:28:49Z",
-  "desc": "ShyPie — privacy-first workflow for DeepSeek Harness + Magpie: documents are converted to text locally and PII is replaced with placeholders before anything can reach a model or the session log."
- },
- {
-  "name": "ksmord/poxian",
-  "clone": "https://github.com/ksmord/poxian.git",
-  "branch": "main",
-  "sizeKB": 1102,
-  "updated": "2026-11-13T12:55:04Z",
-  "desc": "magpie 网关中间件 · 一个注入点，把系统提示词写进每个经过网关的请求 | gateway system-prompt middleware for magpie"
- },
- {
-  "name": "double2tea/magpie-image-models",
-  "clone": "https://github.com/double2tea/magpie-image-models.git",
-  "branch": "main",
-  "sizeKB": 31,
-  "updated": "2026-11-12T18:20:40Z",
-  "desc": "Independent image providers for Magpie: RightImage; 12ai and WaveSpeed."
- },
- {
-  "name": "cathaysia/magpie-cron",
-  "clone": "https://github.com/cathaysia/magpie-cron.git",
-  "branch": "main",
-  "sizeKB": 59,
-  "updated": "2026-10-21T06:21:59Z",
-  "desc": "Magpie plugin & middleware to periodically disable or enable models under specific providers via cron schedules"
- },
- {
-  "name": "CJSen/magpie-local-shortlog",
-  "clone": "https://github.com/CJSen/magpie-local-shortlog.git",
-  "branch": "main",
-  "sizeKB": 28,
-  "updated": "2026-10-27T14:52:56Z",
-  "desc": "magpie 的本地精简对话记录插件：只记用户问了什么、模型答了什么，单文件追加满 20MB 轮转，内容不出本机。"
- },
- {
-  "name": "R227BOUT/magpie-credit-limit",
-  "clone": "https://github.com/R227BOUT/magpie-credit-limit.git",
-  "branch": "main",
-  "sizeKB": 86,
-  "updated": "2026-10-28T04:12:39Z",
-  "desc": "Daily credit limits for magpie's gateway: real per-channel / per-account credit spend; park a channel or disable one account when the allowance is used up"
- },
- {
-  "name": "4sh0u0/opencode-cloudflare-ai-gateway-auth",
-  "clone": "https://github.com/4sh0u0/opencode-cloudflare-ai-gateway-auth.git",
-  "branch": "main",
-  "sizeKB": 175,
-  "updated": "2026-10-08T13:37:19Z",
-  "desc": "magpie provider plugin: Cloudflare AI Gateway with your own provider keys (BYOK)"
- },
- {
-  "name": "Souitou-iop/magpie-plugin-today-auth",
-  "clone": "https://github.com/Souitou-iop/magpie-plugin-today-auth.git",
-  "branch": "main",
-  "sizeKB": 143,
-  "updated": "2026-11-03T06:27:53Z",
-  "desc": "Today AI (todayai.cn) as a magpie provider: phone-code or cookie sign-in; per-account model tiers; chat over Today's canonical message protocol (WebSocket push; polling fallback); plan usage on the card."
- },
- {
-  "name": "Emilia06120878/magpie-claude-subagent-router",
-  "clone": "https://github.com/Emilia06120878/magpie-claude-subagent-router.git",
-  "branch": "main",
-  "sizeKB": 87,
-  "updated": "2026-11-07T15:01:00Z",
-  "desc": "A global multi-model subagent pool for Claude Code in Magpie"
- },
- {
-  "name": "YHonc/magpie-agent-message-compat",
-  "clone": "https://github.com/YHonc/magpie-agent-message-compat.git",
-  "branch": "main",
-  "sizeKB": 31,
-  "updated": "2026-11-06T15:21:43Z",
-  "desc": "Codex MultiAgent V2 message compatibility for Magpie: provenance-checked plaintext recovery and agent_message normalization."
- },
- {
-  "name": "KasenRi/magpie-plugin-xiaoyunque",
-  "clone": "https://github.com/KasenRi/magpie-plugin-xiaoyunque.git",
-  "branch": "main",
-  "sizeKB": 136,
-  "updated": "2026-11-11T14:10:48Z",
-  "desc": "Unofficial Magpie / OpenCode tools plugin for XiaoYunQue (小云雀 / Pippit CN; Seedance 2.5 & 2.0 video generation)"
- },
- {
-  "name": "q1094/magpie-meoo-auth",
-  "clone": "https://github.com/q1094/magpie-meoo-auth.git",
-  "branch": "main",
-  "sizeKB": 69,
-  "updated": "2026-11-11T17:28:36Z",
-  "desc": "Meoo provider plugin for magpie/OpenCode: controlled-browser PKCE sign-in; project picker; daily points check-in; sign-in validity"
- },
- {
-  "name": "ZiHao256/magpie-quota-estimator",
-  "clone": "https://github.com/ZiHao256/magpie-quota-estimator.git",
-  "branch": "main",
-  "sizeKB": 31,
-  "updated": "2026-10-21T10:14:49Z",
-  "desc": "Read-only 5-hour and weekly quota capacity estimates for Codex; Claude Code native logs; and Remote magpie"
- },
- {
-  "name": "tastypear/magpie-upstream-guard",
-  "clone": "https://github.com/tastypear/magpie-upstream-guard.git",
-  "branch": "main",
-  "sizeKB": 3,
-  "updated": "2026-10-30T16:10:51Z",
-  "desc": "Magpie gateway middleware: turn mid-stream upstream errors into a clean finish so fault-intolerant clients don't break"
- },
- {
-  "name": "aduoer/magpie-github-prefix",
-  "clone": "https://github.com/aduoer/magpie-github-prefix.git",
-  "branch": "main",
-  "sizeKB": 88,
-  "updated": "2026-10-31T16:54:19Z",
-  "desc": "给 magpie 里所有发往 GitHub 的地址加一个镜像前缀：前缀 + 原地址。内置镜像测速。"
- },
- {
-  "name": "z20503740/magpie-rtk-dsh",
-  "clone": "https://github.com/z20503740/magpie-rtk-dsh.git",
-  "branch": "main",
-  "sizeKB": 9,
-  "updated": "2026-11-01T16:04:28Z",
-  "desc": "RTK for DSH - a Magpie gateway middleware that routes DSH pwsh tool calls through local RTK."
- },
- {
-  "name": "jinyue806/xfyun-astudio",
-  "clone": "https://github.com/jinyue806/xfyun-astudio.git",
-  "branch": "master",
-  "sizeKB": 26472,
-  "updated": "2026-11-05T05:55:01Z",
-  "desc": "AStudio (iFLYTEK Astron Studio) desktop sign-in as an OpenCode/magpie provider: Responses model gateway; live model catalog; daily check-in and points balance"
- },
- {
-  "name": "sljdxde/magpie-free-tokens",
-  "clone": "https://github.com/sljdxde/magpie-free-tokens.git",
-  "branch": "main",
-  "sizeKB": 2997,
-  "updated": "2026-11-09T10:06:23Z",
-  "desc": "AIHOT Token 羊毛 · magpie 页面插件：看哪些羊毛已配置可用 / 差个插件 / 暂无插件。"
- },
- {
-  "name": "InvisibleGuardian007/magpie-route-insight",
-  "clone": "https://github.com/InvisibleGuardian007/magpie-route-insight.git",
-  "branch": "main",
-  "sizeKB": 1599,
-  "updated": "2026-11-12T10:01:27Z",
-  "desc": "magpie 插件：把网关用量日志变成实时路由看板（首字 / 缓存命中 / 速度 / 计费）+ 供应商状态 + 模型指纹与智商检测"
- },
- {
-  "name": "Emilia06120878/magpie-agent-toonflow",
-  "clone": "https://github.com/Emilia06120878/magpie-agent-toonflow.git",
-  "branch": "main",
-  "sizeKB": 34,
-  "updated": "2026-11-08T07:48:17Z",
-  "desc": "Magpie agent plugin for local Toonflow: text models and MCP resource sync through magpie-image."
- },
- {
-  "name": "ferguson089347/magpie-moonup",
-  "clone": "https://github.com/ferguson089347/magpie-moonup.git",
-  "branch": "main",
-  "sizeKB": 61,
-  "updated": "2026-10-28T03:20:32Z",
-  "desc": ""
- },
- {
-  "name": "paceyw/kimi-chat",
-  "clone": "https://github.com/paceyw/kimi-chat.git",
-  "branch": "main",
-  "sizeKB": 500,
-  "updated": "2026-10-27T15:38:50Z",
-  "desc": "Kimi Chat (kimi.com web account) as a magpie / OpenCode provider: streaming chat; reasoning tiers; web search with citations; client tool calls; monthly quota."
- },
- {
-  "name": "SevenFo/magpie-multicodex",
-  "clone": "https://github.com/SevenFo/magpie-multicodex.git",
-  "branch": "main",
-  "sizeKB": 45,
-  "updated": "2026-10-29T11:24:47Z",
-  "desc": "CXI for Magpie: manage independent Codex homes in one page; with cxi included."
- },
- {
-  "name": "kilng235/magpie-token-receipt",
-  "clone": "https://github.com/kilng235/magpie-token-receipt.git",
-  "branch": "main",
-  "sizeKB": 620,
-  "updated": "2026-11-05T12:31:49Z",
-  "desc": "magpie 页面插件：把 token 用量打成一张热敏超市小票（SVG），只读 usage:summary / providers:list，无依赖不联网"
- },
- {
-  "name": "666-gy/magpie-agent-yan",
-  "clone": "https://github.com/666-gy/magpie-agent-yan.git",
-  "branch": "yan/main",
-  "sizeKB": 2,
-  "updated": "2026-11-04T04:57:31Z",
-  "desc": "Magpie Agent adapter for Yan Agent on Windows"
- },
- {
-  "name": "xwyjh3612/aggregate-repair",
-  "clone": "https://github.com/xwyjh3612/aggregate-repair.git",
-  "branch": "main",
-  "sizeKB": 25,
-  "updated": "2026-11-06T07:43:14Z",
-  "desc": "Magpie middleware and graphical settings page for Responses item IDs after an upstream channel switch"
- },
- {
-  "name": "aliveranme/magpie-prompt-guard",
-  "clone": "https://github.com/aliveranme/magpie-prompt-guard.git",
-  "branch": "main",
-  "sizeKB": 301,
-  "updated": "2026-10-31T22:20:14Z",
-  "desc": "Filters the prompts magpie's gateway sends: injection rules; and guardrail packs extracted from the agents' own system prompts — what limits the work goes; what makes it careful stays."
- },
- {
-  "name": "cdredfox/magpie-deepseek-plugin",
-  "clone": "https://github.com/cdredfox/magpie-deepseek-plugin.git",
-  "branch": "main",
-  "sizeKB": 169,
-  "updated": "2026-10-31T04:50:22Z",
-  "desc": "DeepSeek provider for Magpie with a local backend and experimental Argon support"
- },
- {
-  "name": "MDX-Tom/magpie-dsh-chattail",
-  "clone": "https://github.com/MDX-Tom/magpie-dsh-chattail.git",
-  "branch": "main",
-  "sizeKB": 14,
-  "updated": "2026-11-05T02:22:27Z",
-  "desc": "Magpie gateway middleware dynamically repairing missing finish_reason on Chat SSE streams for DeepSeek Harness (fixes issue #5289)"
- },
- {
-  "name": "FHfanshu/magpie-kt-agent",
-  "clone": "https://github.com/FHfanshu/magpie-kt-agent.git",
-  "branch": "master",
-  "sizeKB": 7,
-  "updated": "2026-11-06T12:24:12Z",
-  "desc": "magpie agent plugin for KohakuTerrarium (kt): pick the model in magpie; it is written into kt's llm_profiles.yaml"
- },
- {
-  "name": "lefinite/magpie-agent-prota",
-  "clone": "https://github.com/lefinite/magpie-agent-prota.git",
-  "branch": "main",
-  "sizeKB": 11,
-  "updated": "2026-11-02T11:47:05Z",
-  "desc": "Standalone Magpie Agent plugin for Prota local gateway configuration"
- },
- {
-  "name": "para1lel/codex-route-monitor",
-  "clone": "https://github.com/para1lel/codex-route-monitor.git",
-  "branch": "main",
-  "sizeKB": 563,
-  "updated": "2026-11-03T10:32:04Z",
-  "desc": "magpie plugin: probe every Codex account with ModelTrace's random-number fingerprint; disable accounts held back (Luna); enable the rest — at midnight and every three hours."
- },
- {
-  "name": "Zephyrlux/magpie-auth-export",
-  "clone": "https://github.com/Zephyrlux/magpie-auth-export.git",
-  "branch": "main",
-  "sizeKB": 39,
-  "updated": "2026-11-04T02:50:20Z",
-  "desc": "Magpie credential export plugin with account selection and local JSON downloads"
- },
- {
-  "name": "kupakupar/magpie-agent-kimi",
-  "clone": "https://github.com/kupakupar/magpie-agent-kimi.git",
-  "branch": "main",
-  "sizeKB": 31,
-  "updated": "2026-10-16T17:58:38Z",
-  "desc": "Kimi desktop Work agent integration for Magpie"
- },
- {
-  "name": "Purfeather/magpie-agent-minimax-design",
-  "clone": "https://github.com/Purfeather/magpie-agent-minimax-design.git",
-  "branch": "main",
-  "sizeKB": 5,
-  "updated": "2026-11-06T14:59:09Z",
-  "desc": "MiniMax Design (design.minimax.io) as a magpie agent: one switch points Design's custom text model at magpie's gateway; with magpie's model list synced automatically"
- },
- {
-  "name": "zzc485924/magpie-account-backup",
-  "clone": "https://github.com/zzc485924/magpie-account-backup.git",
-  "branch": "main",
-  "sizeKB": 37,
-  "updated": "2026-11-10T10:19:30Z",
-  "desc": "Magpie 插件：导出 .magpie-backup 时按供应商/账号挑选登录信息 | Magpie plugin: pick which sign-ins a .magpie-backup carries"
+  "sizeKB": 20,
+  "updated": "2026-11-14T13:16:34Z",
+  "desc": "百度搭子 DuMate 的 Magpie 插件：模型调用、流式输出与积分查询"
  },
  {
   "name": "ca-x/magpie-intern-ai",
@@ -2958,158 +2950,6 @@
   "sizeKB": 144,
   "updated": "2026-11-13T14:05:28Z",
   "desc": "Use Magpie models in Trae CN on Windows: native catalog sync; live refresh and reversible configuration."
- },
- {
-  "name": "MayDay-wpf/snowapp-magpie-plugin",
-  "clone": "https://github.com/MayDay-wpf/snowapp-magpie-plugin.git",
-  "branch": "main",
-  "sizeKB": 233,
-  "updated": "2026-10-29T02:45:48Z",
-  "desc": "Snow App as a magpie agent: pick a model in magpie and its API profile follows."
- },
- {
-  "name": "DylanLIiii/magpie-muse-bridge",
-  "clone": "https://github.com/DylanLIiii/magpie-muse-bridge.git",
-  "branch": "main",
-  "sizeKB": 272,
-  "updated": "2026-11-04T10:37:21Z",
-  "desc": "Magpie provider that drives the real Muse Code CLI (muse exec --json) and bridges client tools over MCP"
- },
- {
-  "name": "wmfan2002-cloud/codar-magpie",
-  "clone": "https://github.com/wmfan2002-cloud/codar-magpie.git",
-  "branch": "main",
-  "sizeKB": 160,
-  "updated": "2026-10-31T13:54:17Z",
-  "desc": "Codar (SpeedAI) as a magpie / OpenCode provider: WeChat QR sign-in with phone verification; 16 models over Chat Completions and Anthropic Messages; daily check-in; free models and points balance. Unofficial."
- },
- {
-  "name": "aqiu817/magpie-mask-context",
-  "clone": "https://github.com/aqiu817/magpie-mask-context.git",
-  "branch": "main",
-  "sizeKB": 10,
-  "updated": "2026-11-08T14:18:29Z",
-  "desc": "向模型解释 magpie 脱敏占位符({{API_KEY_xxxxxxxx}})的网关中间件:是什么、为何出现、逐字复用而不猜测真实值"
- },
- {
-  "name": "1sh1ro/magpie-model-quota",
-  "clone": "https://github.com/1sh1ro/magpie-model-quota.git",
-  "branch": "main",
-  "sizeKB": 38,
-  "updated": "2026-11-10T05:32:07Z",
-  "desc": "A magpie page that estimates how many tokens each model has left; merged across all accounts and providers"
- },
- {
-  "name": "broven/magpie-pareto",
-  "clone": "https://github.com/broven/magpie-pareto.git",
-  "branch": "main",
-  "sizeKB": 220,
-  "updated": "2026-11-12T08:51:44Z",
-  "desc": "magpie plugin: price × capability scatter of the models you can reach (性价比图)"
- },
- {
-  "name": "tviber/magpie-modelscope-videogen",
-  "clone": "https://github.com/tviber/magpie-modelscope-videogen.git",
-  "branch": "main",
-  "sizeKB": 774,
-  "updated": "2026-11-12T16:39:43Z",
-  "desc": ""
- },
- {
-  "name": "SivanCola/magpie-agent-deepzora",
-  "clone": "https://github.com/SivanCola/magpie-agent-deepzora.git",
-  "branch": "main",
-  "sizeKB": 79,
-  "updated": "2026-11-02T10:52:16Z",
-  "desc": "Deepzora Agent plugin for Magpie with a reversible TOML configuration bridge / Magpie 的 Deepzora Agent 插件"
- },
- {
-  "name": "cyanask/magpie-company-guard",
-  "clone": "https://github.com/cyanask/magpie-company-guard.git",
-  "branch": "main",
-  "sizeKB": 118,
-  "updated": "2026-11-09T10:40:04Z",
-  "desc": "Local company-name masking; reversible replies and session approvals for Magpie"
- },
- {
-  "name": "anyaoqi/magpie-agent-paseo",
-  "clone": "https://github.com/anyaoqi/magpie-agent-paseo.git",
-  "branch": "main",
-  "sizeKB": 15,
-  "updated": "2026-10-22T09:44:22Z",
-  "desc": "Use Magpie models in Paseo through its OpenCode provider"
- },
- {
-  "name": "aqiu817/magpie-dashboard",
-  "clone": "https://github.com/aqiu817/magpie-dashboard.git",
-  "branch": "main",
-  "sizeKB": 33,
-  "updated": "2026-10-29T18:06:46Z",
-  "desc": "Sub2API-style usage dashboard for Magpie: stat cards; period comparison bars; model distribution ranking — one sidebar page; zero deps"
- },
- {
-  "name": "ColoristSansi/magpie-strata-local",
-  "clone": "https://github.com/ColoristSansi/magpie-strata-local.git",
-  "branch": "main",
-  "sizeKB": 26,
-  "updated": "2026-11-01T07:39:37Z",
-  "desc": "Magpie plugin: auto start/stop the local Strata model and expose it as provider strata-local (Chat / Messages / Responses)"
- },
- {
-  "name": "Sliverkiss/magpie-inceptionlab",
-  "clone": "https://github.com/Sliverkiss/magpie-inceptionlab.git",
-  "branch": "main",
-  "sizeKB": 98,
-  "updated": "2026-11-07T10:03:17Z",
-  "desc": "Inceptionlabs2api，提供 Mercury 3模型。完全匿名，无需账号，无需密钥，安装即用。"
- },
- {
-  "name": "8liang/magpie-t3code-hub",
-  "clone": "https://github.com/8liang/magpie-t3code-hub.git",
-  "branch": "main",
-  "sizeKB": 107,
-  "updated": "2026-11-06T09:06:59Z",
-  "desc": "Magpie plugin: serve Magpie quotas as a CLIProxyAPI usage hub for T3 Code"
- },
- {
-  "name": "Scorpioxyb/magpie-agent-celia",
-  "clone": "https://github.com/Scorpioxyb/magpie-agent-celia.git",
-  "branch": "main",
-  "sizeKB": 14,
-  "updated": "2026-11-08T16:21:12Z",
-  "desc": "Magpie agent plugin: run Celia's assistant on a model picked in Magpie / 让 Celia 的助手走 Magpie 里的模型"
- },
- {
-  "name": "InvisibleGuardian007/magpie-codex-guard",
-  "clone": "https://github.com/InvisibleGuardian007/magpie-codex-guard.git",
-  "branch": "main",
-  "sizeKB": 1556,
-  "updated": "2026-11-11T10:52:54Z",
-  "desc": "magpie 页面插件：体检 Codex 桌面端的账号态文件，快照与恢复被登出清空的项目与会话归属，并显示 codex 5h/7d 额度。A magpie page that guards Codex's account-state file."
- },
- {
-  "name": "terenceooi99/agent-space-manager",
-  "clone": "https://github.com/terenceooi99/agent-space-manager.git",
-  "branch": "master",
-  "sizeKB": 1618,
-  "updated": "2026-11-12T17:00:33Z",
-  "desc": "Universal Multi-IDE & Project Skill Orchestrator with Dynamic Intent-Based Tool Gateway for Magpie. 通用多IDE和项目技能协调器，带有动态意图工具网关，适用于Magpie。"
- },
- {
-  "name": "yys9253462-gif/claude-ag-zh",
-  "clone": "https://github.com/yys9253462-gif/claude-ag-zh.git",
-  "branch": "main",
-  "sizeKB": 4936,
-  "updated": "2026-11-13T13:27:28Z",
-  "desc": "Claude Desktop & Antigravity 中文汉化工具（Windows 独立可执行版 / Magpie 插件 / macOS 实验版）"
- },
- {
-  "name": "sidkang/agy-acp",
-  "clone": "https://github.com/sidkang/agy-acp.git",
-  "branch": "main",
-  "sizeKB": 939,
-  "updated": "2026-11-13T05:50:34Z",
-  "desc": "Multi-account Antigravity CLI (agy acp) model provider plugin for Magpie and OpenCode"
  },
  {
   "name": "Lesinthome0/magpie-turn-trace",
@@ -3272,6 +3112,158 @@
   "desc": "ModelBest (面壁智能 / MiniCPM) provider plugin for magpie and OpenCode — credit balance; daily check-in; automatic console-token renewal"
  },
  {
+  "name": "ZiHao256/magpie-quota-estimator",
+  "clone": "https://github.com/ZiHao256/magpie-quota-estimator.git",
+  "branch": "main",
+  "sizeKB": 31,
+  "updated": "2026-10-21T10:14:49Z",
+  "desc": "Read-only 5-hour and weekly quota capacity estimates for Codex; Claude Code native logs; and Remote magpie"
+ },
+ {
+  "name": "tastypear/magpie-upstream-guard",
+  "clone": "https://github.com/tastypear/magpie-upstream-guard.git",
+  "branch": "main",
+  "sizeKB": 3,
+  "updated": "2026-10-30T16:10:51Z",
+  "desc": "Magpie gateway middleware: turn mid-stream upstream errors into a clean finish so fault-intolerant clients don't break"
+ },
+ {
+  "name": "aduoer/magpie-github-prefix",
+  "clone": "https://github.com/aduoer/magpie-github-prefix.git",
+  "branch": "main",
+  "sizeKB": 88,
+  "updated": "2026-10-31T16:54:19Z",
+  "desc": "给 magpie 里所有发往 GitHub 的地址加一个镜像前缀：前缀 + 原地址。内置镜像测速。"
+ },
+ {
+  "name": "z20503740/magpie-rtk-dsh",
+  "clone": "https://github.com/z20503740/magpie-rtk-dsh.git",
+  "branch": "main",
+  "sizeKB": 9,
+  "updated": "2026-11-01T16:04:28Z",
+  "desc": "RTK for DSH - a Magpie gateway middleware that routes DSH pwsh tool calls through local RTK."
+ },
+ {
+  "name": "jinyue806/xfyun-astudio",
+  "clone": "https://github.com/jinyue806/xfyun-astudio.git",
+  "branch": "master",
+  "sizeKB": 26472,
+  "updated": "2026-11-05T05:55:01Z",
+  "desc": "AStudio (iFLYTEK Astron Studio) desktop sign-in as an OpenCode/magpie provider: Responses model gateway; live model catalog; daily check-in and points balance"
+ },
+ {
+  "name": "sljdxde/magpie-free-tokens",
+  "clone": "https://github.com/sljdxde/magpie-free-tokens.git",
+  "branch": "main",
+  "sizeKB": 2997,
+  "updated": "2026-11-09T10:06:23Z",
+  "desc": "AIHOT Token 羊毛 · magpie 页面插件：看哪些羊毛已配置可用 / 差个插件 / 暂无插件。"
+ },
+ {
+  "name": "InvisibleGuardian007/magpie-route-insight",
+  "clone": "https://github.com/InvisibleGuardian007/magpie-route-insight.git",
+  "branch": "main",
+  "sizeKB": 1599,
+  "updated": "2026-11-12T10:01:27Z",
+  "desc": "magpie 插件：把网关用量日志变成实时路由看板（首字 / 缓存命中 / 速度 / 计费）+ 供应商状态 + 模型指纹与智商检测"
+ },
+ {
+  "name": "jinyue806/Agnes-Code",
+  "clone": "https://github.com/jinyue806/Agnes-Code.git",
+  "branch": "master",
+  "sizeKB": 55,
+  "updated": "2026-11-03T07:16:44Z",
+  "desc": "Agnes Code desktop sign-in as an OpenCode/magpie provider: OpenAI-compatible gateway; live model catalog; daily check-in and points balance"
+ },
+ {
+  "name": "gu-gavin/magpie-catpaw-tools",
+  "clone": "https://github.com/gu-gavin/magpie-catpaw-tools.git",
+  "branch": "main",
+  "sizeKB": 56,
+  "updated": "2026-11-05T10:25:14Z",
+  "desc": "妙手 CatPaw (Meituan) provider plugin for magpie — native tool calling over the CLI agent protocol; live model list; parallel tool calls"
+ },
+ {
+  "name": "nickzhangcomes/claude-science-local-for-magpie",
+  "clone": "https://github.com/nickzhangcomes/claude-science-local-for-magpie.git",
+  "branch": "main",
+  "sizeKB": 85,
+  "updated": "2026-10-24T06:33:07Z",
+  "desc": "无需登录Claude Science，直接使用第三方模型。"
+ },
+ {
+  "name": "Essaim8/magpie-tool-schema-fix",
+  "clone": "https://github.com/Essaim8/magpie-tool-schema-fix.git",
+  "branch": "main",
+  "sizeKB": 11,
+  "updated": "2026-10-15T04:37:31Z",
+  "desc": ""
+ },
+ {
+  "name": "Phoen1xCode/magpie-zenmux",
+  "clone": "https://github.com/Phoen1xCode/magpie-zenmux.git",
+  "branch": "main",
+  "sizeKB": 38,
+  "updated": "2026-10-28T16:14:13Z",
+  "desc": "ZenMux provider plugin for Magpie: Builder Plan; PAYG; native protocol routing; and quota reporting."
+ },
+ {
+  "name": "Molaison/magpie-agentrouter",
+  "clone": "https://github.com/Molaison/magpie-agentrouter.git",
+  "branch": "main",
+  "sizeKB": 44,
+  "updated": "2026-11-11T11:33:38Z",
+  "desc": "Magpie for AgentRouter: automatic retry; native account failover; and gzip request compression."
+ },
+ {
+  "name": "zhuweiyou/magpie-oc2api",
+  "clone": "https://github.com/zhuweiyou/magpie-oc2api.git",
+  "branch": "main",
+  "sizeKB": 52,
+  "updated": "2026-11-07T08:45:39Z",
+  "desc": "在 magpie 里使用你在 Vercel 上的 oc2api 实例。"
+ },
+ {
+  "name": "Echo-Smith/magpie-plugin-ai-passport",
+  "clone": "https://github.com/Echo-Smith/magpie-plugin-ai-passport.git",
+  "branch": "main",
+  "sizeKB": 10,
+  "updated": "2026-11-11T17:16:36Z",
+  "desc": "Magpie plugin: push agent activity and token usage to an AI Passport wearable"
+ },
+ {
+  "name": "ksmord/poxian",
+  "clone": "https://github.com/ksmord/poxian.git",
+  "branch": "main",
+  "sizeKB": 1177,
+  "updated": "2026-11-13T12:55:04Z",
+  "desc": "magpie 网关中间件 · 一个注入点，把系统提示词写进每个经过网关的请求 | gateway system-prompt middleware for magpie"
+ },
+ {
+  "name": "anice520/magpie-opencode-console-auth",
+  "clone": "https://github.com/anice520/magpie-opencode-console-auth.git",
+  "branch": "main",
+  "sizeKB": 98,
+  "updated": "2026-11-14T07:33:47Z",
+  "desc": "Unofficial OpenCode Console and Go account plugin for Magpie: browser login; model discovery and usage windows."
+ },
+ {
+  "name": "double2tea/magpie-image-models",
+  "clone": "https://github.com/double2tea/magpie-image-models.git",
+  "branch": "main",
+  "sizeKB": 63,
+  "updated": "2026-11-12T18:20:40Z",
+  "desc": "Independent image providers for Magpie: RightImage; 12ai and WaveSpeed."
+ },
+ {
+  "name": "siml1169/ShyPie",
+  "clone": "https://github.com/siml1169/ShyPie.git",
+  "branch": "main",
+  "sizeKB": 6651,
+  "updated": "2026-11-06T21:28:49Z",
+  "desc": "ShyPie — privacy-first workflow for DeepSeek Harness + Magpie: documents are converted to text locally and PII is replaced with placeholders before anything can reach a model or the session log."
+ },
+ {
   "name": "MDX-Tom/magpie-antigravity-effort",
   "clone": "https://github.com/MDX-Tom/magpie-antigravity-effort.git",
   "branch": "main",
@@ -3344,6 +3336,78 @@
   "desc": "magpie 工具插件：模型指纹检测，查验端点背后真正的大语言模型（基于 lm-detector/lmfpd）"
  },
  {
+  "name": "MayDay-wpf/snowapp-magpie-plugin",
+  "clone": "https://github.com/MayDay-wpf/snowapp-magpie-plugin.git",
+  "branch": "main",
+  "sizeKB": 233,
+  "updated": "2026-10-29T02:45:48Z",
+  "desc": "Snow App as a magpie agent: pick a model in magpie and its API profile follows."
+ },
+ {
+  "name": "DylanLIiii/magpie-muse-bridge",
+  "clone": "https://github.com/DylanLIiii/magpie-muse-bridge.git",
+  "branch": "main",
+  "sizeKB": 272,
+  "updated": "2026-11-04T10:37:21Z",
+  "desc": "Magpie provider that drives the real Muse Code CLI (muse exec --json) and bridges client tools over MCP"
+ },
+ {
+  "name": "wmfan2002-cloud/codar-magpie",
+  "clone": "https://github.com/wmfan2002-cloud/codar-magpie.git",
+  "branch": "main",
+  "sizeKB": 160,
+  "updated": "2026-10-31T13:54:17Z",
+  "desc": "Codar (SpeedAI) as a magpie / OpenCode provider: WeChat QR sign-in with phone verification; 16 models over Chat Completions and Anthropic Messages; daily check-in; free models and points balance. Unofficial."
+ },
+ {
+  "name": "aqiu817/magpie-mask-context",
+  "clone": "https://github.com/aqiu817/magpie-mask-context.git",
+  "branch": "main",
+  "sizeKB": 10,
+  "updated": "2026-11-08T14:18:29Z",
+  "desc": "向模型解释 magpie 脱敏占位符({{API_KEY_xxxxxxxx}})的网关中间件:是什么、为何出现、逐字复用而不猜测真实值"
+ },
+ {
+  "name": "1sh1ro/magpie-model-quota",
+  "clone": "https://github.com/1sh1ro/magpie-model-quota.git",
+  "branch": "main",
+  "sizeKB": 38,
+  "updated": "2026-11-10T05:32:07Z",
+  "desc": "A magpie page that estimates how many tokens each model has left; merged across all accounts and providers"
+ },
+ {
+  "name": "broven/magpie-pareto",
+  "clone": "https://github.com/broven/magpie-pareto.git",
+  "branch": "main",
+  "sizeKB": 220,
+  "updated": "2026-11-12T08:51:44Z",
+  "desc": "magpie plugin: price × capability scatter of the models you can reach (性价比图)"
+ },
+ {
+  "name": "SivanCola/magpie-agent-deepzora",
+  "clone": "https://github.com/SivanCola/magpie-agent-deepzora.git",
+  "branch": "main",
+  "sizeKB": 79,
+  "updated": "2026-11-02T10:52:16Z",
+  "desc": "Deepzora Agent plugin for Magpie with a reversible TOML configuration bridge / Magpie 的 Deepzora Agent 插件"
+ },
+ {
+  "name": "cyanask/magpie-company-guard",
+  "clone": "https://github.com/cyanask/magpie-company-guard.git",
+  "branch": "main",
+  "sizeKB": 186,
+  "updated": "2026-11-09T10:40:04Z",
+  "desc": "Local company-name masking; reversible replies and session approvals for Magpie"
+ },
+ {
+  "name": "tviber/magpie-modelscope-videogen",
+  "clone": "https://github.com/tviber/magpie-modelscope-videogen.git",
+  "branch": "main",
+  "sizeKB": 841,
+  "updated": "2026-11-12T16:39:43Z",
+  "desc": ""
+ },
+ {
   "name": "qaz139688/magpie-skills-plugin",
   "clone": "https://github.com/qaz139688/magpie-skills-plugin.git",
   "branch": "main",
@@ -3384,6 +3448,14 @@
   "desc": "AgentRouter for magpie: site-account sign-in; auto-read model key; Responses API; content filter and daily check-in."
  },
  {
+  "name": "maxlee/magpie-token-receipt",
+  "clone": "https://github.com/maxlee/magpie-token-receipt.git",
+  "branch": "main",
+  "sizeKB": 354,
+  "updated": "2026-11-14T14:51:43Z",
+  "desc": "A magpie page that prints your token usage and cost as a tactile receipt; with PNG export."
+ },
+ {
   "name": "YangHonghang/magpie-window-warmup",
   "clone": "https://github.com/YangHonghang/magpie-window-warmup.git",
   "branch": "main",
@@ -3408,14 +3480,6 @@
   "desc": "Magpie 插件：自动识别模型，分别设置提示词，支持头部或末尾插入。"
  },
  {
-  "name": "zhdsmy/magpie-cliproxyapi-plugin",
-  "clone": "https://github.com/zhdsmy/magpie-cliproxyapi-plugin.git",
-  "branch": "main",
-  "sizeKB": 67,
-  "updated": "2026-11-09T17:08:58Z",
-  "desc": "Magpie provider for CLIProxyAPI models and optional credential quotas"
- },
- {
   "name": "harlan-zhang/magpie-deepseek-files",
   "clone": "https://github.com/harlan-zhang/magpie-deepseek-files.git",
   "branch": "main",
@@ -3432,14 +3496,6 @@
   "desc": "Sign in to a LightVela account and use its models from OpenCode or magpie"
  },
  {
-  "name": "StrayDragon/magpie-loop-guard",
-  "clone": "https://github.com/StrayDragon/magpie-loop-guard.git",
-  "branch": "main",
-  "sizeKB": 169,
-  "updated": "2026-11-12T03:53:55Z",
-  "desc": "loop-guard 是一个 magpie 网关中间件。同一个会话里，模型连续返回内容相同的回复，次数达到阈值（默认 5 次）时，loop-guard 拒绝下一个请求。循环随之停止。"
- },
- {
   "name": "Fish-under-sea/magpie-dragonapi",
   "clone": "https://github.com/Fish-under-sea/magpie-dragonapi.git",
   "branch": "main",
@@ -3448,92 +3504,12 @@
   "desc": ""
  },
  {
-  "name": "kasisama/magpie-intern-tokenplan",
-  "clone": "https://github.com/kasisama/magpie-intern-tokenplan.git",
+  "name": "zhdsmy/magpie-cliproxyapi-plugin",
+  "clone": "https://github.com/zhdsmy/magpie-cliproxyapi-plugin.git",
   "branch": "main",
-  "sizeKB": 23,
-  "updated": "2026-10-24T03:59:58Z",
-  "desc": "书生 TokenPlan API Key provider plugin for Magpie / OpenCode"
- },
- {
-  "name": "fibbery/opencode-notion-auth",
-  "clone": "https://github.com/fibbery/opencode-notion-auth.git",
-  "branch": "main",
-  "sizeKB": 81,
-  "updated": "2026-10-18T14:08:29Z",
-  "desc": "Notion AI in magpie and OpenCode: the account's own models; with tool calls emulated through a planner envelope (unofficial)"
- },
- {
-  "name": "owogametools/magpie-statusP",
-  "clone": "https://github.com/owogametools/magpie-statusP.git",
-  "branch": "main",
-  "sizeKB": 36023,
-  "updated": "2026-11-08T09:36:40Z",
-  "desc": "Magpie Panel public source and releases"
- },
- {
-  "name": "dwzyq/magpie-prompt-protection",
-  "clone": "https://github.com/dwzyq/magpie-prompt-protection.git",
-  "branch": "main",
-  "sizeKB": 333,
-  "updated": "2026-11-07T03:48:07Z",
-  "desc": "Magpie gateway middleware and management page: regex-based prompt protection with mask/reject rules and per-role scopes."
- },
- {
-  "name": "Azheyc/novaflow-magpie-plugins",
-  "clone": "https://github.com/Azheyc/novaflow-magpie-plugins.git",
-  "branch": "main",
-  "sizeKB": 1275,
-  "updated": "2026-11-09T10:16:02Z",
-  "desc": "NovaFlow for Magpie：账户模型同步、企业技能商店与配置初始化"
- },
- {
-  "name": "ForsakenDelusion/magpie-agentrouter-plus",
-  "clone": "https://github.com/ForsakenDelusion/magpie-agentrouter-plus.git",
-  "branch": "main",
-  "sizeKB": 282,
-  "updated": "2026-11-10T15:09:20Z",
-  "desc": "自主维护的 Magpie AgentRouter 插件：国内／国际 API 选择、安全 Responses 历史回放与离线回归测试"
- },
- {
-  "name": "aqiu817/magpie-freepi",
-  "clone": "https://github.com/aqiu817/magpie-freepi.git",
-  "branch": "main",
-  "sizeKB": 25,
-  "updated": "2026-11-11T11:52:00Z",
-  "desc": "free-pi（免费 AI 编码网关）的 magpie 供应商插件：GitHub 设备码登录、动态模型目录、真实每日额度"
- },
- {
-  "name": "KasenRi/magpie-plugin-updream",
-  "clone": "https://github.com/KasenRi/magpie-plugin-updream.git",
-  "branch": "main",
-  "sizeKB": 145,
-  "updated": "2026-11-11T15:26:11Z",
-  "desc": "Unofficial magpie tools plugin: call UPdream (Seedance 2.5 / 2.0) video generation from any LLM agent via MCP"
- },
- {
-  "name": "q1094/magpie-hcnsec-probe",
-  "clone": "https://github.com/q1094/magpie-hcnsec-probe.git",
-  "branch": "main",
-  "sizeKB": 21,
-  "updated": "2026-11-11T15:29:23Z",
-  "desc": "hcnsec.cn (New API) provider plugin for magpie/OpenCode: probes every listed model with one answer-unique question and only lists the ones that actually answer"
- },
- {
-  "name": "real-LEONEAST/magpie-quota-notify",
-  "clone": "https://github.com/real-LEONEAST/magpie-quota-notify.git",
-  "branch": "main",
-  "sizeKB": 1813,
-  "updated": "2026-11-11T04:24:05Z",
-  "desc": "Magpie 额度通知插件：可视化设置、额度不足与恢复提醒、重置前提醒，支持 MeoW / Bark / Webhook 推送，适用于 Docker 和 NAS。"
- },
- {
-  "name": "aibot88/magpie-agent-zap",
-  "clone": "https://github.com/aibot88/magpie-agent-zap.git",
-  "branch": "main",
-  "sizeKB": 12,
-  "updated": "2026-11-13T16:48:25Z",
-  "desc": "Zap (OpenWarp fork of Warp) as a magpie agent: pick a model on magpie's Agents page; Zap's BYOP provider follows — everything on localhost"
+  "sizeKB": 172,
+  "updated": "2026-11-09T17:08:58Z",
+  "desc": "Magpie provider for CLIProxyAPI models and optional credential quotas"
  },
  {
   "name": "RexVane/magpie-plugin-meoo-agent",
@@ -3560,14 +3536,6 @@
   "desc": "Magpie 缓存看守：缓存命中率看板与连续低命中告警。由 magpie-plugins 自动同步，支持直接安装。"
  },
  {
-  "name": "R227BOUT/magpie-meituan",
-  "clone": "https://github.com/R227BOUT/magpie-meituan.git",
-  "branch": "main",
-  "sizeKB": 123,
-  "updated": "2026-10-28T04:13:06Z",
-  "desc": "妙手 Meituan CatPaw as a Magpie provider: three-step agent chat bridged to OpenAI-compatible streaming; official credit balance card"
- },
- {
   "name": "ifmos/magpie-model-guard",
   "clone": "https://github.com/ifmos/magpie-model-guard.git",
   "branch": "main",
@@ -3590,5 +3558,117 @@
   "sizeKB": 349,
   "updated": "2026-11-13T06:31:03Z",
   "desc": "Magpie plugin bridging Feishu private chats to T3 Code via MCP."
+ },
+ {
+  "name": "R227BOUT/magpie-catpaw",
+  "clone": "https://github.com/R227BOUT/magpie-catpaw.git",
+  "branch": "main",
+  "sizeKB": 173,
+  "updated": "2026-11-14T06:58:03Z",
+  "desc": "妙手 Meituan CatPaw as a Magpie provider: three-step agent chat bridged to OpenAI-compatible streaming; official credit balance card"
+ },
+ {
+  "name": "kasisama/magpie-intern-tokenplan",
+  "clone": "https://github.com/kasisama/magpie-intern-tokenplan.git",
+  "branch": "main",
+  "sizeKB": 23,
+  "updated": "2026-10-24T03:59:58Z",
+  "desc": "书生 TokenPlan API Key provider plugin for Magpie / OpenCode"
+ },
+ {
+  "name": "fibbery/opencode-notion-auth",
+  "clone": "https://github.com/fibbery/opencode-notion-auth.git",
+  "branch": "main",
+  "sizeKB": 81,
+  "updated": "2026-10-18T14:08:29Z",
+  "desc": "Notion AI in magpie and OpenCode: the account's own models; with tool calls emulated through a planner envelope (unofficial)"
+ },
+ {
+  "name": "owogametools/magpie-statusP",
+  "clone": "https://github.com/owogametools/magpie-statusP.git",
+  "branch": "main",
+  "sizeKB": 36023,
+  "updated": "2026-11-08T09:36:40Z",
+  "desc": "Magpie Panel public source and releases"
+ },
+ {
+  "name": "Azheyc/novaflow-magpie-plugins",
+  "clone": "https://github.com/Azheyc/novaflow-magpie-plugins.git",
+  "branch": "main",
+  "sizeKB": 1275,
+  "updated": "2026-11-09T10:16:02Z",
+  "desc": "NovaFlow for Magpie：账户模型同步、企业技能商店与配置初始化"
+ },
+ {
+  "name": "ForsakenDelusion/magpie-agentrouter-plus",
+  "clone": "https://github.com/ForsakenDelusion/magpie-agentrouter-plus.git",
+  "branch": "main",
+  "sizeKB": 282,
+  "updated": "2026-11-10T15:09:20Z",
+  "desc": "自主维护的 Magpie AgentRouter 插件：国内／国际 API 选择、安全 Responses 历史回放与离线回归测试"
+ },
+ {
+  "name": "aqiu817/magpie-freepi",
+  "clone": "https://github.com/aqiu817/magpie-freepi.git",
+  "branch": "main",
+  "sizeKB": 25,
+  "updated": "2026-11-11T11:52:00Z",
+  "desc": "free-pi（免费 AI 编码网关）的 magpie 供应商插件：GitHub 设备码登录、动态模型目录、真实每日额度"
+ },
+ {
+  "name": "q1094/magpie-hcnsec-probe",
+  "clone": "https://github.com/q1094/magpie-hcnsec-probe.git",
+  "branch": "main",
+  "sizeKB": 21,
+  "updated": "2026-11-11T15:29:23Z",
+  "desc": "hcnsec.cn (New API) provider plugin for magpie/OpenCode: probes every listed model with one answer-unique question and only lists the ones that actually answer"
+ },
+ {
+  "name": "real-LEONEAST/magpie-quota-notify",
+  "clone": "https://github.com/real-LEONEAST/magpie-quota-notify.git",
+  "branch": "main",
+  "sizeKB": 1813,
+  "updated": "2026-11-11T04:24:05Z",
+  "desc": "Magpie 额度通知插件：可视化设置、额度不足与恢复提醒、重置前提醒，支持 MeoW / Bark / Webhook 推送，适用于 Docker 和 NAS。"
+ },
+ {
+  "name": "aibot88/magpie-agent-zap",
+  "clone": "https://github.com/aibot88/magpie-agent-zap.git",
+  "branch": "main",
+  "sizeKB": 12,
+  "updated": "2026-11-13T16:48:25Z",
+  "desc": "Zap (OpenWarp fork of Warp) as a magpie agent: pick a model on magpie's Agents page; Zap's BYOP provider follows — everything on localhost"
+ },
+ {
+  "name": "dwzyq/magpie-prompt-protection",
+  "clone": "https://github.com/dwzyq/magpie-prompt-protection.git",
+  "branch": "main",
+  "sizeKB": 333,
+  "updated": "2026-11-14T04:56:58Z",
+  "desc": "Magpie gateway middleware and management page: regex-based prompt protection with mask/reject rules and per-role scopes."
+ },
+ {
+  "name": "ara-hwang/magpie-deeprelay",
+  "clone": "https://github.com/ara-hwang/magpie-deeprelay.git",
+  "branch": "main",
+  "sizeKB": 17,
+  "updated": "2026-11-14T01:57:44Z",
+  "desc": "Unofficial magpie/OpenCode provider plugin for deeprelay.ai with plan usage"
+ },
+ {
+  "name": "Emilia06120878/magpie-agent-enjoy",
+  "clone": "https://github.com/Emilia06120878/magpie-agent-enjoy.git",
+  "branch": "main",
+  "sizeKB": 49,
+  "updated": "2026-11-14T12:19:43Z",
+  "desc": "Magpie agent plugin for Enjoy: put Enjoy on Magpie's Agents page and give Enjoy Magpie's models as its own."
+ },
+ {
+  "name": "hahhforest/magpie-kilo-auth",
+  "clone": "https://github.com/hahhforest/magpie-kilo-auth.git",
+  "branch": "main",
+  "sizeKB": 66,
+  "updated": "2026-11-14T06:00:56Z",
+  "desc": "Magpie / OpenCode 的 Kilo Gateway provider 插件：用 Kilo 账户 device OAuth 登录，经 Kilo Gateway 使用订阅可用的模型。"
  }
 ]
