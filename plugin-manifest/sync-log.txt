@@ -1526,3 +1526,56 @@
   ~ UPD  aqiu817/magpie-unisound  2026-11-21T11:55:37Z -> 2026-11-23T04:03:04Z
   ~ UPD  yizhang-dream/gempt  2026-11-22T18:32:12Z -> 2026-11-23T14:01:49Z
   ~ UPD  abworks-dev/magpie-aihub  2026-11-17T11:40:53Z -> 2026-11-23T19:09:19Z
+[2026-11-25 03:02:22 UTC] cloud sync: total=609 new=16 updated=36
+  + NEW  Sn1derhere/opencode-wps-comate-auth
+  + NEW  waangzh/magpie-prompt-hub
+  + NEW  NoctisWang528/magpie-openai-api-credit
+  + NEW  Higanoneko/magpie-tokenrhythm-opensquilla
+  + NEW  Gruu6y/magpie-simple-share
+  + NEW  Andykpa/zg-embed
+  + NEW  aqiu817/magpie-junie
+  + NEW  3droomdesign/magpie-plugin-3dr
+  + NEW  Sliverkiss/magpie-xiaoyiwork
+  + NEW  Neko-Yukari/aria2-mcp
+  + NEW  liliangan/magpie-GitKraken
+  + NEW  hubo1989/opencode-magnific
+  + NEW  Dela-Agent-Project/magpie-agent-dela
+  + NEW  dawn1115/opencode-ccode-auth
+  + NEW  handsomezhuzhu/MistralVibe2API
+  + NEW  xuediner-source/magpie-xiaoyiwork-auth
+  ~ UPD  DIYgod/RSSHub  2026-11-24T03:55:12Z -> 2026-11-25T02:02:54Z
+  ~ UPD  ZiChuanLan/agent-purge  2026-11-24T03:55:24Z -> 2026-11-25T00:53:22Z
+  ~ UPD  mu-zi-lee/magpie-our-free-model  2026-11-24T01:38:16Z -> 2026-11-24T15:02:00Z
+  ~ UPD  httpdone/magpie-aws-quick  2026-11-24T04:00:25Z -> 2026-11-25T02:52:52Z
+  ~ UPD  BUKOWSKIREAL/magpie-gemini-web  2026-11-24T01:54:51Z -> 2026-11-24T09:46:51Z
+  ~ UPD  yang0/magpie-gptfree  2026-11-24T02:41:47Z -> 2026-11-25T02:29:28Z
+  ~ UPD  DylanLIiii/opencode-antigravity-bridge  2026-11-23T23:22:41Z -> 2026-11-24T12:13:59Z
+  ~ UPD  YiyuZh/Codex-free-api  2026-11-17T08:45:06Z -> 2026-11-25T02:16:52Z
+  ~ UPD  JohnWangggg/magpie-muse-web  2026-11-19T18:04:47Z -> 2026-11-25T01:41:07Z
+  ~ UPD  miaocell/magpie-doubao-work-auth  2026-11-24T03:28:52Z -> 2026-11-25T00:33:17Z
+  ~ UPD  DaBinBinah/magpie-AWS-Quick-bridge  2026-11-24T02:09:10Z -> 2026-11-24T20:26:05Z
+  ~ UPD  jichie/magpie-workbuddy-tasks  2026-11-22T17:11:05Z -> 2026-11-24T15:41:36Z
+  ~ UPD  MYCF711/magpie-alysis-auth  2026-11-23T03:40:19Z -> 2026-11-24T09:12:07Z
+  ~ UPD  AaronWong1999/ccx  2026-11-23T19:51:54Z -> 2026-11-24T19:53:13Z
+  ~ UPD  lesnolie/magpie-free-gateways  2026-11-17T13:00:11Z -> 2026-11-24T09:13:40Z
+  ~ UPD  DaBinBinah/cloudbase-bridge  2026-11-24T03:32:46Z -> 2026-11-24T14:41:20Z
+  ~ UPD  kingchen95272025/magpie-agent-cursor-bridge-enhanced  2026-11-24T03:20:31Z -> 2026-11-25T02:17:47Z
+  ~ UPD  polang233/claude-desktop-zh  2026-11-23T03:21:08Z -> 2026-11-24T14:24:50Z
+  ~ UPD  risense-ai/respire-magpie  2026-11-05T15:40:32Z -> 2026-11-24T14:32:36Z
+  ~ UPD  Gruu6y/magpie-clean-login  2026-11-23T06:10:57Z -> 2026-11-24T13:31:19Z
+  ~ UPD  anbulang/opencode-teleagent-auth  2026-11-18T09:20:41Z -> 2026-11-24T04:33:19Z
+  ~ UPD  3294798852/magpie-doubao-work  2026-11-14T01:27:14Z -> 2026-11-24T13:35:50Z
+  ~ UPD  Sliverkiss/magpie-edgeone  2026-11-20T18:07:31Z -> 2026-11-25T01:36:44Z
+  ~ UPD  zseeu1/wbkit  2026-11-16T02:52:07Z -> 2026-11-24T09:17:48Z
+  ~ UPD  ksmord/zfr-magpie  2026-11-20T13:49:56Z -> 2026-11-24T13:04:10Z
+  ~ UPD  YaoGuaiLi/hangong  2026-11-10T14:10:32Z -> 2026-11-24T06:54:32Z
+  ~ UPD  chxsong/magpie-claude-desktop-1p  2026-11-24T03:30:45Z -> 2026-11-24T13:42:45Z
+  ~ UPD  Emilia06120878/magpie-agent-deeptutor  2026-11-08T07:19:39Z -> 2026-11-24T15:20:48Z
+  ~ UPD  SammySnake-d/magpie-mistral-code  2026-11-23T17:42:09Z -> 2026-11-24T05:52:12Z
+  ~ UPD  ksmord/poxian  2026-11-13T12:55:04Z -> 2026-11-24T19:02:23Z
+  ~ UPD  ColoristSansi/magpie-strata-local  2026-11-01T07:39:37Z -> 2026-11-24T15:46:47Z
+  ~ UPD  cat-clash/magpie-floatboat-installer  2026-11-22T20:41:30Z -> 2026-11-24T20:15:06Z
+  ~ UPD  FHKKMD637/magpie-yakit-free  2026-11-19T04:16:34Z -> 2026-11-24T13:05:18Z
+  ~ UPD  Purfeather/magpie-agy-rt-import  2026-11-20T12:19:47Z -> 2026-11-24T17:08:30Z
+  ~ UPD  dongv88/magpie-agent-lingxi  2026-11-24T03:57:28Z -> 2026-11-24T04:51:13Z
+  ~ UPD  qiufengwentian/magpie-plugins  2026-11-04T04:30:42Z -> 2026-11-24T23:25:52Z
