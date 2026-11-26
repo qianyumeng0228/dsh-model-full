@@ -1579,3 +1579,51 @@
   ~ UPD  Purfeather/magpie-agy-rt-import  2026-11-20T12:19:47Z -> 2026-11-24T17:08:30Z
   ~ UPD  dongv88/magpie-agent-lingxi  2026-11-24T03:57:28Z -> 2026-11-24T04:51:13Z
   ~ UPD  qiufengwentian/magpie-plugins  2026-11-04T04:30:42Z -> 2026-11-24T23:25:52Z
+[2026-11-26 02:12:36 UTC] cloud sync: total=616 new=12 updated=35
+  + NEW  zhaobomin/CAM-magpie
+  + NEW  Bemly/dsh-plug
+  + NEW  wshiqyuan/magpie-agent-vetta
+  + NEW  asterwyx/magpie-100milionseek
+  + NEW  zZ783/eazydata
+  + NEW  zuanyhuan-sudo/magpie-marvis-fix
+  + NEW  zZ783/100milionseek
+  + NEW  OpenKodo/magpie-plugin
+  + NEW  Guardinary/opencode-anyrouter-auth
+  + NEW  xinxinxiaoxin/magpie-agentrouter-relay
+  + NEW  gittutan/prepend-user-message
+  + NEW  qwt1011/magpie-antigravity-ide
+  ~ UPD  DIYgod/RSSHub  2026-11-25T02:02:54Z -> 2026-11-26T02:08:09Z
+  ~ UPD  ZiChuanLan/agent-purge  2026-11-25T00:53:22Z -> 2026-11-26T01:56:37Z
+  ~ UPD  mu-zi-lee/magpie-our-free-model  2026-11-24T15:02:00Z -> 2026-11-25T09:09:37Z
+  ~ UPD  httpdone/magpie-aws-quick  2026-11-25T02:52:52Z -> 2026-11-26T00:27:39Z
+  ~ UPD  BUKOWSKIREAL/magpie-gemini-web  2026-11-24T09:46:51Z -> 2026-11-25T06:18:34Z
+  ~ UPD  yang0/magpie-gptfree  2026-11-25T02:29:28Z -> 2026-11-26T00:31:50Z
+  ~ UPD  DylanLIiii/opencode-antigravity-bridge  2026-11-24T12:13:59Z -> 2026-11-25T16:52:53Z
+  ~ UPD  YiyuZh/Codex-free-api  2026-11-25T02:16:52Z -> 2026-11-25T21:24:48Z
+  ~ UPD  MYCF711/magpie-marvis  2026-11-23T04:17:29Z -> 2026-11-25T05:45:27Z
+  ~ UPD  miaocell/magpie-doubao-work-auth  2026-11-25T00:33:17Z -> 2026-11-25T11:34:07Z
+  ~ UPD  DaBinBinah/magpie-AWS-Quick-bridge  2026-11-24T20:26:05Z -> 2026-11-25T17:48:21Z
+  ~ UPD  DaBinBinah/cloudbase-bridge  2026-11-24T14:41:20Z -> 2026-11-25T16:34:00Z
+  ~ UPD  sabercomo/magpie-workbuddy-plus  2026-11-19T09:07:04Z -> 2026-11-25T15:15:17Z
+  ~ UPD  245678000000/magpie-doubaowork-auth  2026-11-21T16:58:18Z -> 2026-11-25T11:30:09Z
+  ~ UPD  kingchen95272025/magpie-agent-cursor-bridge-enhanced  2026-11-25T02:17:47Z -> 2026-11-25T09:12:40Z
+  ~ UPD  KevinFX-code/magpie-wps-lingxi  2026-11-17T08:07:53Z -> 2026-11-25T07:20:45Z
+  ~ UPD  yys9253462-gif/claude-ag-zh  2026-11-24T04:00:52Z -> 2026-11-25T03:11:04Z
+  ~ UPD  MYCF711/magpie-officeace  2026-11-22T18:59:09Z -> 2026-11-25T06:34:23Z
+  ~ UPD  Gyl1219/magpie-providers-hub  2026-11-21T21:38:07Z -> 2026-11-25T13:21:28Z
+  ~ UPD  MYCF711/magpie-croli  2026-11-21T04:36:24Z -> 2026-11-25T04:33:09Z
+  ~ UPD  egenchen/magpie-packycode  2026-11-20T02:28:37Z -> 2026-11-25T09:17:21Z
+  ~ UPD  lmy414/magpie-agent-trae  2026-11-19T13:36:09Z -> 2026-11-25T09:55:32Z
+  ~ UPD  321sssrt-bit/magpie-comfyui  2026-11-01T19:55:39Z -> 2026-11-25T16:25:39Z
+  ~ UPD  uoox/magpie-workbuddy-tasks  2026-11-23T20:05:55Z -> 2026-11-25T09:59:21Z
+  ~ UPD  uiuing/magpie-t3code-quotas  2026-11-22T15:50:37Z -> 2026-11-25T08:02:14Z
+  ~ UPD  liubaicai/magpie-codebuddy-cli  2026-11-23T01:20:04Z -> 2026-11-25T15:02:39Z
+  ~ UPD  yizhang-dream/gempt  2026-11-23T14:01:49Z -> 2026-11-25T18:10:34Z
+  ~ UPD  chxsong/magpie-claude-desktop-1p  2026-11-24T13:42:45Z -> 2026-11-25T13:17:18Z
+  ~ UPD  HPygmalion/magpie-plugin-agnes  2026-11-05T05:23:59Z -> 2026-11-25T06:44:15Z
+  ~ UPD  webkubor/harnessweight  2026-11-12T09:18:39Z -> 2026-11-25T04:03:04Z
+  ~ UPD  Gruu6y/magpie-simple-share  2026-11-24T13:01:13Z -> 2026-11-25T07:31:09Z
+  ~ UPD  webkubor/fovea  2026-11-10T15:42:25Z -> 2026-11-25T03:58:45Z
+  ~ UPD  handsomezhuzhu/MistralVibe2API  2026-11-24T18:39:02Z -> 2026-11-25T18:47:50Z
+  ~ UPD  Jedeiah/magpie-openbot-armor  2026-11-05T16:56:29Z -> 2026-11-25T07:25:54Z
+  ~ UPD  Molaison/magpie-agentrouter  2026-11-21T16:03:40Z -> 2026-11-25T10:11:35Z
